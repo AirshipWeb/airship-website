@@ -1,0 +1,20 @@
+{
+  "nav": [
+    {
+      "text": "Learn",
+      "link": "/learn/"
+    },
+    {
+      "text": "Software",
+      "link": "/software/"
+    },
+    {
+      "text": "Community",
+      "link": "/community/"
+    },
+    {
+      "text": "FAQs",
+      "link": "/faq/"
+    }
+  ]
+}

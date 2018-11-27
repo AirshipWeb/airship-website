@@ -1,0 +1,55 @@
+{
+  "sections": [
+    {
+      "title": "About",
+      "nav": [
+        {
+          "text": "Learn",
+          "link": "/learn/"
+        },
+        {
+          "text": "Community",
+          "link": "/community/"
+        }
+      ]
+    },
+    {
+      "title": "Connect",
+      "nav": [
+        {
+          "text": "Blog",
+          "link": "/blog/"
+        },
+        {
+          "text": "Mailing Lists",
+          "link": "#"
+        },
+        {
+          "text": "Twitter",
+          "link": "#"
+        },
+        {
+          "text": "IRC: #",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "title": "Software",
+      "nav": [
+        {
+          "text": "Code",
+          "link": "#"
+        },
+        {
+          "text": "Releases",
+          "link": "#"
+        },
+        {
+          "text": "Documentation",
+          "link": "#"
+        }
+      ]
+    }
+  ]
+}
