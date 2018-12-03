@@ -4,7 +4,7 @@
 			<div class="nav-inner">
 				<div class="nav-brand">
 					<router-link to="/">
-						<img :src="require('../theme/svg/logo.svg')" alt="xstarlings" />
+						<img :src="require('../theme/svg/logo_2color.svg')" alt="Airship" />
 					</router-link>
 				</div><!-- /.nav-brand -->
 
@@ -30,7 +30,6 @@
 							<a @click.prevent="handleNavItemClick(navItem)" href="#">{{ navItem.text }}</a>
 						</li>
 					</ul><!-- /.nav-menu -->
-
 					<div class="nav-end">
 						<!-- <b-field class="field-search">
 							<b-input placeholder="Search" type="text" icon="search" icon-pack="fas" />

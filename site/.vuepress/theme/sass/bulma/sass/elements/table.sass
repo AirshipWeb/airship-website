@@ -1,9 +1,9 @@
 $table-color: $grey-darker !default
-$table-background-color: $white !default
+$table-background-color: #F3F7FB !default
 
-$table-cell-border: 1px solid $grey-lighter !default
-$table-cell-border-width: 0 0 1px !default
-$table-cell-padding: 0.5em 0.75em !default
+$table-cell-border: 1px solid #D3DEE9 !default
+$table-cell-border-width: 0 0 2px !default
+$table-cell-padding: 0.75em 0.75em !default
 $table-cell-heading-color: $text-strong !default
 
 $table-head-cell-border-width: 0 0 2px !default
@@ -27,8 +27,9 @@ $table-striped-row-even-hover-background-color: $white-ter !default
   th
     border: $table-cell-border
     border-width: $table-cell-border-width
-    padding: $table-cell-padding
-    vertical-align: top
+    padding: 15px
+    font-size: 14px
+    vertical-align: middle
     // Colors
     @each $name, $pair in $colors
       $color: nth($pair, 1)
@@ -37,6 +38,7 @@ $table-striped-row-even-hover-background-color: $white-ter !default
         background-color: $color
         border-color: $color
         color: $color-invert
+    
     // Modifiers
     &.is-narrow
       white-space: nowrap
@@ -47,6 +49,17 @@ $table-striped-row-even-hover-background-color: $white-ter !default
       a,
       strong
         color: currentColor
+      width: 33%
+      height: 80px
+      text-align: center
+      vertical-align: middle
+    &.is-usecase-left
+      font-size: 16px
+      font-weight: bold
+      width: 33%
+    &.is-usecase-right
+      font-size: 14px
+        
   th
     color: $table-cell-heading-color
     text-align: left
@@ -64,8 +77,19 @@ $table-striped-row-even-hover-background-color: $white-ter !default
   thead
     td,
     th
-      border-width: $table-head-cell-border-width
-      color: $table-head-cell-color
+      &.is-usecase-header-left
+        border-color: $primary
+        border-right-color: white
+        border-left-color: $primary
+        color: white
+        background-color: $primary
+      &.is-usecase-header-right
+        border-color: $primary
+        border-right-color: $primary
+        border-left-color: white
+        color: white
+        background-color: $primary
+      
   tfoot
     td,
     th
@@ -81,12 +105,12 @@ $table-striped-row-even-hover-background-color: $white-ter !default
   &.is-bordered
     td,
     th
-      border-width: 1px
+      border-width: 2px
     tr
       &:last-child
         td,
         th
-          border-bottom-width: 1px
+          border-bottom-width: 2px   
   &.is-fullwidth
     width: 100%
   &.is-hoverable

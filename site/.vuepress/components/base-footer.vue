@@ -33,7 +33,7 @@
               <!-- /.footer-entry -->
               <div class="footer-brand">
                 <router-link to="/">
-                  <img :src="require('../theme/svg/logo-white.svg')" alt="airship">
+                  <img :src="require('../theme/svg/logo_white.svg')" alt="airship">
                 </router-link>
               </div>
               <!-- /.footer-brand -->

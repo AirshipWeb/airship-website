@@ -2,19 +2,22 @@
 	<section class="section-article">
 		<div class="container">
 			<article class="article level">
+
+        <figure v-if="image" class="article-image level-item level-right">
+        <a href="/images/Airship_Diagram_SimplifiedArchitecture.jpg" target="_blank">
+					<img
+						:src="image"
+						:alt="title"
+					/>
+          </a>
+				</figure><!-- /.article-image -->
 				<div class="article-content">
-					<h4 class="article-title title-main is-primary-dark">{{ title }}</h4><!-- /.article-title -->
+					<!-- /.article-title -->
 
 					<div class="article__entry">
 						<slot />
 					</div><!-- /.article__entry -->
 				</div><!-- /.article-content -->
-				<figure v-if="image" class="article-image level-item level-right">
-					<img
-						:src="image"
-						:alt="title"
-					/>
-				</figure><!-- /.article-image -->
 			</article><!-- /.article -->
 		</div><!-- /.container -->
 	</section><!-- /.section-article -->

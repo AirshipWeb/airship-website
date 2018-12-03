@@ -22,20 +22,43 @@ h1 {
 
 h2 {
   margin-bottom: 14px;
-  font-size: 30px;
+  font-size: 25px;
+  color: $primary-dark;
+}
+
+.h2_green {
+  margin-bottom: 14px;
+  font-size: 25px;
+  font-weight: 500;
   color: $primary;
+}
+
+h2.features {
+  margin-bottom: 15px;
+  padding-top: 15px;
+  font-size: 25px;
+  color: $primary-dark;
+  text-align: center;
 }
 
 h3 {
   margin-bottom: 12px;
   font-size: 20px;
   color: $primary;
+
+  &.is-software {
+    margin-bottom: 4px;
+    font-size: 20px;
+    color: $primary-dark;
+    align-content: center;
+  }
+
 }
 
 h4 {
   margin-bottom: 9px;
   font-size: 18px;
-  color: $primary;
+  color: $primary-dark;
 }
 
 h5 {
@@ -72,6 +95,26 @@ img {
   height: auto;
 }
 
+img.feature-icons {
+  vertical-align: middle;
+  max-width: 30px;
+  height: auto;
+  float: left;
+  margin-right: -100%;
+}
+
+@media (max-width: 1023px) {
+  img.feature-icons {
+    vertical-align: middle;
+    max-width: 40px;
+    height: auto;
+    float: none;
+    align-items: center;
+    margin-right: 0;
+    padding-bottom: 10px;
+  }
+
+}
 pre {
   display: block;
   border-radius: 10px;
@@ -97,4 +140,8 @@ pre {
   .code {
     font-size: 17px;
   }
+}
+
+.feature-title {
+  align-content: center;
 }

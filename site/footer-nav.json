@@ -22,15 +22,15 @@
         },
         {
           "text": "Mailing Lists",
-          "link": "#"
+          "link": "http://lists.airshipit.org/cgi-bin/mailman/listinfo"
         },
         {
           "text": "Twitter",
-          "link": "#"
+          "link": "https://twitter.com/airshipproject"
         },
         {
-          "text": "IRC: #",
-          "link": "#"
+          "text": "IRC: #airshipit",
+          "link": "https://freenode.net/"
         }
       ]
     },
@@ -39,15 +39,15 @@
       "nav": [
         {
           "text": "Code",
-          "link": "#"
+          "link": "https://git.airshipit.org/cgit"
         },
         {
           "text": "Releases",
-          "link": "#"
+          "link": "https://wiki.openstack.org/wiki/Airship_Release_Candidate"
         },
         {
           "text": "Documentation",
-          "link": "#"
+          "link": "https://airship-treasuremap.readthedocs.io/en/latest/"
         }
       ]
     }

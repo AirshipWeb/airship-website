@@ -1,6 +1,6 @@
 <template>
 	<div class="list-numeric">
-		<h5 class="list-numeric-title">{{ title }}</h5><!-- /.list-numeric-title -->
+		<h4 class="list-numeric-title">{{ title }}</h4><!-- /.list-numeric-title -->
 
 		<ul>
 			<li

@@ -1,5 +1,6 @@
 <template>
   <main class="main">
+  <div class="top-green-line"></div>
     <hero class="hero-intro is-primary" containerClass="container-thin" withEntry title="Blog">
       <template slot="entry">
         <p>Airship news, announcements, best practices, use cases and more.</p>
@@ -8,8 +9,9 @@
 
     <div class="main-inner">
       <div class="container container-thin">
-        <h4 class="main-title">All Posts</h4>
+        <h4 class="main-title" style="display: none">All Posts</h4>
         <!-- /.main-title -->
+        <br>
         <div class="main-container">
           <div class="content">
             <PostList :author="author" :category="category"/>

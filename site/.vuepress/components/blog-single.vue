@@ -3,7 +3,7 @@
 		<base-section containerClass="container-thin-alt" class="section-article-single">
 			<div class="article-single">
 				<div class="article-single-head">
-					<h3 class="article-single-title">How StarlingX is used in a specific use case that’s exciting for potential customers.</h3><!-- /.article-single-title -->
+					<h3 class="article-single-title">How Airship is used in a specific use case that’s exciting for potential customers.</h3><!-- /.article-single-title -->
 
 					<div class="article-single-meta">
 						<p>By <a href="#">John Doe in News & Announcements</a> on September 4, 2018</p>
@@ -21,7 +21,7 @@
 				</div><!-- /.article-single-entry -->
 
 				<div class="article-single-code">
-					<pre>&lt;!doctype html&gt; <br />&lt;html&gt; <br />&lt;head&gt; <br />  &lt;meta charset="utf-8" /&gt; <br />  &lt;meta name="viewport" content="width=device-width, initial-scale=1.0" /&gt; <br /> <br />  &lt;title>{ Post Title }&lt;/title&gt; <br />  &lt;!-- Include the stylesheets from your site here -- &gt; <br />  &lt;link rel="stylesheet" href="https://starlingx.io/blog.css" /&gt; <br /> <br />&lt;/head&gt;</pre>
+					<pre>&lt;!doctype html&gt; <br />&lt;html&gt; <br />&lt;head&gt; <br />  &lt;meta charset="utf-8" /&gt; <br />  &lt;meta name="viewport" content="width=device-width, initial-scale=1.0" /&gt; <br /> <br />  &lt;title>{ Post Title }&lt;/title&gt; <br />  &lt;!-- Include the stylesheets from your site here -- &gt; <br />  &lt;link rel="stylesheet" href="https://Airship.io/blog.css" /&gt; <br /> <br />&lt;/head&gt;</pre>
 				</div><!-- /.article-single-code -->
 
 				<div class="article-single-entry">
@@ -55,7 +55,7 @@
 		<base-section containerClass="container-thin-alt" class="section-boxes section-solid" withHead title="More to Read">
 			<div class="section-group">
 				<box class="box-modified box-flex box-light">
-					<article-excerpt articleLink="/" class="article-excerpt-alt" title="Another interesting article about StarlingX" author="Janice Smith in Software" date="August 26, 2018" metaLink="https://www.google.com/">
+					<article-excerpt articleLink="/" class="article-excerpt-alt" title="Another interesting article about Airship" author="Janice Smith in Software" date="August 26, 2018" metaLink="https://www.google.com/">
 						<p>Nullam elit est, commodo ac fermentum vel, fermentum maximus purus. Morbi gravida rutrum massa…</p>
 					</article-excerpt>
 				</box>

@@ -6,10 +6,11 @@
   display: flex;
 
   .article-image {
-    max-width: 60%;
+    max-width: 50%;
     flex: 0 0 auto;
+    border:1px solid #D3DEE9;
   }
-
+  
   .article-content {
     max-width: 100%;
     flex: 1 1 100%;
@@ -25,20 +26,24 @@
 
   @media (max-width: 1023px) {
     & {
-      display: block;
+      display: flex;
+      flex-direction: column-reverse;
     }
 
     .article-image {
       max-width: 100%;
       flex: 1 1 100%;
-      margin-bottom: 30px;
+      margin-bottom: 0px;
     }
 
     .article-content {
       max-width: 100%;
       flex: 1 1 100%;
       padding: 0;
+      margin-bottom: 30px;
     }
+    .article-title > .article-content {order: 1; } /* Will be displayed first  */
+    .article-title > .article-image {order: 2; } /* Will be displayed second  */
   }
 }
 
@@ -101,7 +106,7 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
     color: #313131;
 
     &:hover {
