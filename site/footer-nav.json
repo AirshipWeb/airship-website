@@ -4,8 +4,12 @@
       "title": "About",
       "nav": [
         {
-          "text": "Learn",
-          "link": "/learn/"
+          "text": "Software",
+          "link": "/software/"
+        },
+        {
+          "text": "Users",
+          "link": "/users/"
         },
         {
           "text": "Community",
@@ -16,10 +20,6 @@
     {
       "title": "Connect",
       "nav": [
-        {
-          "text": "Blog",
-          "link": "/blog/"
-        },
         {
           "text": "Mailing Lists",
           "link": "http://lists.airshipit.org/cgi-bin/mailman/listinfo"
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "title": "Software",
+      "title": "Resources",
       "nav": [
         {
           "text": "Code",

@@ -3,11 +3,7 @@ description: An overview of the Airship project
 title: Learn
 ---
 
-The introduction of containers has led to a revolution in how applications are deployed and maintained through the use of powerful container orchestration platforms like Kubernetes. Airship applies these principles of application management to datacenter operations. Airship allows operators to declare their entire infrastructure up front. Hard assets, such as bare metal servers and network settings, are managed alongside soft assets, such as the helm charts and application containers.  This declarative approach allows Airship to provide a repeatable, and predictable mechanism for maintaining service-critical infrastructure and the software running there.
-
-Airship has a single workflow for managing both initial installations and updates. An operator only needs to make a change to an Airship YAML configuration, and the Airship platform does the rest of the work. When managing complex IaaS projects such as OpenStack, anything from minor service configuration updates to major upgrades are all handled in the same way: by simply modifying the YAML configuration and submitting it to the Airship runtime.
-
-<a href="/collateral/Airship_OnePager.pdf" target="_blank"><strong>View this overview document for helpful information.</strong></a>
+Donec vulputate ullamcorper lorem. Quisque volutpat nec leo ac cursus. Phasellus consectetur ligula eget sapien elementum, a eleifend nunc bibendum. Morbi ut ultrices odio. Nunc facilisis luctus dolor ut laoreet. Quisque augue eros, mattis vel odio ut, sollicitudin molestie libero. Nunc leo nunc, consequat et commodo sit amet, suscipit eget justo. Nulla venenatis congue mattis. Maecenas tempus convallis dolor a pharetra. Nulla dictum ornare iaculis. Cras non libero rutrum, facilisis orci a, consequat nisl.
 
 <br>
 

@@ -4,7 +4,7 @@
 			<article class="article level">
 
         <figure v-if="image" class="article-image level-item level-right">
-        <a href="/images/Airship_Diagram_SimplifiedArchitecture.jpg" target="_blank">
+        <a href="/images/Airship_Diagram_SimplifiedArchitecture.jpg">
 					<img
 						:src="image"
 						:alt="title"

@@ -1,5 +1,5 @@
 <template>
-  <box withActions title="First Release of Airship Software Now Available">
+  <box withActions title="Airship Release Candidate Ready for Testing">
     <slot></slot>
 
     <template slot="actions">

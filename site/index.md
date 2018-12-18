@@ -6,7 +6,7 @@ hero:
   headline: Elevate Your Infrastructure
   button:
     title: View The Code
-    url: #
+    url: https://git.airshipit.org/cgit#
     
 getInvolvedSteps:
   - title: Join us on the mailing list
@@ -38,9 +38,9 @@ Airship is a collection of loosely coupled but interoperable open source tools t
 
 </template>
 
-<home-announcement slot="announcement" button-name="Read the blog post" link="/blog/">
+<home-announcement slot="announcement" button-name="Read the Release Notes" link="https://wiki.openstack.org/wiki/Airship_Release_Candidate">
 
-Donec vulputate ullamcorper lorem. Quisque volutpat nec leo ac cursus. Phasellus consectetur ligula eget sapien elementum, a eleifend nunc bibendum. Morbi ut ultrices odio. Nunc facilisis luctus dolor ut laoreet. Quisque augue eros, mattis vel odio ut, sollicitudin molestie libero. Nunc leo nunc, consequat et commodo sit amet, suscipit eget justo. Nulla venenatis congue mattis. Maecenas tempus convallis dolor a pharetra. Nulla dictum ornare iaculis. Cras non libero rutrum, facilisis orci a, consequat nisl.
+In November 2018, the Airship community debuted a Release Candidate, which is already being run in production at organizations like AT&T, and is ready for testing and contribution from the broader community. The community has been actively developing the release candidate since the project was introduced as an OSF pilot project in May and has achieved security at scale, scalable operations and reliable upgrades, as well nightly CI/CD validation of integrations and example deployments.The community expects to release version 1.0 in Q1 2019. 
 
 </home-announcement>
 

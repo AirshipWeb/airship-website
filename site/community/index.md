@@ -3,9 +3,35 @@ title: Community
 description: Join to contribute code, documentation, and use cases
 ---
 
-Donec vulputate ullamcorper lorem. Quisque volutpat nec leo ac cursus. Phasellus consectetur ligula eget sapien elementum, a eleifend nunc bibendum. Morbi ut ultrices odio. Nunc facilisis luctus dolor ut laoreet. Quisque augue eros, mattis vel odio ut, sollicitudin molestie libero. Nunc leo nunc, consequat et commodo sit amet, suscipit eget justo. Nulla venenatis congue mattis. Maecenas tempus convallis dolor a pharetra. Nulla dictum ornare iaculis. Cras non libero rutrum, facilisis orci a, consequat nisl.
+Airship is a global open source community independently governed at the OpenStack Foundation. Our ethos is user-driven and our culture is welcoming and respectful. We invite you to try out Airship, provide your feedback and get involved in contributing to the code. 
 
 <br>
+
+#### Try Airship
+
+- **Airship Treasuremap:** [docs.airship.io/developer_guide](https://airship-treasuremap.readthedocs.io/en/latest/)
+- **Airship in a Bottle:** [https://git.airshipit.org/cgit/airship-in-a-bottle](https://git.airshipit.org/cgit/airship-in-a-bottle/)
+
+---
+
+#### Contribute
+
+- **Developer guide:** [docs.airship.io/developer_guide](https://airshipit.readthedocs.io/en/latest/dev-getting-started.html)
+- **Gerrit repo:** [git.airship.io/cgit](//git.airship.io/cgit)
+
+---
+
+#### Collaborate
+
+Meet the team and collaborate with us at the [**Open Infrastructure Summit**](https://www.openstack.org/summit/denver-2019/) and the [**PTG.**](https://www.openstack.org/ptg/)
+
+---
+
+#### Wiki
+
+Community documentation and other resources are available at [**wiki.openstack.org/wiki/airship**](//wiki.openstack.org/wiki/airship)
+
+---
 
 #### Standing Meetings
 
@@ -19,19 +45,6 @@ The Airship community has a very active schedule of regular meetings. [**Details
 - **Mailing Lists:** [lists.airship.io](http://lists.airshipit.org/cgi-bin/mailman/listinfo)
 - **E-mail:** [info@airshipit.org](mailto:info@airshipit.org)
 - **Twitter:** [@airshipproject](//twitter.com/airshipproject)
-
----
-
-#### Contribute
-
-- **Developer guide:** [docs.airship.io/developer_guide](https://airshipit.readthedocs.io/en/latest/dev-getting-started.html)
-- **Gerrit repo:** [git.airship.io/cgit](//git.airship.io/cgit)
-
----
-
-#### Wiki
-
-Community documentation and other resources are available at [**wiki.openstack.org/wiki/airship**](//wiki.openstack.org/wiki/airship)
 
 ---
 

@@ -115,8 +115,17 @@ img.feature-icons {
   }
 
 }
+
+.preview {
+    width: 100%;
+    height: auto;
+    padding-top: 15px;
+    word-wrap: normal;
+}
+
 pre {
   display: block;
+  word-wrap: normal;
   border-radius: 10px;
   background: #282828;
   font-family: "Roboto Mono", monospace;
@@ -124,10 +133,13 @@ pre {
   font-weight: 400;
   line-height: 1.7;
   color: $white;
+  white-space: pre-wrap;
 }
 
 .code {
-  display: inline-block;
+  display: inline;
+  overflow: visible;
+  word-wrap: normal;
   padding: 5px 10px;
   border-radius: 4px;
   background: #ededed;
