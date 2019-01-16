@@ -7,38 +7,38 @@ Airship is a global open source community independently governed at the OpenStac
 
 <br>
 
-<h3 class="is-community">Try Airship</h3>
+## Try Airship
 
 - **Airship Treasuremap:** [https://airship-treasuremap.readthedocs.io/en/latest](https://airship-treasuremap.readthedocs.io/en/latest/)
 - **Airship in a Bottle:** [https://git.airshipit.org/cgit/airship-in-a-bottle](https://git.airshipit.org/cgit/airship-in-a-bottle/)
 
 ---
 
-<h3 class="is-community">Contribute</h3>
+## Contribute
 
 - **Developer guide:** [https://airshipit.readthedocs.io/en/latest/dev-getting-started.html](https://airshipit.readthedocs.io/en/latest/dev-getting-started.html)
 
 ---
 
-<h3 class="is-community">Collaborate</h3>
+## Collaborate
 
 Meet the team and collaborate with us at the [**Open Infrastructure Summit**](https://www.openstack.org/summit/denver-2019/) and the [**PTG.**](https://www.openstack.org/ptg/)
 
 ---
 
-<h3 class="is-community">Wiki</h3>
+## Wiki
 
 Community documentation and other resources are available at [**wiki.openstack.org/wiki/airship**](//wiki.openstack.org/wiki/airship)
 
 ---
 
-<h3 class="is-community">Standing Meetings</h3>
+## Standing Meetings
 
 The Airship community has a very active schedule of regular meetings. [**Details are available here**](https://wiki.openstack.org/wiki/Airship#Get_in_Touch).
 
 ---
 
-<h3 class="is-community">Communications</h3>
+## Communications
 
 - **Freenode IRC:** [#airshipit](https://wiki.openstack.org/wiki/Airship#Get_in_Touch)
 - **Mailing Lists:** [lists.airship.io](http://lists.airshipit.org/cgi-bin/mailman/listinfo)
@@ -47,7 +47,7 @@ The Airship community has a very active schedule of regular meetings. [**Details
 
 ---
 
-<h3 class="is-community">Governance</h3>
+## Governance
 
 The Airship project is governed according to the “four opens”:
 
@@ -62,6 +62,6 @@ Technical decisions will be made by technical contributors and a representative 
 
 ---
 
-<h3 class="is-community">Code of Conduct</h3>
+## Code of Conduct 
 
 Our community follows the OpenStack Foundation [**Code of Conduct**](https://www.openstack.org/legal/community-code-of-conduct/).
