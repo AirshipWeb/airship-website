@@ -14,10 +14,6 @@
         {
           "text": "Community",
           "link": "/community/"
-        },
-        {
-          "text": "Blog",
-          "link": "/blog/"
         }
       ]
     },
@@ -34,7 +30,7 @@
         },
         {
           "text": "IRC: #airshipit",
-          "link": "https://freenode.net/"
+          "link": "https://wiki.openstack.org/wiki/Airship#Get_in_Touch"
         }
       ]
     },

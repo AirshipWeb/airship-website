@@ -57,19 +57,19 @@
                 <div class="widget-body">
                   <ul class="widget-list">
                     <li>
-                      <a href="#">Mailing Lists</a>
+                      <a href="http://lists.airshipit.org/cgi-bin/mailman/listinfo">Mailing Lists</a>
                     </li>
 
                     <li>
-                      <a href="#">Weekly Calls</a>
+                      <a href="https://wiki.openstack.org/wiki/Airship#Get_in_Touch">Weekly Calls</a>
                     </li>
 
                     <li>
-                      <a href="#">Freenode IRC: #</a>
+                      <a href="https://wiki.openstack.org/wiki/Airship#Get_in_Touch ">Freenode IRC: #airshipit</a>
                     </li>
 
                     <li>
-                      <a href="#">Twitter</a>
+                      <a href="https://twitter.com/airshipproject">Twitter</a>
                     </li>
                   </ul>
                   <!-- /.widget-list -->

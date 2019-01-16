@@ -29,7 +29,6 @@
 
 	.hero-title {
 		max-width: 50%;
-		margin-bottom: 0;
 		padding-right: 24px;
 		font-size: 42px;
 		font-weight: 500;
@@ -91,8 +90,7 @@
 	text-align: center;
 
 	.hero-title {
-		font-size: 45px;
-		margin-bottom: 35px;
+		font-size: 50px;
 		font-weight: 300;
 		color: $white;
 	}
@@ -141,4 +139,12 @@
 		position: relative;
 		z-index: 10;
 	}
+}
+
+.hero-subhead {
+	font-weight: normal;
+	padding-top: 4px;
+	padding-bottom: 35px;
+	font-size: 18px;
+
 }

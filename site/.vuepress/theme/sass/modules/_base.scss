@@ -34,8 +34,8 @@ h2 {
 }
 
 h2.features {
-  margin-bottom: 15px;
-  padding-top: 15px;
+  margin-bottom: 30px;
+  padding-top: 30px;
   font-size: 25px;
   color: $primary-dark;
   text-align: center;
@@ -48,6 +48,13 @@ h3 {
 
   &.is-software {
     margin-bottom: 4px;
+    font-size: 20px;
+    color: $primary-dark;
+    align-content: center;
+  }
+
+  &.is-community {
+    margin-bottom: 15px;
     font-size: 20px;
     color: $primary-dark;
     align-content: center;

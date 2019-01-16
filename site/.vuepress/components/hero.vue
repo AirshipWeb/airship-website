@@ -11,7 +11,7 @@
 			<div :class="['container', containerClass]">
 				<div class="hero-content">
 					<h3 class="hero-title">{{ title }}</h3><!-- /.hero-title -->
-
+						<div class="hero-subhead">Airship makes operating open infrastructure <br> simple, repeatable, and resilient.</div>
 					<div v-if="withEntry" class="hero-entry">
 						<slot name="entry" />
 					</div><!-- /.hero-entry -->
