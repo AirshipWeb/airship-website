@@ -24,7 +24,7 @@ Airship has a single workflow for managing both initial installations and update
       <img src="../.vuepress/theme/svg/Airship_Icon.svg">
       </figure></div><h3 class="is-software">Get Airship</h3>
       <a href="https://git.airshipit.org/cgit">
-        Go to Git repository &nbsp <img src="../.vuepress/theme/svg/arrow-left_green.svg">
+        Go to Git Repository &nbsp <img src="../.vuepress/theme/svg/arrow-left_green.svg">
       </a></div>
     </div>
   </div>
