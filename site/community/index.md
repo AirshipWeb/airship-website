@@ -41,7 +41,7 @@ The Airship community has a very active schedule of regular meetings. [**Details
 ## Communications
 
 - **Freenode IRC:** [#airshipit](https://wiki.openstack.org/wiki/Airship#Get_in_Touch)
-- **Mailing Lists:** [lists.airship.io](http://lists.airshipit.org/cgi-bin/mailman/listinfo)
+- **Mailing Lists:** [lists.airshipit.org](http://lists.airshipit.org/cgi-bin/mailman/listinfo)
 - **E-mail:** [info@airshipit.org](mailto:info@airshipit.org)
 - **Twitter:** [@airshipproject](//twitter.com/airshipproject)
 
