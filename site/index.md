@@ -5,8 +5,8 @@ title: Home
 hero:
   headline: Elevate Your Infrastructure
   button:
-    title: View The Code
-    url: https://git.airshipit.org/cgit#
+    title: Get Started
+    url: https://airshipit.readthedocs.io/en/latest/dev-getting-started.html
     
 getInvolvedSteps:
   - title: Join us on the mailing list
@@ -34,7 +34,7 @@ getInvolvedSteps:
 
 Airship is a collection of loosely coupled but interoperable open source tools that declaratively automate cloud provisioning. Airship is a robust delivery mechanism for organizations who want to embrace containers as the new unit of infrastructure delivery at scale. Starting from raw bare metal infrastructure, Airship manages the full lifecycle of data center infrastructure to deliver a production-grade Kubernetes cluster with Helm deployed artifacts, including OpenStack-Helm. Airship allows operators to manage their infrastructure deployments and lifecycle through the declarative YAML documents that describe an Airship environment.
 
-<a href="https://git.airshipit.org/cgit/airship-in-a-bottle/" class="link is-primary">Try Airship in a Bottle ></a>
+<a href="https://git.airshipit.org/cgit/airship-in-a-bottle/" class="link is-primary"><strong>Try Airship in a Bottle</strong>></a>
 
 </template>
 

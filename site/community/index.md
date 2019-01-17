@@ -10,13 +10,14 @@ Airship is a global open source community independently governed at the OpenStac
 ## Try Airship
 
 - **Airship Treasuremap:** [https://airship-treasuremap.readthedocs.io/en/latest](https://airship-treasuremap.readthedocs.io/en/latest/)
+- **Airship Git Repository:** [https://git.airshipit.org/cgit#](https://git.airshipit.org/cgit#)
 - **Airship in a Bottle:** [https://git.airshipit.org/cgit/airship-in-a-bottle](https://git.airshipit.org/cgit/airship-in-a-bottle/)
 
 ---
 
 ## Contribute
 
-- **Developer guide:** [https://airshipit.readthedocs.io/en/latest/dev-getting-started.html](https://airshipit.readthedocs.io/en/latest/dev-getting-started.html)
+- **Developer Guide:** [https://airshipit.readthedocs.io/en/latest/dev-getting-started.html](https://airshipit.readthedocs.io/en/latest/dev-getting-started.html)
 
 ---
 
