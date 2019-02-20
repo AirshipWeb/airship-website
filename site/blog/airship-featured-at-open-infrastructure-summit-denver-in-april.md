@@ -1,6 +1,6 @@
 ---
 title: Airship featured at Open Infrastructure Summit Denver in April
-author: 'Chris Hoge, '
+author: allison-price
 date: 2019-02-20T22:50:51.535Z
 category: Summit
 ---
