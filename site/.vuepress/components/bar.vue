@@ -7,7 +7,7 @@
         </div>
         <!-- /.bar-logo -->
         <div class="bar-entry">
-          <p>Meet the Airship Community at the OpenStack Summit, November 13-15 in Berlin, Germany!</p>
+          <p>Join the Airship Community at the Open Infrastructure Summit Denver, April 29 - May 1. Register before prices increase on February 27 at 11:59pm PT</p>
         </div>
         <!-- /.bar-entry -->
         <a href="//openstack.org/summit" target="_blank" class="bar-btn">Learn More</a>
