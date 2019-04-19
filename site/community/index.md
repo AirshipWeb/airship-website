@@ -27,6 +27,12 @@ Meet the team and collaborate with us at the [**Open Infrastructure Summit**](ht
 
 ---
 
+## Learn
+
+In [**Elevate your Infrastructure using Airship**](https://www.brighttalk.com/webcast/12229/354156), Matt McEuen provides an overview of Airship and how to deploy a local production environment.
+
+---
+
 ## Wiki
 
 Community documentation and other resources are available at [**wiki.openstack.org/wiki/airship**](//wiki.openstack.org/wiki/airship)
