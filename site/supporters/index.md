@@ -1,6 +1,6 @@
 ---
-title: Supporters
 description: Advancing Airship and growing the community
+title: Supporters
 ---
 
 <section class="section section-padding-top-0">
@@ -32,7 +32,7 @@ description: Advancing Airship and growing the community
     <div class="column columns-sponsors">  <img class="img-sponsor-l4" src="/images/logo-fujitsu.svg" alt="title"  /></div>
     <div class="column columns-sponsors">  <img class="img-sponsor-l4" src="/images/logo-inspur.svg" alt="title"  /></div>
     <div class="column columns-sponsors">  <img class="img-sponsor-l4" src="/images/logo-mirantis.png" alt="title"  /></div>
-    <div class="column columns-sponsors">  <img class="img-sponsor-l4" src="/images/logo-redhat.svg" alt="title"  /></div>
+    <div class="column columns-sponsors">  <img class="img-sponsor-l4" src="/images/logo-zte.svg" alt="title"  /></div>
   </div>
   <div class="columns" style="align-items: center;justify-content: center;">
     <div class="column columns-sponsors">  <img class="img-sponsor-l4" src="/images/logo-sktelecom.svg" alt="title"  /></div>
@@ -41,7 +41,7 @@ description: Advancing Airship and growing the community
     <div class="column columns-sponsors">  <img class="img-sponsor-l4" src="/images/logo-windriver.svg" alt="title"  /></div>
   </div>
   <div class="columns" style="align-items: center;justify-content: center;">
-    <div class="column columns-sponsors">  <img class="img-sponsor-l4" src="/images/logo-zte.svg" alt="title"  /></div>
+    <div class="column columns-sponsors">  </div>
     <div class="column columns-sponsors">  </div>
     <div class="column columns-sponsors">  </div>
     <div class="column columns-sponsors">  </div>
