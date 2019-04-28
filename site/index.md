@@ -38,9 +38,9 @@ Airship is a collection of loosely coupled but interoperable open source tools t
 
 </template>
 
-<home-announcement slot="announcement" button-name="Read the Release Notes" link="https://wiki.openstack.org/wiki/Airship_Release_Candidate">
+<home-announcement slot="announcement" button-name="Read the Release Notes" link="https://wiki.openstack.org/wiki/Airship_v1.0_Release">
 
-In November 2018, the Airship community debuted a Release Candidate, which is already being run in production at organizations like AT&T, and is ready for testing and contribution from the broader community. The community has been actively developing the release candidate since the project was introduced as an OSF pilot project in May and has achieved security at scale, scalable operations and reliable upgrades, as well nightly CI/CD validation of integrations and example deployments.The community expects to release version 1.0 in Q1 2019. 
+The Airship community announced the availability of its v1.0 release in conjunction with the Open Infrastructure Summit Denver. Airship v1.0 delivers a wide range of enhancements to security, resiliency, continuous integration, and documentation as well as upgrades to the platform, deployment and tooling features. The v1.0 milestone marks production readiness of Airship for the enterprise. 
 
 </home-announcement>
 

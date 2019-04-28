@@ -7,7 +7,7 @@
           <p>Join the Airship Community at the Open Infrastructure Summit Denver, April 29 - May 1.</p>
         </div>
         <!-- /.bar-entry -->
-        <a href="//openstack.org/summit/denver-2019/" target="_blank" class="bar-btn">Learn More</a>
+        <a href="https://wiki.openstack.org/wiki/Airship_v1.0_Release" target="_blank" class="bar-btn">Learn More</a>
       </div>
       <!-- /.bar-inner -->
     </div>
