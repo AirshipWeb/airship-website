@@ -2,10 +2,7 @@
   <div class="bar is-dark-gray">
     <div class="container">
       <div class="bar-inner">
-        <div class="bar-logo">
-          <img :src="require('../theme/images/bar-logo.svg')" alt="Meet the Airship Community">
-        </div>
-        <!-- /.bar-logo -->
+        <!-- /replace logo here .bar-logo -->
         <div class="bar-entry">
           <p>Join the Airship Community at the Open Infrastructure Summit Denver, April 29 - May 1.</p>
         </div>
