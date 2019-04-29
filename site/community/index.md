@@ -1,6 +1,6 @@
 ---
+description: 'Join to contribute code, documentation, and use cases'
 title: Community
-description: Join to contribute code, documentation, and use cases
 ---
 
 Airship is a global open source community independently governed at the OpenStack Foundation. Our ethos is user-driven and our culture is welcoming and respectful. We invite you to try out Airship, provide your feedback and get involved in contributing to the code. 
@@ -30,6 +30,8 @@ Meet the team and collaborate with us at the [**Open Infrastructure Summit**](ht
 ## Learn
 
 In [**Elevate your Infrastructure using Airship**](https://www.brighttalk.com/webcast/12229/354156), Matt McEuen provides an overview of Airship and how to deploy a local production environment.
+
+[**In Elevating DevOps and Enabling 5G with Airship**](https://about.att.com/innovationblog/2019/04/devops_and_5g_with_airship.html), Amy Wheelus provides an overview on how within AT&T, Airship has allowed them to provide operations with a single work flow for all changes within the Network Cloud.
 
 ---
 
