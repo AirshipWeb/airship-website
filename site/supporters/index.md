@@ -12,7 +12,6 @@ title: Supporters
 
 <div class="container1">
   <h2 class="features">Thank you to the employers of Contributors to the 1.0 Release</h2>
-  <p>&nbsp;</p>
 </div>
 
 <div class="container container-center">
