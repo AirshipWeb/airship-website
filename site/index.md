@@ -40,7 +40,7 @@ Airship is a collection of loosely coupled but interoperable open source tools t
 
 <home-announcement slot="announcement" button-name="Read the Release Notes" link="https://wiki.openstack.org/wiki/Airship_v1.0_Release">
 
-The Airship community announced the availability of its v1.0 release in conjunction with the Open Infrastructure Summit Denver. Airship v1.0 delivers a wide range of enhancements to security, resiliency, continuous integration, and documentation as well as upgrades to the platform, deployment and tooling features. The v1.0 milestone marks production readiness of Airship for the enterprise. 
+The Airship community announced the availability of its <a href="https://opendev.org/airship/treasuremap/src/tag/v1.0" target="_blank">v1.0 release</a> in conjunction with the Open Infrastructure Summit Denver. <a href="https://opendev.org/airship/treasuremap/src/tag/v1.0" target="_blank">Airship v1.0</a> delivers a wide range of enhancements to security, resiliency, continuous integration, and documentation as well as upgrades to the platform, deployment and tooling features. The v1.0 milestone marks production readiness of Airship for the enterprise. 
 
 </home-announcement>
 

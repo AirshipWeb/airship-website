@@ -23,7 +23,7 @@ Airship has a single workflow for managing both initial installations and update
      <div class="box-text"><div class="software-icon"><figure class="image is-64x64">
       <img src="../.vuepress/theme/svg/Airship_Icon.svg">
       </figure></div><h3 class="is-software">Get Airship</h3>
-      <a href="https://git.airshipit.org/cgit">
+      <a href="https://opendev.org/airship/treasuremap/">
         Go to Git Repository &nbsp <img src="../.vuepress/theme/svg/arrow-left_green.svg">
       </a></div>
     </div>
