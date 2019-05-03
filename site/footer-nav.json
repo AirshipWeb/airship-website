@@ -39,7 +39,7 @@
       "nav": [
         {
           "text": "Code",
-          "link": "https://git.airshipit.org/cgit"
+          "link": "https://opendev.org/airship/treasuremap"
         },
         {
           "text": "Releases",
