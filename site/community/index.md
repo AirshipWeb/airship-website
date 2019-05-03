@@ -10,8 +10,8 @@ Airship is a global open source community independently governed at the OpenStac
 ## Try Airship
 
 - **Airship Treasuremap:** [https://airship-treasuremap.readthedocs.io/en/latest](https://airship-treasuremap.readthedocs.io/en/latest/)
-- **Airship Git Repository:** [https://git.airshipit.org/cgit#](https://git.airshipit.org/cgit#)
-- **Airship in a Bottle:** [https://git.airshipit.org/cgit/airship-in-a-bottle](https://git.airshipit.org/cgit/airship-in-a-bottle/)
+- **Airship Git Repository:** [https://opendev.org/airship/treasuremap](https://opendev.org/airship/treasuremap)
+- **Airship in a Bottle:** [https://opendev.org/airship/in-a-bottle](https://opendev.org/airship/in-a-bottle)
 
 ---
 
@@ -28,12 +28,6 @@ Meet the team and collaborate with us at the [**Open Infrastructure Summit**](ht
 ---
 
 ## Learn
-
-[**Airship – Project Update**](https://www.openstack.org/videos/summits/berlin-2018/airship-project-update) at the Berlin Open Infrastructure Summit
- 
-[**Airship-Deckhand: realizing configuration management reliably and predictably**](https://www.openstack.org/videos/summits/berlin-2018/airship-deckhand-realizing-configuration-management-reliably-and-predictably)
- 
-[**Airship: making lifecycle management for open infrastructure repeatable and predictable**](https://www.openstack.org/videos/summits/vancouver-2018/airship-making-lifecycle-management-for-open-infrastructure-repeatable-and-predictable).
 
 In [**Elevate your Infrastructure using Airship**](https://www.brighttalk.com/webcast/12229/354156), Matt McEuen provides an overview of Airship and how to deploy a local production environment.
 
