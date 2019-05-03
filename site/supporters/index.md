@@ -4,6 +4,7 @@ title: Supporters
 ---
 
 <section class="section section-padding-top-0">
+<p>If you are using airship and would like to be recognized as a airship supporter, please connect with us.</p>
 <a href="mailto:info@airshipit.org" class="button is-primary-dark is-rounded"><span>SUPPORT Airship</span>
   <span class="ico">
     <img src="../.vuepress/theme/svg/arrow-left.svg" alt="Learn More" />
