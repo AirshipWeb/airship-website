@@ -4,12 +4,13 @@ author: ashleigh-gregory
 date: 2019-06-05T22:50:51.535Z
 category: Summit
 ---
-
 Did you miss any Airship news or updates at the Open Infrastructure Summit?
 
 We’ve got you covered.
 
 With Airship’s exciting announcement of the availability of its [1.0 release](https://wiki.openstack.org/wiki/Airship_v1.0_Release) at the Open Infrastructure Summit in Denver, Colorado on April 29, 2019, everyone was eager to hear more about the software features and how it’s used in production.<!-- more -->
+
+![](/images/screen-shot-2019-06-05-at-2.56.59-pm.png)
 
 To catch up, check out their sessions below:
 
