@@ -11,36 +11,37 @@ category: Airship 2.0
 
 Cloud Operators experience challenges in creating, updating, and managing the entire lifecycle of their own private cloud infrastructure, such as:
 
-- Lengthy and complicated processes;
-- The need for custom development to enable an ecosystem of various open source and proprietary software integrated into one cloud platform;
-- Demands for resources with a wide array of deep skillsets;
-- Difficulties keeping up with the cadence of new open source releases due to the slow process of deployment and upgrades; and
-- Challenges of scalability and security.
+1. Lengthy and complicated processes;
+2. The need for custom development to enable an ecosystem of various open source and proprietary software integrated into one cloud platform;
+3. Demands for resources with a wide array of deep skillsets;
+4. Difficulties keeping up with the cadence of new open source releases due to the slow process of deployment and upgrades; and
+5. Challenges of scalability and security.
 
+<br>
 
 
 Thus it becomes more difficult than it should be to support Software Defined Networks (SDN) with open infrastructure and more specifically private clouds. This is holding back the industry from working on more advanced enterprise grade solutions. In another word, if we don't make it easy to deploy, upgrade and manage the lifecycle with resiliency and security, our software engineers are not able to focus on delivering other innovations and help accelerate Open Infrastructure growth and SDN.
 
 When AT&T, SKT and Intel set out to apply the learnings from years of building and managing Open Infrastructure at scale, we set clear goals to solve these very challenges:
 
-- **Open Source Orchestration with Batteries Included**: There is no need for operators to make extra effort to write wrappers and custom code to deliver an integrated cloud platform that works for them.
-- **Simplified Singular Deployment Method**: Only one workflow is needed for greenfield deployments, upgrades etc. thus simplifies both the platform itself and the management of the platform. At the same time, it reduces the list of skillsets needed to allow operators to manage at scale clouds with smaller teams.
-- **Predictable Fast and Seamless Deployments and Upgrades of the End-to-End Platform**: Without predictability you cannot move fast to maintain cadence with open source releases, and you cannot scale.
-- **Resiliency and Enterprise-Grade Security Built In From the Ground Up**: Typically this is an afterthought for the operator to solve. Our goal is to build it in day 1, and evolve upstream based on real world application.
-- **Not Be Opinionated on the Use Case**: To meet the goal of moving the industry forward, it would need to be flexible enough to enable deployments of many sizes and configurations, thus allowing for different industry segments and use case adoption.
+1. **Open Source Orchestration with Batteries Included**: There is no need for operators to make extra effort to write wrappers and custom code to deliver an integrated cloud platform that works for them.
+2. **Simplified Singular Deployment Method**: Only one workflow is needed for greenfield deployments, upgrades etc. thus simplifies both the platform itself and the management of the platform. At the same time, it reduces the list of skillsets needed to allow operators to manage at scale clouds with smaller teams.
+3. **Predictable Fast and Seamless Deployments and Upgrades of the End-to-End Platform**: Without predictability you cannot move fast to maintain cadence with open source releases, and you cannot scale.
+4. **Resiliency and Enterprise-Grade Security Built In From the Ground Up**: Typically this is an afterthought for the operator to solve. Our goal is to build it in day 1, and evolve upstream based on real world application.
+5. **Not Be Opinionated on the Use Case**: To meet the goal of moving the industry forward, it would need to be flexible enough to enable deployments of many sizes and configurations, thus allowing for different industry segments and use case adoption.
 
-
+<br>
 
 ## **Why Airship?**
 
 To evolve how we deliver our cloud platform as well as manage the lifecycle of the software running there, including OpenStack, we collaboratively created Airship.
 
-- **Declarative**: Sites are declared using YAML. This includes both hard assets such as network configuration and bare metal hosts as well as soft assets like helm charts, their overrides, and container images. Operators manage the documents and Airship does the implementation.
-- **One Workflow for Lifecycle Management**: We need a system that is predictable with lifecycle management at its core. This means one workflow handling both initial deployments and site updates. In another word, a new deployment and an update to an existing site should be virtually identical.
--  **Containers Are the New and Only Unit of Software Delivery**: Containers are the unit of software delivery for Airship. Everything that can be a container is a container. This allows us to progress environments from development to testing and finally production with confidence that the same software is being used.
-- **Flexible for Different Architectures and Software**: Airship is delivering environments both very small and large with a wide range of configurations. AT&T uses Airship to manage our entire cloud platform, not just OpenStack.
+1. **Declarative**: Sites are declared using YAML. This includes both hard assets such as network configuration and bare metal hosts as well as soft assets like helm charts, their overrides, and container images. Operators manage the documents and Airship does the implementation.
+2. **One Workflow for Lifecycle Management**: We need a system that is predictable with lifecycle management at its core. This means one workflow handling both initial deployments and site updates. In another word, a new deployment and an update to an existing site should be virtually identical.
+3. **Containers Are the New and Only Unit of Software Delivery**: Containers are the unit of software delivery for Airship. Everything that can be a container is a container. This allows us to progress environments from development to testing and finally production with confidence that the same software is being used.
+4. **Flexible for Different Architectures and Software**: Airship is delivering environments both very small and large with a wide range of configurations. AT&T uses Airship to manage our entire cloud platform, not just OpenStack.
 
-
+<br>
 
 The Airship project grew out of the [OpenStack Helm](https://docs.openstack.org/openstack-helm/latest/readme.html) project, which itself grew out of the Cloud Native Computing Foundation [Helm Project](https://www.linux.com/blog/event/kubecon/2018/4/put-wind-your-deployments-kubernetes-and-helm). [Helm](https://helm.sh/) is a package manager for [Kubernetes](https://www.sdxcentral.com/articles/news/aws-plan-battle-google-using-kubernetes/2017/07/).
 
