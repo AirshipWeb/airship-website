@@ -1,4 +1,4 @@
 ---
-name: Ryan Van Wyk
+name: Ryan van Wyk
 company: AT&T
 ---
