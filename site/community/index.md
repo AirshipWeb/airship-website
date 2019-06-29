@@ -11,7 +11,7 @@ Airship is a global open source community independently governed at the OpenStac
 
 - **Airship Treasuremap:** [https://airship-treasuremap.readthedocs.io/en/latest](https://airship-treasuremap.readthedocs.io/en/latest/)
 - **Airship Git Repository:** [https://opendev.org/airship/treasuremap](https://opendev.org/airship/treasuremap)
-- **Airship in a Bottle:** [https://opendev.org/airship/in-a-bottle](https://opendev.org/airship/in-a-bottle)
+- **Airship in a Bottle:** [https://opendev.org/airship/treasuremap/src/branch/master/tools/deployment/aiab](https://opendev.org/airship/treasuremap/src/branch/master/tools/deployment/aiab)
 
 ---
 
