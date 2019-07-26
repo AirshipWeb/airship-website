@@ -17,7 +17,7 @@ Airship is a global open source community independently governed at the OpenStac
 
 ## Contribute
 
-- **Developer Guide:** [https://airshipit.readthedocs.io/en/latest/dev-getting-started.html](https://airshipit.readthedocs.io/en/latest/dev-getting-started.html)
+- **Developer Guide:** [https://airship-docs.readthedocs.io/en/latest/dev-getting-started.html](https://airship-docs.readthedocs.io/en/latest/dev-getting-started.html)
 
 ---
 
