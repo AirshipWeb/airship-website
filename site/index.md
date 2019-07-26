@@ -6,7 +6,7 @@ hero:
   headline: Elevate Your Infrastructure
   button:
     title: Get Started
-    url: https://airshipit.readthedocs.io/en/latest/dev-getting-started.html
+    url: https://airship-docs.readthedocs.io/en/latest/dev-getting-started.html
     
 getInvolvedSteps:
   - title: Join us on the mailing list
