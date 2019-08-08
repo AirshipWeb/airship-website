@@ -4,10 +4,10 @@
       <div class="bar-inner">
         <!-- /replace logo here .bar-logo -->
         <div class="bar-entry">
-          <p>The Airship community is excited to announce the availability of its v1.0 release.</p>
+          <p>Get involved with the Airship community at the Open Infrastructure Summit Shanghai!</p>
         </div>
         <!-- /.bar-entry -->
-        <a href="https://wiki.openstack.org/wiki/Airship_v1.0_Release" target="_blank" class="bar-btn">Learn More</a>
+        <a href="https://www.airshipit.org/blog/airship-shanghai.html" target="_blank" class="bar-btn">View Sessions</a>
       </div>
       <!-- /.bar-inner -->
     </div>
