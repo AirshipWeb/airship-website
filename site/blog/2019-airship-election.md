@@ -10,7 +10,9 @@ The [Technical Committee](https://opendev.org/airship/governance/src/branch/mast
 one of the two governing bodies for Airship, is responsible for ensuring
 Airship projects adhere to the project’s core principles, promote
 standardization, and define and organize the Airship versioning and release
-process. The complete slate of candidates represented six leaders from six
+process. <!-- more -->
+
+The complete slate of candidates represented six leaders from six
 different companies, a reflection of the growth of the Airship project since it
 was formally announced in early 2018. The Airship Technical Committee is
 composed of five elected members:
