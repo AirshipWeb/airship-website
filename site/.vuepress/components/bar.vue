@@ -7,7 +7,7 @@
           <p>Get involved with the Airship community at the Open Infrastructure Summit Shanghai!</p>
         </div>
         <!-- /.bar-entry -->
-        <a href="//openstack.org/summit/shanghai-2019/summit-schedule/global-search?t=airship" target="_blank" class="bar-btn">View Sessions</a>
+        <a href="//airshipit.org/blog/Airship-at-the-Open%20Infrastructure-Summit-Shanghai-in-November.html" target="_blank" class="bar-btn">View Sessions</a>
       </div>
       <!-- /.bar-inner -->
     </div>
