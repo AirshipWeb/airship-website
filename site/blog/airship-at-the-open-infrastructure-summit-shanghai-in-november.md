@@ -9,7 +9,7 @@ Summit](https://www.openstack.org/summit/shanghai-2019/) in Shanghai, November
 4-6. The Airship community will join 30 other open source projects attending the
 Summit to collaborate in the open. If you want to be part of it too [register
 now](http://openstack.org/summit/shanghai-2019) before prices increase on August
-14 at 11:59pm PT.
+14 at 11:59pm PT. <!-- more -->
 
 For 2019, the Summit has expanded and rebranded from the OpenStack Summit to
 the Open Infrastructure Summit, reflecting the large number of open source
