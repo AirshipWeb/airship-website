@@ -7,7 +7,7 @@
           <p>Get involved with the Airship community at the Open Infrastructure Summit Shanghai!</p>
         </div>
         <!-- /.bar-entry -->
-        <a href="//airshipit.org/blog/Airship-at-the-Open%20Infrastructure-Summit-Shanghai-in-November.html" target="_blank" class="bar-btn">View Sessions</a>
+        <a href="https://www.airshipit.org/blog/airship-at-the-open-infrastructure-summit-shanghai-in-november.html" target="_blank" class="bar-btn">View Sessions</a>
       </div>
       <!-- /.bar-inner -->
     </div>
