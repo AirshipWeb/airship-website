@@ -4,10 +4,10 @@
       <div class="bar-inner">
         <!-- /replace logo here .bar-logo -->
         <div class="bar-entry">
-          <p>Get involved with the Airship community at the Open Infrastructure Summit Shanghai!</p>
+          <p>Airship was recently confirmed as a Top-Level Open Infrastructure Project supported by the OpenStack Foundation</p>
         </div>
         <!-- /.bar-entry -->
-        <a href="https://www.airshipit.org/blog/airship-at-the-open-infrastructure-summit-shanghai-in-november.html" target="_blank" class="bar-btn">View Sessions</a>
+        <a href="https://www.airshipit.org/blog/airship-update-october-2019.html" target="_blank" class="bar-btn">Congratulations to the Community!</a>
       </div>
       <!-- /.bar-inner -->
     </div>
