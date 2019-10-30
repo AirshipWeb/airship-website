@@ -1,7 +1,7 @@
 ---
 title: Airship Update - October 2019
 author: alex-hughes
-date: 2019-10-22T03:00:00.000Z
+date: 2019-10-30T12:00:00.000Z
 category: Airship 2.0
 ---
 
@@ -21,11 +21,22 @@ What follows is the Airship Community Update for the month of October, 2019, bro
 
 <br>
 
+## **THE GROWTH OF COMMUNITY**
+
+- 5 consecutive OpenStack releases of contributor growth
+- Achieved 4,000 all-time commits
+- Reached 200 unique all-time authors
+- Over 100 contributors during the OpenStack Train release
+
+![](/images/growth-of-community-201910.png)
+
 ## **THE AIRSHIP BLOG**
 
-The Airship blog is a great way to keep up with what's going on in the community. The Airship community publishes [blog posts](https://www.airshipit.org/blog/) regularly, including the recent [Airship 2.0 Blog Series 4 "Shipyard - an Evolution of the Front Door"](https://www.airshipit.org/blog/airship-blog-series-4-shipyard-an-evolution-of-the-front-door.html):
+The Airship blog is a great way to keep up with what's going on in the community. The Airship community publishes [blog posts](https://www.airshipit.org/blog/) regularly, including the recent:
 
-- Shipyard provides a frontend API within Airship environments that allows users to push their declared documents into sites and execute pre-defined Directed Acyclic Graphs (DAGs) against those declarations. DAG is a directed graph data structure for topological ordering. From an architectural perspective, this is what Shipyard looks like today and how it interacts with other Airship components. Read more: https://www.airshipit.org/blog/airship-blog-series-4-shipyard-an-evolution-of-the-front-door.html.
+- [Airship 2.0 Blog Series 4 "Shipyard - an Evolution of the Front Door"](https://www.airshipit.org/blog/airship-blog-series-4-shipyard-an-evolution-of-the-front-door.html): Shipyard provides a frontend API within Airship environments that allows users to push their declared documents into sites and execute pre-defined Directed Acyclic Graphs (DAGs) against those declarations. DAG is a directed graph data structure for topological ordering. From an architectural perspective, this is what Shipyard looks like today and how it interacts with other Airship components. Read more: [https://www.airshipit.org/blog/airship-blog-series-4-shipyard-an-evolution-of-the-front-door.html](https://www.airshipit.org/blog/airship-blog-series-4-shipyard-an-evolution-of-the-front-door.html).
+
+- [Airship 2.0 Blog Series #5 "Drydock and Its Relationship to Cluster API"](https://www.airshipit.org/blog/airship-blog-series-5-drydock-and-its-relationship-to-cluster-api.html): As part of the evolution of Airship 1.0, an enduring goal has remained supporting multiple provisioning backends beyond just bare metal. This includes those that can provision to third-party clouds and to other use cases like OpenStack VMs as well as enable you to bring your own infrastructure. Read more: [https://www.airshipit.org/blog/airship-blog-series-5-drydock-and-its-relationship-to-cluster-api.html](https://www.airshipit.org/blog/airship-blog-series-5-drydock-and-its-relationship-to-cluster-api.html).
 
 <br>
 
