@@ -65,8 +65,10 @@ These are initial reports, and the community is working on more. Let us know wha
 
 ## **GET INVOLVED**
 
-Want to get involved? This [page](https://www.airshipit.org/community/) lists everything you need to know.
+This [page](https://www.airshipit.org/community/) lists everything you need to know to get involved and start contributing. 
 
-Get involved and start contributing—we want to hear from you!
+If you have any news related to Airship, for example, if your organization has started to use it or contribute to it, please share that with the [Airship community mailing list](http://lists.airshipit.org/cgi-bin/mailman/listinfo/airship-discuss) as well.
+
+We want to hear from you!
 
 [**Airship Technical Committee**](https://wiki.openstack.org/wiki/Airship/Airship-TC)
