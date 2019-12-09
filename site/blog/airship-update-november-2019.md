@@ -65,7 +65,7 @@ These are initial reports, and the community is working on more. Let us know wha
 
 ## **GET INVOLVED**
 
-Want to get involved? This [*page*](https://www.airshipit.org/community/) lists everything you need to know.
+Want to get involved? This [page](https://www.airshipit.org/community/) lists everything you need to know.
 
 Get involved and start contributing—we want to hear from you!
 
