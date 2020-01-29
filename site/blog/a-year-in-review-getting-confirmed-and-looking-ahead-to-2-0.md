@@ -1,6 +1,6 @@
 ---
 title: 'A year in review: getting confirmed and looking ahead to 2.0'
-author: Airship Technical Committee
+author: alex-hughes
 date: 2020-01-28T21:29:57.592Z
 category: News & Announcements
 ---
