@@ -1,7 +1,7 @@
 ---
 title: 'A year in review: getting confirmed and looking ahead to 2.0'
 author: alex-hughes
-date: 2020-01-28T21:29:57.592Z
+date: 2020-01-29T22:44:03.620Z
 category: News & Announcements
 ---
 [Airship](https://www.airshipit.org/) established incredible momentum in 2019, including confirmation by the OSF as a top-level project in October, a crucial stage of Airship’s maturity. <!-- more -->
