@@ -4,7 +4,9 @@ author: alex-hughes
 date: 2020-01-28T21:29:57.592Z
 category: News & Announcements
 ---
-[Airship](https://www.airshipit.org/) established incredible momentum in 2019, including confirmation by the OSF as a top-level project in October, a crucial stage of Airship’s maturity. <!-- more -->The confirmation as a top-level project signifies the community’s many accomplishments since being announced as a pilot project supported by the OSF in May 2018, namely:
+[Airship](https://www.airshipit.org/) established incredible momentum in 2019, including confirmation by the OSF as a top-level project in October, a crucial stage of Airship’s maturity. <!-- more -->
+
+The confirmation as a top-level project signifies the community’s many accomplishments since being announced as a pilot project supported by the OSF in May 2018, namely:
 
 * Airship's deep involvement with the OSF community
 * Active participation in both Open Infrastructure Summits and Project Teams Gathering (PTG)
