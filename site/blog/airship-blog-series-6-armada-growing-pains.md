@@ -1,5 +1,5 @@
 ---
-title: 'Aramada - Growing Pains'
+title: Airship Blog Series 6 - Armada Growing Pains
 author: alan-pacheco
 date: 2020-01-30T15:25:05.000Z
 category: News & Announcements
@@ -21,8 +21,8 @@ Armada consists of three separate but complementary components:
 
 1. CLI component which interfaces directly with [Tiller](https://docs.helm.sh/using_helm/#easy-in-cluster-installation).
 2. API component which services user requests through a WSGI server (which in turn communicates with the
-[Tiller](https://docs.helm.sh/using_helm/#easy-in-cluster-installation) server)
-and provides the following additional functionality:
+[Tiller](https://docs.helm.sh/using_helm/#easy-in-cluster-installation) server) and provides the following additional
+functionality:
     * Authentication provided by Keystone (optional).
     * Role-Based Access Control.
     * Limiting projects to specific [Tiller](https://docs.helm.sh/using_helm/#easy-in-cluster-installation)
