@@ -39,7 +39,7 @@ and provides the following additional functionality:
 
 The picture below depicts this in the Airship 1.0 architecture:
 
-![](images/armada-dependencies.png)
+![](/images/armada-dependencies.png)
 
 Armada as a standalone component of Airship has been embraced by many users that take advantage of it, such as SKT
 Telekom, Intel, WindRiver, and others.
@@ -80,7 +80,7 @@ is and what the status is of each component using standard tools like kubectl.
 
 The picture below highlights Armada in Airship 2.0:
 
-![](images/armada-2.png)
+![](/images/armada-2.png)
 
 The natural progression for Armada after embracing CRDs, would be to rewrite the core in Golang, and refactor it as
 Kubernetes operator. An Operator is a method of packaging, deploying and managing a Kubernetes application. Although
@@ -100,7 +100,7 @@ Helm v3 charts.
 The image below depicts the intended use of the parallel paths for the Armada functionality evolution in Airship 2.0
 mentioned above.
 
-![](images/armada-evolution.png)
+![](/images/armada-evolution.png)
 
 In the next blog post, we will discuss how we are evolving the cluster deployment from using Promenade to kubeadm and
 the cluster-api. We will dive into the evolution of how we will do cluster deployment in a Kubernetes native way. We
