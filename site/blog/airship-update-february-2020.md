@@ -13,7 +13,9 @@ What follows is the Airship Community Update for the month of February 2020, bro
     - Andrew Leasck (AT&T) to the Technical Committee
     - Ian Pittwood (Accenture) to the Working Committee
 - Airship's year in review was featured in the OpenStack Foundation Annual Report. For more information
-  see the [blog post](https://www.airshipit.org/blog/a-year-in-review-getting-confirmed-and-looking-ahead-to-2-0.html).
+  see this [blog post](https://www.airshipit.org/blog/a-year-in-review-getting-confirmed-and-looking-ahead-to-2-0.html).
+
+<br>
 
 ## **AIRSHIP BLOG**
 
@@ -35,12 +37,16 @@ component. The first six Airship 2.0 Blog posts are already available:
 - [*Airship Blog Series 6 - Armada Growing Pains*](
    https://www.airshipit.org/blog/airship-blog-series-6-armada-growing-pains.html)
 
+<br>
+
 ## **AIRSHIP 2: THE SEQUEL**
 
 Recently Ryan van Wyk narrated a great, short, video discussing Airship - and the evolution to Airship2.  It's a must
 see for anyone interested in Airship.
 
 [![](/images/airship2-video-thumbnail.png)](https://www.youtube.com/watch?v=xt400lkgvTA)
+
+<br>
 
 ## **JIRA MIGRATION TO GITHUB ISSUES**
 The Airship Community is embracing [GitHub Issues](https://github.com/airshipit/airshipctl/issues) for tracking Airship
@@ -57,22 +63,29 @@ To date 40 issues have been created, and 7 of them have been completed already. 
 Flight Plan](https://wiki.openstack.org/wiki/Airship#AIRSHIP_Flight_Plan_-_Community_Management_Meetings) call to groom
 and discuss issues that the community is working on.
 
-Note that the [Jira Board](https://airship.atlassian.net/projects/AIR/issues) will be retired as part of this migration,
-and that the relevant Jira issues have been migrated to [GitHub Issues](https://github.com/airshipit/airshipctl/issues).
-
 The call is on Wednesdays, from 16:00-17:00 UTC on [WebEx](
 https://attcorp.webex.com/attcorp/j.php?MTID=m601b443aab0cf49ee8b75401dd6e1649) and the agenda/notes can be found in the
 [Etherpad](https://etherpad.openstack.org/p/Airship_FlightPlan).
 
+Note that the [Jira Board](https://airship.atlassian.net/projects/AIR/issues) will be retired as part of this migration,
+and that the relevant Jira issues have been migrated to [GitHub Issues](https://github.com/airshipit/airshipctl/issues).
+
+<br>
+
 ## **GET INVOLVED**
 
-This [page](https://www.airshipit.org/community/) lists everything you need to know to get involved and start contributing. 
+This [page](https://www.airshipit.org/community/) lists everything you need to know to get involved and start
+contributing. 
 
-If you have any news related to Airship, for example, if your organization has started to use it or contribute to it, please share that with the [Airship community mailing list](http://lists.airshipit.org/cgi-bin/mailman/listinfo/airship-discuss) as well.
+If you have any news related to Airship, for example, if your organization has started to use it or contribute to it,
+please share that with the [Airship community mailing list](
+http://lists.airshipit.org/cgi-bin/mailman/listinfo/airship-discuss) as well.
 
 We want to hear from you!
 
 [**Airship Technical Committee**](https://wiki.openstack.org/wiki/Airship/Airship-TC)
+
+<br>
 
 ## **HOW TO SUBSCRIBE/UNSUBSCRIBE TO THIS NEWSLETTER**
 
