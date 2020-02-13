@@ -23,7 +23,7 @@ Airship is a global open source community independently governed at the OpenStac
 
 ## Collaborate
 
-Meet the team and collaborate with us at the [**Open Infrastructure Summit**](https://www.openstack.org/summit/denver-2019/) and the [**PTG.**](https://www.openstack.org/ptg/)
+Meet the team and collaborate with us at [**OpenDev + PTG.**](https://www.openstack.org/events/opendev-ptg-2020/)
 
 ---
 
