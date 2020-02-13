@@ -9,7 +9,7 @@ What follows is the Airship Community Update for the month of February 2020, bro
 
 ## **SPOTLIGHT ON ....**
 
-- The Airship Technical and Working Committees each had special elections in January. We welcome
+- The Airship Technical and Working Committees each had special elections in January. We welcome:
     - [Andrew Leasck](https://opendev.org/airship/election/raw/branch/master/candidates/2020/TC/al7689@att.com) (AT&T)
     to the Technical Committee.
     - [Ian Pittwood](https://opendev.org/airship/election/raw/branch/master/candidates/2020/WC/pittwoodian@gmail.com)
@@ -67,7 +67,7 @@ and discuss issues that the community is working on.
 
 The call is on Wednesdays, from 16:00-17:00 UTC on [WebEx](
 https://attcorp.webex.com/attcorp/j.php?MTID=m601b443aab0cf49ee8b75401dd6e1649) and the agenda/notes can be found in the
-[Etherpad](https://etherpad.openstack.org/p/Airship_FlightPlan).
+[etherpad](https://etherpad.openstack.org/p/Airship_FlightPlan).
 
 Note that the [Jira Board](https://airship.atlassian.net/projects/AIR/issues) will be retired as part of this migration,
 and that the relevant Jira issues have been migrated to [GitHub Issues](https://github.com/airshipit/airshipctl/issues).
