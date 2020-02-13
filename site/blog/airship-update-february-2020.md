@@ -10,8 +10,10 @@ What follows is the Airship Community Update for the month of February 2020, bro
 ## **SPOTLIGHT ON ....**
 
 - The Airship Technical and Working Committees each had special elections in January. We welcome
-    - Andrew Leasck (AT&T) to the Technical Committee
-    - Ian Pittwood (Accenture) to the Working Committee
+    - [Andrew Leasck](https://opendev.org/airship/election/raw/branch/master/candidates/2020/TC/al7689@att.com) (AT&T)
+    to the Technical Committee.
+    - [Ian Pittwood](https://opendev.org/airship/election/raw/branch/master/candidates/2020/WC/pittwoodian@gmail.com)
+    (Accenture) to the Working Committee.
 - Airship's year in review was featured in the OpenStack Foundation Annual Report. For more information
   see this [blog post](https://www.airshipit.org/blog/a-year-in-review-getting-confirmed-and-looking-ahead-to-2-0.html).
 
@@ -42,7 +44,7 @@ component. The first six Airship 2.0 Blog posts are already available:
 ## **AIRSHIP 2: THE SEQUEL**
 
 Recently Ryan van Wyk narrated a great, short, video discussing Airship - and the evolution to Airship2.  It's a must
-see for anyone interested in Airship.
+see for anyone interested in Airship:
 
 [![](/images/airship2-video-thumbnail.png)](https://www.youtube.com/watch?v=xt400lkgvTA)
 
@@ -51,15 +53,15 @@ see for anyone interested in Airship.
 ## **JIRA MIGRATION TO GITHUB ISSUES**
 The Airship Community is embracing [GitHub Issues](https://github.com/airshipit/airshipctl/issues) for tracking Airship
 scope. Among the many benefits of [GitHub Issues](https://github.com/airshipit/airshipctl/issues) are:
-- Anyone can create issues
-- Ease of communication between community members on issues
+- Anyone can create issues.
+- Ease of communication between community members on issues.
 - Intuitive labels allowing contributors to find specific categories of issues easily such as:
-    - "Good first issue" for new contributors to Airship 2.0
+    - "Good first issue" for new contributors to Airship 2.0.
     - "component/`<componentName>`" for developers looking to work on specific components such as the config module.
 
 ![](/images/gitissues.png)
 
-To date 40 issues have been created, and 7 of them have been completed already. Join us each week on the [Airship
+To date 43 issues have been created, and 9 of them have been completed already. Join us each week on the [Airship
 Flight Plan](https://wiki.openstack.org/wiki/Airship#AIRSHIP_Flight_Plan_-_Community_Management_Meetings) call to groom
 and discuss issues that the community is working on.
 
@@ -77,14 +79,6 @@ and that the relevant Jira issues have been migrated to [GitHub Issues](https://
 This [page](https://www.airshipit.org/community/) lists everything you need to know to get involved and start
 contributing. 
 
-If you have any news related to Airship, for example, if your organization has started to use it or contribute to it,
-please share that with the [Airship community mailing list](
-http://lists.airshipit.org/cgi-bin/mailman/listinfo/airship-discuss) as well.
-
-We want to hear from you!
-
-[**Airship Technical Committee**](https://wiki.openstack.org/wiki/Airship/Airship-TC)
-
 <br>
 
 ## **HOW TO SUBSCRIBE/UNSUBSCRIBE TO THIS NEWSLETTER**
@@ -97,4 +91,5 @@ please share that with [*alexander.w.hughes@accenture.com*](mailto:alexander.w.h
 
 We want to hear from you!
 
-**Alexander Hughes, on behalf of the Airship Technical Committee**
+**Alexander Hughes, on behalf of the [Airship Technical Committee](
+https://wiki.openstack.org/wiki/Airship/Airship-TC)**
