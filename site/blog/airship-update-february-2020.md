@@ -81,15 +81,5 @@ contributing.
 
 <br>
 
-## **HOW TO SUBSCRIBE/UNSUBSCRIBE TO THIS NEWSLETTER**
-
-Please email [*alexander.w.hughes@accenture.com*](mailto:alexander.w.hughes@accenture.com) if you want to opt in, opt
-out, or change the point of contact for your organization.
-
-If you have any news related to Airship, for example, if your organization has started to use it or contribute to it,
-please share that with [*alexander.w.hughes@accenture.com*](mailto:alexander.w.hughes@accenture.com) as well.
-
-We want to hear from you!
-
 **Alexander Hughes, on behalf of the [Airship Technical Committee](
 https://wiki.openstack.org/wiki/Airship/Airship-TC)**
