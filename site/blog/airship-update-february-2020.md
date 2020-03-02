@@ -46,7 +46,7 @@ component. The first six Airship 2.0 Blog posts are already available:
 Recently Ryan van Wyk narrated a great, short, video discussing Airship - and the evolution to Airship2.  It's a must
 see for anyone interested in Airship:
 
-[![](/images/airship2-video-thumbnail.png)](https://www.youtube.com/watch?v=xt400lkgvTA)
+[![](/images/airship2-video-thumbnail.png)](https://www.youtube.com/watch?v=13v3z4EIK9I)
 
 <br>
 
