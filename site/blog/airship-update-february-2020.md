@@ -46,7 +46,7 @@ component. The first six Airship 2.0 Blog posts are already available:
 Recently Ryan van Wyk narrated a great, short, video discussing Airship - and the evolution to Airship2.  It's a must
 see for anyone interested in Airship:
 
-[![](/images/airship2-video-thumbnail.png)](https://www.youtube.com/watch?v=xt400lkgvTA)
+[![](/images/airship2-video-thumbnail.png)](https://www.youtube.com/watch?v=13v3z4EIK9I)
 
 <br>
 
@@ -80,16 +80,6 @@ This [page](https://www.airshipit.org/community/) lists everything you need to k
 contributing. 
 
 <br>
-
-## **HOW TO SUBSCRIBE/UNSUBSCRIBE TO THIS NEWSLETTER**
-
-Please email [*alexander.w.hughes@accenture.com*](mailto:alexander.w.hughes@accenture.com) if you want to opt in, opt
-out, or change the point of contact for your organization.
-
-If you have any news related to Airship, for example, if your organization has started to use it or contribute to it,
-please share that with [*alexander.w.hughes@accenture.com*](mailto:alexander.w.hughes@accenture.com) as well.
-
-We want to hear from you!
 
 **Alexander Hughes, on behalf of the [Airship Technical Committee](
 https://wiki.openstack.org/wiki/Airship/Airship-TC)**
