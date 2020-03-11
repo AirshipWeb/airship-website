@@ -72,8 +72,8 @@ mirrors back to IRC - giving community members an option to use just one platfor
 the communities supporting specific projects.
 
 You can join the new Slack channel [*here*](https://airshipproject.slack.com/). Note: Slack does not allow
-self-registration for all e-mail domains to all channels. Everyone is welcome to use Slack for Airship communication,
-but may be subject to a short waiting period until a Working Committee member approves your account.
+self-registration for all e-mail domains to all channels. If your e-mail domain is not listed, request an invitation
+by sending an e-mail to [*andrew.walters@att.com*](mailto:andrew.walters@att.com).
 
 <br>
 
