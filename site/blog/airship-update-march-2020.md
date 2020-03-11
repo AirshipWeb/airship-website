@@ -52,10 +52,43 @@ Last month airshipctl saw the following activity:
 - 40 closed issues
 - 46 new issues
 
+<br>
+
 Which has contributed to the progress towards Airship 2.0's first major milestone: Alpha.  Below is the overall progress
 towards the alpha milestone:
 
 ![](/images/alpha_status_march.png)
+
+<br>
+
+## **NEW COMMUNICATION PLATFORM OPTIONS**
+
+In the OpenStack Foundation, communication by IRC is commonplace. The airship community maintains the **#airshipit**
+channel on Freenode IRC. As the Airship2 project grows there is an increasing need to collaborate with projects which
+use Slack as their primary communication platform such as [*metal3.io*](http://metal3.io/community-resources.html).
+
+To make communication in both Slack and IRC convenient, the Airship community has also set up a Slack channel which
+mirrors back to IRC - giving community members an option to use just one platform to communicate within Airship and with
+the communities supporting specific projects.
+
+You can join the new Slack channel [*here*](https://airshipproject.slack.com/). Note: Slack does not allow
+self-registration for all e-mail domains to all channels. Everyone is welcome to use Slack for Airship communication,
+but may be subject to a short waiting period until a Working Committee member approves your account.
+
+<br>
+
+## **SECURITY VULNERABILITY MANAGEMENT**
+
+The Airship community is committed to confirming, resolving, and disclosing all reported security vulnerabilities.
+
+The Airship project has automated security scanning in place using [*Bandit*](https://pypi.org/project/bandit/) for
+Python projects such as Pegleg and Promenade, and [*Gosec*](https://github.com/securego/gosec) for Golang projects such
+as airshipctl. All docker images are available on [*Quay.io*](https://quay.io/organization/airshipit) and are scanned by
+Quay's security scanner, which is backed by [*Clair*](https://github.com/quay/clair).
+
+The Airship community recently added the following
+[*documentation*](https://airshipit.readthedocs.io/projects/airship-docs/en/latest/security/guide.html) for more
+information on how detected vulnerabilities are confirmed, resolved, and disclosed.
 
 <br>
 
