@@ -31,6 +31,7 @@ title: Supporters
     <div class="column columns-sponsors">  <img class="img-sponsor-l4" src="/images/Telekom_Logo_2013.svg" alt="title"  /></div>
   </div>
 </div>
+<p>&nbsp;</p>
 <div class="container1">
   <h2 class="features">Thank you to the employers of Contributors to the 1.0 Release</h2>
 </div>
