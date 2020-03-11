@@ -24,11 +24,13 @@ title: Supporters
     <div class="column columns-sponsors">  <img class="img-sponsor-l4" src="/images/china-telecom.png" alt="title"  /></div>
     <div class="column columns-sponsors">  <img class="img-sponsor-l4" src="/images/logo-citynetwork.svg" alt="title"  /></div>
     <div class="column columns-sponsors">  <img class="img-sponsor-l4" src="/images/logo-dell.svg" alt="title"  /></div>
-    <div class="column columns-sponsors">  <img class="img-sponsor-l4" src="/images/logo-h3c.png" alt="title"  /></div>
+    <div class="column columns-sponsors">  <img class="img-sponsor-l4" src="/images/h3c.png" alt="title"  /></div>
   </div>
   <div class="columns" style="align-items: center;justify-content: center;">
+    <div class="column columns-sponsors">  </div>
     <div class="column columns-sponsors">  <img class="img-sponsor-l4" src="/images/logo-mirantis.png" alt="title"  /></div>
     <div class="column columns-sponsors">  <img class="img-sponsor-l4" src="/images/Telekom_Logo_2013.svg" alt="title"  /></div>
+    <div class="column columns-sponsors">  </div>
   </div>
 </div>
 <p>&nbsp;</p>
