@@ -1,7 +1,7 @@
 ---
 title: Airship Update - March 2020
 author: alex-hughes
-date: 2020-03-11T12:00:00.000Z
+date: 2020-03-12T12:00:00.000Z
 category: Airship 2.0
 ---
 
@@ -38,12 +38,38 @@ component. The first six Airship 2.0 Blog posts are already available:
 
 <br>
 
-## **GITHUB ISSUE PROGRESS**
+## **AIRSHIP 2.0 PROGRESS**
+
+Airship is a loosely coupled, interoperable open source tools that declaratively automate cloud provisioning. It is
+designed to make your cloud deployments simple, repeatable, and resilient.
+
+The primary motivation for Airship 2.0 is the continued evolution of the control plane, and by aligning with maturing
+CNCF projects we can improve Airship by making 2.0:
+- More capable
+- More secure
+- More resilient
+- Easier to operate
+
+To do this, we are moving purpose-built service logic developed in Airship 1.0 into native objects living in Kubernetes,
+and building a new client [*airshipctl*](https://opendev.org/airship/airshipctl) and a new UI
+[*airshipui*](https://opendev.org/airship/airshipui) to interact with those objects.
+
+The evolved control plane will reduce the impact of upgrades, improve the operator experience and align with the overall
+CNCF direction.
+
+The benefits of aligning with the CNCF direction:
+- Support more use cases
+- Expand operational capabilities
+- Add more features
+
+For more details, check out the Airship 2.0 preview video [*here*](https://www.youtube.com/watch?v=13v3z4EIK9I).
 
 In the [*February Update*](https://www.airshipit.org/blog/airship-update-february-2020.html), we mentioned that Airship
-progress is tracked in [*Github Issues*](https://github.com/airshipit/airshipctl/issues).
+2.0 progress is tracked in [*Github Issues*](https://github.com/airshipit/airshipctl/issues).
 
-Last month, airshipctl saw the following activity:
+The progress shown below is for [*airshipctl*](https://opendev.org/airship/airshipctl), the new Airship 2.0 client.
+
+Last month, [airshipctl](https://opendev.org/airship/airshipctl) saw the following activity:
 - 15 authors
 - 81 commits
 - 315 files changed
@@ -72,7 +98,7 @@ other communities supporting specific projects.
 
 You can join the new Slack channel [*here*](https://airshipproject.slack.com/). Note: Slack does not allow
 self-registration for all e-mail domains to all channels. If your e-mail domain is not listed, request an invitation
-by sending an e-mail to [*andrew.walters@att.com*](mailto:andrew.walters@att.com).
+by sending an e-mail to [*info@airship.org*](mailto:info@airship.org).
 
 <br>
 
