@@ -50,6 +50,8 @@ CNCF projects we can improve Airship by making 2.0:
 - More resilient
 - Easier to operate
 
+<br>
+
 To do this, we are moving purpose-built service logic developed in Airship 1.0 into native objects living in Kubernetes,
 and building a new client [*airshipctl*](https://opendev.org/airship/airshipctl) and a new UI
 [*airshipui*](https://opendev.org/airship/airshipui) to interact with those objects.
@@ -61,6 +63,8 @@ The benefits of aligning with the CNCF direction:
 - Support more use cases
 - Expand operational capabilities
 - Add more features
+
+<br>
 
 For more details, check out the Airship 2.0 preview video [*here*](https://www.youtube.com/watch?v=13v3z4EIK9I).
 
@@ -98,7 +102,7 @@ other communities supporting specific projects.
 
 You can join the new Slack channel [*here*](https://airshipproject.slack.com/). Note: Slack does not allow
 self-registration for all e-mail domains to all channels. If your e-mail domain is not listed, request an invitation
-by sending an e-mail to [*info@airship.org*](mailto:info@airship.org).
+by sending an e-mail to [*info@airshipit.org*](mailto:info@airshipit.org).
 
 <br>
 
