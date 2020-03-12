@@ -11,7 +11,7 @@ Committee.<!-- more -->
 ## **SPOTLIGHT ON ....**
 
 - Daylight Saving Time impacts community meetings. If you do not observe Daylight Saving Time, please note that meeting
-times are now one hour earlier than they were previously. For the current meeting list, and their schedules check the
+times are now one hour earlier than they were previously. For the current meeting list and their schedules, check the
 [*Airship Wiki*](https://wiki.openstack.org/wiki/Airship#Get_in_Touch).
 
 <br>
@@ -52,9 +52,9 @@ CNCF projects we can improve Airship by making 2.0:
 
 <br>
 
-To do this, we are moving the purpose-built services for lifecycle management developed in Airship 1.0 into native
-objects living in Kubernetes, and building a new intelligent client
-[*airshipctl*](https://opendev.org/airship/airshipctl) and a new UI [*airshipui*](https://opendev.org/airship/airshipui)
+To do this, we are moving the purpose-built service logic for lifecycle management developed in Airship 1.0 into native
+objects living in Kubernetes, building a new intelligent client
+[*airshipctl*](https://opendev.org/airship/airshipctl), and a new UI [*airshipui*](https://opendev.org/airship/airshipui)
 to interact with those objects. This evolved control plane will reduce the impact of upgrades, improve the operator
 experience and align with the overall CNCF direction.
 
