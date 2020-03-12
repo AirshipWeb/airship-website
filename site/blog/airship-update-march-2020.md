@@ -40,8 +40,8 @@ component. The first six Airship 2.0 Blog posts are already available:
 
 ## **AIRSHIP 2.0 PROGRESS**
 
-Airship is a loosely coupled, interoperable open source tools that declaratively automate cloud provisioning. It is
-designed to make your cloud deployments simple, repeatable, and resilient.
+Airship is a collection of loosely coupled, but interoperable open source tools that declaratively automates cloud
+provisioning. Airship is designed to make your cloud deployments simple, repeatable, and resilient.
 
 The primary motivation for Airship 2.0 is the continued evolution of the control plane, and by aligning with maturing
 CNCF projects we can improve Airship by making 2.0:
@@ -52,17 +52,16 @@ CNCF projects we can improve Airship by making 2.0:
 
 <br>
 
-To do this, we are moving purpose-built service logic developed in Airship 1.0 into native objects living in Kubernetes,
-and building a new client [*airshipctl*](https://opendev.org/airship/airshipctl) and a new UI
-[*airshipui*](https://opendev.org/airship/airshipui) to interact with those objects.
+To do this, we are moving the purpose-built services for lifecycle management developed in Airship 1.0 into native
+objects living in Kubernetes, and building a new intelligent client
+[*airshipctl*](https://opendev.org/airship/airshipctl) and a new UI [*airshipui*](https://opendev.org/airship/airshipui)
+to interact with those objects. This evolved control plane will reduce the impact of upgrades, improve the operator
+experience and align with the overall CNCF direction.
 
-The evolved control plane will reduce the impact of upgrades, improve the operator experience and align with the overall
-CNCF direction.
-
-The benefits of aligning with the CNCF direction:
+By aligning with the CNCF direction
 - Support more use cases
 - Expand operational capabilities
-- Add more features
+- Add more supported features
 
 <br>
 
@@ -84,7 +83,7 @@ Last month, [airshipctl](https://opendev.org/airship/airshipctl) saw the followi
 
 <br>
 
-This activity brings us closer to Airship 2.0's alpha milestone.  Below is the overall status of the alpha milestone:
+This activity brings us closer to Airship 2.0's alpha milestone. Below is the overall status of the alpha milestone:
 
 ![](/images/alpha_status_march.png)
 
