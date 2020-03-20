@@ -1,7 +1,7 @@
 ---
 title: Airship Update - March 2020
 author: alex-hughes
-date: 2020-03-12T12:00:00.000Z
+date: 2020-03-20T12:00:00.000Z
 category: Airship 2.0
 ---
 
@@ -35,6 +35,41 @@ component. The first six Airship 2.0 Blog posts are already available:
    https://www.airshipit.org/blog/airship-blog-series-2-an-educated-evolution.html)
 - [*Airship Blog Series 1 - Evolution Towards 2.0*](
   https://www.airshipit.org/blog/airship-blog-series-1-evolution-towards-2.0.html)
+
+<br>
+
+## **KUBECON POSTPONED, VIRTUAL MEETUP ANNOUNCEMENT**
+
+As KubeCon has been postponed, details
+[*here*](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/novel-coronavirus-update/) the Airship
+community will be holding a virtual meet-up instead and will serve much the same purpose as the originally planned
+KubeCon face-to-face team meeting. We hope that this virtual meeting will lead to increased participation and more
+valuable conversation.
+
+The goals of the meet-up include:
+- Aligning on Airship use cases and high-level design
+- Finalizing actionable low-level design for upcoming scope
+- Reviewing work in progress
+- A retrospection
+- Open floor discussion
+
+<br>
+
+The full agenda can be viewed [*here*](https://etherpad.openstack.org/p/airship-virtual-meetup-2020), please add
+anything you would like to discuss.
+
+The meet-up will take place on Zoom **Tuesday the 31st of March 1400-2200 UTC** (0900-1700 CDT) and sessions will be
+recorded.
+- **Meeting ID**: 613 001 653
+- Via [*Zoom*](https://zoom.us/j/613001653)
+- Via Telephone:
+  - +1 346 248 7799 US (Houston)
+  - +1 669 900 6833 US (San Jose)
+  - +1 646 876 9923 US (New York)
+  - +1 253 215 8782 US
+  - +1 301 715 8592 US
+  - +1 312 626 6799 US (Chicago)
+  - If your local number is not listed, find it [*here*](https://zoom.us/u/adZUJ6wQrj)
 
 <br>
 
@@ -99,9 +134,7 @@ To make communication in both Slack and IRC convenient, the Airship community ha
 mirrors back to IRC, giving community members the option to use just one platform to communicate within Airship and with
 other communities supporting specific projects.
 
-You can join the new Slack channel [*here*](https://airshipproject.slack.com/). Note: Slack does not allow
-self-registration for all e-mail domains to all channels. If your e-mail domain is not listed, request an invitation
-by sending an e-mail to [*info@airshipit.org*](mailto:info@airshipit.org).
+You can join the new Slack channel [*here*](https://airshipit.org/slack).
 
 <br>
 
