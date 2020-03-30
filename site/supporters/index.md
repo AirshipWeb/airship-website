@@ -10,11 +10,33 @@ title: Supporters
     <img src="../.vuepress/theme/svg/arrow-left.svg" alt="Learn More" />
   </span></a>
   <p>&nbsp;</p>
-
+<div class="container1">
+  <h2 class="features">Supporting Organizations</h2>
+</div>
+<div class="container container-center">
+  <div class="columns" style="align-items: center;justify-content: center;">
+    <div class="column columns-sponsors">  <img class="img-sponsor-l4" src="/images/logo-att.svg" alt="title"  /></div>
+    <div class="column columns-sponsors">  <img class="img-sponsor-l4" src="/images/logo-suse.svg" alt="title"  /></div>
+    <div class="column columns-sponsors">  <img class="img-sponsor-l4" src="/images/logo-tencent.jpg" alt="title"  /></div>
+    <div class="column columns-sponsors">  <img class="img-sponsor-l4" src="/images/logo-cisco.svg" alt="title"  /></div>
+  </div>
+  <div class="columns" style="align-items: center;justify-content: center;">
+    <div class="column columns-sponsors">  <img class="img-sponsor-l4" src="/images/china-telecom.png" alt="title"  /></div>
+    <div class="column columns-sponsors">  <img class="img-sponsor-l4" src="/images/logo-citynetwork.svg" alt="title"  /></div>
+    <div class="column columns-sponsors">  <img class="img-sponsor-l4" src="/images/logo-dell.svg" alt="title"  /></div>
+    <div class="column columns-sponsors">  <img class="img-sponsor-l4" src="/images/h3c.png" alt="title"  /></div>
+  </div>
+  <div class="columns" style="align-items: center;justify-content: center;">
+    <div class="column columns-sponsors">  </div>
+    <div class="column columns-sponsors">  <img class="img-sponsor-l4" src="/images/logo-mirantis.png" alt="title"  /></div>
+    <div class="column columns-sponsors">  <img class="img-sponsor-l4" src="/images/Telekom_Logo_2013.svg" alt="title"  /></div>
+    <div class="column columns-sponsors">  </div>
+  </div>
+</div>
+<p>&nbsp;</p>
 <div class="container1">
   <h2 class="features">Thank you to the employers of Contributors to the 1.0 Release</h2>
 </div>
-
 <div class="container container-center">
   <div class="columns" style="align-items: center;justify-content: center;">
     <div class="column columns-sponsors">  <img class="img-sponsor-l4" src="/images/logo-99cloud.svg" alt="title"  /></div>

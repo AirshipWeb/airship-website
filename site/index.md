@@ -1,29 +1,27 @@
 ---
 layout: Home
 title: Home
-
 hero:
   headline: Elevate Your Infrastructure
   button:
     title: Get Started
-    url: https://airship-docs.readthedocs.io/en/latest/dev-getting-started.html
-    
+    url: 'https://docs.airshipit.org'
 getInvolvedSteps:
   - title: Join us on the mailing list
     entry: Receive email announcements and interact with the community.
     link:
-      url: http://lists.airshipit.org/cgi-bin/mailman/listinfo
+      url: 'http://lists.airshipit.org/cgi-bin/mailman/listinfo'
       title: lists.airshipit.org/cgi-bin/mailman/listinfo
   - title: Weekly calls
     entry: Updates from the community on a weekly basis.
     link:
-      url: https://wiki.openstack.org/wiki/Airship#Get_in_Touch
-      title: wiki.openstack.org/wiki/Airship#Get_in_Touch
+      url: 'https://wiki.openstack.org/wiki/Airship#Get_in_Touch'
+      title: 'wiki.openstack.org/wiki/Airship#Get_in_Touch'
   - title: Freenode IRC
     entry: Chat with the project team and others using Airship.
     link:
-      url: https://wiki.openstack.org/wiki/Airship#Get_in_Touch
-      title: "#airshipit"
+      url: 'https://wiki.openstack.org/wiki/Airship#Get_in_Touch'
+      title: '#airshipit'
 ---
 
 <home-content>
