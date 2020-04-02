@@ -1,0 +1,40 @@
+{
+  "title": "Blog",
+  "subTitle": "Airship news, announcements, best practices, use cases and more.",
+  "categories": [
+    {
+      "text": "News & Announcements",
+      "id": "category-A7fnZYrE1"
+    },
+    {
+      "text": "Election",
+      "id": "category-A7xLnYrE1"
+    },
+    {
+      "text": "Summit",
+      "id": "category-BJknZYrE1"
+    },
+    {
+      "text": "Airship 2.0",
+      "id": "category-C98iZYrE1"
+    }
+  ],
+  "connect": [
+    {
+      "text": "Mailing Lists",
+      "link": "http://lists.airshipit.org/cgi-bin/mailman/listinfo"
+    },
+    {
+      "text": "Weekly Calls",
+      "link": "https://wiki.openstack.org/wiki/Airship#Get_in_Touch"
+    },
+    {
+      "text": "Freenode IRC: #airshipit",
+      "link": "https://wiki.openstack.org/wiki/Airship#Get_in_Touch"
+    },
+    {
+      "text": "Twitter",
+      "link": "https://twitter.com/airshipproject"
+    }
+  ]
+}
