@@ -1,8 +1,11 @@
 ---
+templateKey: blog-post
 title: Airship Update - April 2020
-author: alex-hughes
+author: Alexander Hughes
 date: 2020-04-08T12:00:00.000Z
-category: Airship 2.0
+category: 
+  - label: Airship 2.0
+    id: category-C98iZYrE1
 ---
 
 What follows is the Airship Community Update for the month of April 2020, brought to you by the Airship Technical
