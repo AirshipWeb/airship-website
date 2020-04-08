@@ -57,13 +57,6 @@ module.exports = {
               destinationDir: 'static',
             },
           },
-          {
-            resolve: "gatsby-remark-google-analytics-track-links",
-            options: {
-              target: "_blank",
-              rel: "noopener noreferrer",
-            }
-          },
         ],
       },
     },
