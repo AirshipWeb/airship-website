@@ -35,9 +35,9 @@ component. The first six Airship 2.0 Blog posts are already available:
 
 ## **SUMMARY OF MARCH VIRTUAL MEETING**
 
-As mentioned in the [*March blog*](https://www.airshipit.org/blog/airship-update-march-2020/) the Airship community came
-together with a virtual meeting in place of KubeCon. This was an all day event held on the 31st of March that served the
-same purpose as the originally planned face-to-face team meeting at KubeCon, the goals were:
+As mentioned in the [*March blog*](https://www.airshipit.org/blog/airship-update-march-2020/), the Airship community
+came together with a virtual meeting in place of KubeCon. This was an all day event held on the 31st of March that
+served the same purpose as the originally planned face-to-face team meeting at KubeCon. The goals were:
 - Aligning on Airship use cases and high-level design
 - Finalizing actionable low-level design for upcoming scope
 - Reviewing work in progress
@@ -59,7 +59,7 @@ https://zoom.us/rec/share/15MuEYDB53tIYJHG9WXcRpU8H735T6a80HJM-fsKzeeP9FW6Q4wvC9
   - Deep dive on CAPM3 ClusterAPI provider
   - Kubeadm HA/Load balancing proposal
   - Discussion on pivoting from ephemeral to target clusters
-  - Review of end to end airshipctl flow
+  - Review of end-to-end airshipctl flow
   - Review of Airship2 milestone targets and definitions
 - Session Three [*Recording*](
 https://zoom.us/rec/share/15MuEYDB53tIYJHG9WXcRpU8H735T6a80HJM-fsKzeeP9FW6Q4wvC9PyR8SpsBE?startTime=1585677629000)
