@@ -1,6 +1,6 @@
 #  Airship website
 
-This is the public repo to mantain the  Airship website at [airshipit.org](airshipit.org).
+This is the public repo to mantain the  Airship website at [airshipit.org](https://airshipit.org).
 
 ## Overview
 
