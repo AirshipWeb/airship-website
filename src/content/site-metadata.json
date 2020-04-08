@@ -1,0 +1,11 @@
+{
+  "siteMetadata": {
+    "title": "Airship",
+    "titleTemplate": "%s | Airship",
+    "description": "Airship",
+    "url": "https://airshipit.org/",
+    "image": "/img/og-image.jpg",
+    "twitterUsername": "@airshipproject",
+    "themeColor": "#65C7C2"
+  }
+}
