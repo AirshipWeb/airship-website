@@ -176,8 +176,7 @@ follows is a consolidated set of instructions from these resources.
 11. Interact with your cluster
 
 
-    kubectl --namespace=default get secret/capi-quickstart-kubeconfig -o jsonpath={.data.value} | base64 --decode > ./capi-quickstart.kubeconfig
-    kubectl --kubeconfig=./capi-quickstart.kubeconfig get nodes
+    kubectl --kubeconfig=./work-cluster.kubeconfig get nodes
 
 
 That's all there is to it! If you made it this far you should have a working CAPD environment to develop in.
