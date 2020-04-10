@@ -18,9 +18,11 @@ CNCF projects we can improve Airship by making 2.0:
 - More resilient
 - Easier to operate
 
-One such project is [Cluster API](https://cluster-api.sigs.k8s.io/) (CAPI), a Kubernetes project that brings
-declarative, Kubernetes-style APIs to cluster creation, configuration, and management. It provides optional, additive
-functionality on top of core Kubernetes to manage the lifecycle of a Kubernetes cluster.
+<br>
+
+One such project is [Cluster API](https://cluster-api.sigs.k8s.io/), a Kubernetes project that brings declarative,
+Kubernetes-style APIs to cluster creation, configuration, and management. It provides optional, additive functionality
+on top of core Kubernetes to manage the lifecycle of a Kubernetes cluster.
 
 Today I will provide you the documentation, and my tested step by step directions on setting up a developer environment
 to begin working with Cluster API. These steps have all been tested in a virtual machine with the following
@@ -31,6 +33,8 @@ configuration:
 - **Processor**: 6cpus
 - **Networking**: NAT
 - **Proxy**: N/A
+
+<br>
 
 To begin, create a new virtual machine with the above configuration.
 
@@ -184,5 +188,5 @@ these resources.
 That's all there is to it! If you made it this far you should have a working CAPD environment to develop in.
 
 I'd like to thank Michael McCune, and the rest of the Cluster API community for helping me troubleshoot my own setup so
-that I could share these steps with you. The CAPI community is available on [Slack](http://slack.k8s.io/) in the
+that I could share these steps with you. The Cluster API community is available on [Slack](http://slack.k8s.io/) in the
 [#cluster-api](https://kubernetes.slack.com/archives/C8TSNPY4T) channel.
