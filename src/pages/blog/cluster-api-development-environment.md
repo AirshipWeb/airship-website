@@ -190,7 +190,7 @@ these resources.
 
 <br>
 
-That's all there is to it! If you made it this far you should have a working CAPD environment to develop in.
+That's all there is to it! If you made it this far, you should have a working CAPD environment to develop in.
 
 I'd like to thank Michael McCune and the rest of the Cluster API community for helping me troubleshoot my setup so that
 I could share these steps with you. The Cluster API community is available on [Slack](http://slack.k8s.io/) in the
