@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Setting up a developer environment with Cluster API'
+title: 'Setting up a development environment with Cluster API'
 author: Alexander Hughes
 date: 2020-04-09T12:00:00.000Z
 category: 
@@ -24,9 +24,14 @@ One such project is [Cluster API](https://cluster-api.sigs.k8s.io/), a Kubernete
 Kubernetes-style APIs to cluster creation, configuration, and management. It provides optional, additive functionality
 on top of core Kubernetes to manage the lifecycle of a Kubernetes cluster.
 
-Today I will provide you the documentation, and my tested step by step directions on setting up a developer environment
-to begin working with Cluster API. These steps have all been tested in a virtual machine with the following
-configuration:
+In a previous [blog post](
+https://www.airshipit.org/blog/airship-blog-series-5-drydock-and-its-relationship-to-cluster-api/), Alan Meadows and
+Rodolfo Pacheco discussed the evolution of Airship 1.0 to Airship 2.0 and the relationship between [Drydock](
+https://opendev.org/airship/drydock) and [Cluster API](https://cluster-api.sigs.k8s.io/). It's an interesting read,
+looking at how Cluster API will be used by Airship 2.0.
+
+Today I will provide you the documentation and my tested step-by-step directions to creating a Cluster API development
+environment. These steps have all been tested in a virtual machine with the following configuration:
 - **Hypervisor**: VirtualBox 6.1
 - **Operating System**: Ubuntu 18.04 Desktop
 - **Memory**: 8gb
@@ -46,14 +51,14 @@ these resources.
 
 1. Update package manager and install common packages
 
-    ```
+    ```shell script
     sudo apt-get update && sudo apt-get dist-upgrade -y
     sudo apt-get install -y gcc python git make
     ```
 
 2. Install golang ([Documentation](https://golang.org/doc/install))
 
-    ```
+   ```shell script
     wget https://dl.google.com/go/go1.14.1.linux-amd64.tar.gz
     sudo tar -C /usr/local -xzf go1.14.1.linux-amd64.tar.gz
     rm go1.14.1.linux-amd64.tar.gz
@@ -61,7 +66,7 @@ these resources.
 
 3. Install docker ([Documentation](https://docs.docker.com/install/linux/docker-ce/ubuntu/))
 
-    ```
+   ```shell script
     sudo apt-get remove docker docker-engine docker.io containerd runc
     sudo apt-get update
     sudo apt-get install -y \
@@ -84,7 +89,7 @@ these resources.
 
 4. Update /etc/profile with necessary environment variables
 
-    ```
+   ```shell script
     sudo bash -c 'cat <<EOF >> /etc/profile
     export PATH=\$PATH:/usr/local/go/bin
     export DOCKER_POD_CIDRS=172.17.0.0/16
@@ -95,13 +100,13 @@ these resources.
 
 5. Logout and log back in, or reboot your machine, for the user group and profile changes to take effect
 
-    ```
+   ```shell script
     sudo reboot now
     ```
 
 6. Install kustomize ([Documentation](https://github.com/kubernetes-sigs/kustomize/blob/master/docs/INSTALL.md))
 
-    ```
+   ```shell script
     git clone https://github.com/kubernetes-sigs/kustomize.git
     cd kustomize/kustomize
     go install .
@@ -111,7 +116,7 @@ these resources.
 
 7. Install kind ([Documentation](https://github.com/kubernetes-sigs/kind/blob/master/README.md#installation-and-usage))
 
-    ```
+   ```shell script
     curl -Lo ./kind https://github.com/kubernetes-sigs/kind/releases/download/v0.7.0/kind-$(uname)-amd64
     chmod +x ./kind
     sudo mv ./kind /usr/local/bin/kind
@@ -119,7 +124,7 @@ these resources.
 
 8. Install kubectl ([Documentation](https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl-on-linux))
 
-    ```
+   ```shell script
     curl -LO https://storage.googleapis.com/kubernetes-release/release/`curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt`/bin/linux/amd64/kubectl
     chmod +x ./kubectl
     sudo mv ./kubectl /usr/local/bin/kubectl
@@ -127,7 +132,7 @@ these resources.
 
 9. Install clusterctl ([Documentation](https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl-on-linux))
 
-    ```
+   ```shell script
     curl -L https://github.com/kubernetes-sigs/cluster-api/releases/download/v0.3.2/clusterctl-linux-amd64 -o clusterctl
     chmod +x ./clusterctl
     sudo mv ./clusterctl /usr/local/bin/clusterctl
@@ -135,7 +140,7 @@ these resources.
 
 10. Set up cluster api using docker provider ([Documentation](https://cluster-api.sigs.k8s.io/user/quick-start.html))
 
-    ```
+    ```shell script
     git clone https://github.com/kubernetes-sigs/cluster-api.git
     cd cluster-api
 
@@ -179,7 +184,7 @@ these resources.
 
 11. Interact with your cluster
 
-    ```
+    ```shell script
     kubectl --kubeconfig=./work-cluster.kubeconfig get nodes
     ```
 
@@ -187,6 +192,6 @@ these resources.
 
 That's all there is to it! If you made it this far you should have a working CAPD environment to develop in.
 
-I'd like to thank Michael McCune, and the rest of the Cluster API community for helping me troubleshoot my own setup so
-that I could share these steps with you. The Cluster API community is available on [Slack](http://slack.k8s.io/) in the
+I'd like to thank Michael McCune and the rest of the Cluster API community for helping me troubleshoot my setup so that
+I could share these steps with you. The Cluster API community is available on [Slack](http://slack.k8s.io/) in the
 [#cluster-api](https://kubernetes.slack.com/archives/C8TSNPY4T) channel.
