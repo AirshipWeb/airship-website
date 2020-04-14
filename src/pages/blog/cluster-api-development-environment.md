@@ -53,6 +53,7 @@ these resources.
 
     ```shell script
     sudo apt-get update && sudo apt-get dist-upgrade -y
+
     sudo apt-get install -y gcc python git make
     ```
 
@@ -60,7 +61,9 @@ these resources.
 
    ```shell script
     wget https://dl.google.com/go/go1.14.1.linux-amd64.tar.gz
+
     sudo tar -C /usr/local -xzf go1.14.1.linux-amd64.tar.gz
+
     rm go1.14.1.linux-amd64.tar.gz
     ```
 
@@ -68,22 +71,31 @@ these resources.
 
    ```shell script
     sudo apt-get remove docker docker-engine docker.io containerd runc
+
     sudo apt-get update
+
     sudo apt-get install -y \
         apt-transport-https \
         ca-certificates \
         curl \
         gnupg-agent \
         software-properties-common
+
     curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+
     sudo apt-key fingerprint 0EBFCD88
+
     sudo add-apt-repository \
        "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
        $(lsb_release -cs) \
        stable"
+
     sudo apt-get update
+
     sudo apt-get install -y docker-ce docker-ce-cli containerd.io
+
     sudo groupadd docker
+
     sudo usermod -aG docker $USER
     ```
 
@@ -108,9 +120,13 @@ these resources.
 
    ```shell script
     git clone https://github.com/kubernetes-sigs/kustomize.git
+
     cd kustomize/kustomize
+
     go install .
+
     sudo mv ~/go/bin/kustomize /usr/local/bin/
+
     cd ~
     ```
 
@@ -118,7 +134,9 @@ these resources.
 
    ```shell script
     curl -Lo ./kind https://github.com/kubernetes-sigs/kind/releases/download/v0.7.0/kind-$(uname)-amd64
+
     chmod +x ./kind
+
     sudo mv ./kind /usr/local/bin/kind
     ```
 
@@ -126,7 +144,9 @@ these resources.
 
    ```shell script
     curl -LO https://storage.googleapis.com/kubernetes-release/release/`curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt`/bin/linux/amd64/kubectl
+
     chmod +x ./kubectl
+
     sudo mv ./kubectl /usr/local/bin/kubectl
     ```
 
@@ -134,7 +154,9 @@ these resources.
 
    ```shell script
     curl -L https://github.com/kubernetes-sigs/cluster-api/releases/download/v0.3.2/clusterctl-linux-amd64 -o clusterctl
+
     chmod +x ./clusterctl
+
     sudo mv ./clusterctl /usr/local/bin/clusterctl
     ```
 
@@ -142,6 +164,7 @@ these resources.
 
     ```shell script
     git clone https://github.com/kubernetes-sigs/cluster-api.git
+
     cd cluster-api
 
     cat > clusterctl-settings.json <<EOF
@@ -152,7 +175,9 @@ these resources.
     EOF
 
     make -C test/infrastructure/docker docker-build REGISTRY=gcr.io/k8s-staging-capi-docker
+
     make -C test/infrastructure/docker generate-manifests REGISTRY=gcr.io/k8s-staging-capi-docker
+
     ./cmd/clusterctl/hack/local-overrides.py
 
     cat > ~/.cluster-api/clusterctl.yaml <<EOF
@@ -173,12 +198,19 @@ these resources.
     EOF
 
     cp cmd/clusterctl/test/testdata/docker/v0.3.0/cluster-template.yaml ~/.cluster-api/overrides/infrastructure-docker/v0.3.0/
+
     kind create cluster --config ./kind-cluster-with-extramounts.yaml --name clusterapi
+
     kind load docker-image gcr.io/k8s-staging-capi-docker/capd-manager-amd64:dev --name clusterapi
+
     clusterctl init --core cluster-api:v0.3.0 --bootstrap kubeadm:v0.3.0 --control-plane kubeadm:v0.3.0 --infrastructure docker:v0.3.0
+
     clusterctl config cluster work-cluster --kubernetes-version 1.17.0 > work-cluster.yaml
+
     kubectl apply -f work-cluster.yaml
+
     kubectl --namespace=default get secret/work-cluster-kubeconfig -o jsonpath={.data.value} | base64 --decode > ./work-cluster.kubeconfig
+
     kubectl --kubeconfig=./work-cluster.kubeconfig apply -f https://docs.projectcalico.org/v3.12/manifests/calico.yaml
     ```
 
