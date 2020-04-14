@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: 'Setting up a development environment with Cluster API'
+title: 'Setting up a development environment with Cluster API using Kind'
 author: Alexander Hughes
-date: 2020-04-09T12:00:00.000Z
+date: 2020-04-14T12:00:00.000Z
 category: 
   - label: Airship 2.0
     id: category-C98iZYrE1
@@ -31,7 +31,10 @@ https://opendev.org/airship/drydock) and [Cluster API](https://cluster-api.sigs.
 looking at how Cluster API will be used by Airship 2.0.
 
 Today I will provide you the documentation and my tested step-by-step directions to creating a Cluster API development
-environment. These steps have all been tested in a virtual machine with the following configuration:
+environment using Kind. This development environment will allow you to deploy virtual nodes as Docker containers in
+Kind, test out changes to the Cluster API codebase, and gain a better understanding of how Airship works at the
+component level to deploy Kubernetes clusters. These steps have all been tested in a virtual machine with the following
+configuration:
 - **Hypervisor**: VirtualBox 6.1
 - **Operating System**: Ubuntu 18.04 Desktop
 - **Memory**: 8gb
