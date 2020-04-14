@@ -150,7 +150,7 @@ these resources.
     sudo mv ./kubectl /usr/local/bin/kubectl
     ```
 
-9. Install clusterctl ([Documentation](https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl-on-linux))
+9. Install clusterctl ([Documentation](https://cluster-api.sigs.k8s.io/user/quick-start.html#install-clusterctl))
 
    ```shell script
     curl -L https://github.com/kubernetes-sigs/cluster-api/releases/download/v0.3.2/clusterctl-linux-amd64 -o clusterctl
