@@ -44,18 +44,20 @@ served the same purpose as the originally planned face-to-face team meeting at K
 - A retrospection
 - Open floor discussion
 
+<br>
+
 The full agenda and meeting notes are available [*here*](https://etherpad.openstack.org/p/airship-virtual-meetup-2020)
 
 The meeting was broken down into four recorded sessions:
 
-Session One [*Recording*](
+**Session One** [*Recording*](
 https://zoom.us/rec/share/15MuEYDB53tIYJHG9WXcRpU8H735T6a80HJM-fsKzeeP9FW6Q4wvC9PyR8SpsBE?startTime=1585666462000)
   - Review of initial Airship use cases
   - Additional Airship2 use cases
 
 <br>
 
-Session Two [*Recording*](
+**Session Two** [*Recording*](
 https://zoom.us/rec/share/15MuEYDB53tIYJHG9WXcRpU8H735T6a80HJM-fsKzeeP9FW6Q4wvC9PyR8SpsBE?startTime=1585667419000)
   - Metal3 discussion
   - Explanation of CACPK and CABPK ClusterAPI providers
@@ -67,14 +69,14 @@ https://zoom.us/rec/share/15MuEYDB53tIYJHG9WXcRpU8H735T6a80HJM-fsKzeeP9FW6Q4wvC9
 
 <br>
 
-Session Three [*Recording*](
+**Session Three** [*Recording*](
 https://zoom.us/rec/share/15MuEYDB53tIYJHG9WXcRpU8H735T6a80HJM-fsKzeeP9FW6Q4wvC9PyR8SpsBE?startTime=1585677629000)
   - SIG-YAML Deep Dive
   - Provisioning Updates
 
 <br>
 
-Session Four [*Recording*](
+**Session Four** [*Recording*](
 https://zoom.us/rec/share/15MuEYDB53tIYJHG9WXcRpU8H735T6a80HJM-fsKzeeP9FW6Q4wvC9PyR8SpsBE?startTime=1585684467000)
   - Workload Updates
   - CICD
