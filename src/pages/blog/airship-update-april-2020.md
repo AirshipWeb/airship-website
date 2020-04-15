@@ -48,11 +48,14 @@ The full agenda and meeting notes are available [*here*](https://etherpad.openst
 
 The meeting was broken down into four recorded sessions:
 
-- Session One [*Recording*](
+Session One [*Recording*](
 https://zoom.us/rec/share/15MuEYDB53tIYJHG9WXcRpU8H735T6a80HJM-fsKzeeP9FW6Q4wvC9PyR8SpsBE?startTime=1585666462000)
   - Review of initial Airship use cases
   - Additional Airship2 use cases
-- Session Two [*Recording*](
+
+<br>
+
+Session Two [*Recording*](
 https://zoom.us/rec/share/15MuEYDB53tIYJHG9WXcRpU8H735T6a80HJM-fsKzeeP9FW6Q4wvC9PyR8SpsBE?startTime=1585667419000)
   - Metal3 discussion
   - Explanation of CACPK and CABPK ClusterAPI providers
@@ -61,11 +64,17 @@ https://zoom.us/rec/share/15MuEYDB53tIYJHG9WXcRpU8H735T6a80HJM-fsKzeeP9FW6Q4wvC9
   - Discussion on pivoting from ephemeral to target clusters
   - Review of end-to-end airshipctl flow
   - Review of Airship2 milestone targets and definitions
-- Session Three [*Recording*](
+
+<br>
+
+Session Three [*Recording*](
 https://zoom.us/rec/share/15MuEYDB53tIYJHG9WXcRpU8H735T6a80HJM-fsKzeeP9FW6Q4wvC9PyR8SpsBE?startTime=1585677629000)
   - SIG-YAML Deep Dive
   - Provisioning Updates
-- Session Four [*Recording*](
+
+<br>
+
+Session Four [*Recording*](
 https://zoom.us/rec/share/15MuEYDB53tIYJHG9WXcRpU8H735T6a80HJM-fsKzeeP9FW6Q4wvC9PyR8SpsBE?startTime=1585684467000)
   - Workload Updates
   - CICD
