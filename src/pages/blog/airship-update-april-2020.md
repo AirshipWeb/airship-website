@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Airship Update - April 2020
 author: Alexander Hughes
-date: 2020-04-08T12:00:00.000Z
+date: 2020-04-15T12:00:00.000Z
 category: 
   - label: Airship 2.0
     id: category-C98iZYrE1
@@ -10,6 +10,15 @@ category:
 
 What follows is the Airship Community Update for the month of April 2020, brought to you by the Airship Technical
 Committee.<!-- more -->
+
+## **SPOTLIGHT ON ....**
+
+- Learn how to set up a Cluster API development environment in this
+[*tutorial*](https://deploy-preview-87--airshipit.netlify.app/blog/cluster-api-development-environment/), for more
+information on how Cluster API will be used in Airship 2.0, see this [*blog post*](
+https://www.airshipit.org/blog/airship-blog-series-5-drydock-and-its-relationship-to-cluster-api.html).
+
+<br>
 
 ## **AIRSHIP BLOG**
 
