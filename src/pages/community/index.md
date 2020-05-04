@@ -14,7 +14,7 @@ blogUrl: 'https://www.airshipit.org/community/'
 
 Airship is a global open source community independently governed at the OpenStack Foundation. Our ethos is user-driven and our culture is welcoming and respectful. We invite you to try out Airship, provide your feedback and get involved in contributing to the code. 
 
-Check out the [Airship 2.0 White Paper] (/img/airship_2.0_white_paper.pdf), an overview of the design approach that Airship 2.0 is using to declaratively manage open infrastructure.
+Check out the [Airship 2.0 White Paper] (/collateral/Airship_2.0_White_Paper.pdf), an overview of the design approach that Airship 2.0 is using to declaratively manage open infrastructure.
 
 <br>
 
