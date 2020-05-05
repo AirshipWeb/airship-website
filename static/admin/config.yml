@@ -233,7 +233,6 @@ collections:
             ]}         
           - {label: "Title", name: title, widget: string}
           - {label: "Sub Title", name: subTitle, widget: string}
-          - {label: "Blog URL", name: blogUrl, widget: string}          
           - {label: "Body", name: body, widget: markdown}
       - file: "src/pages/supporters/index.md"
         label: "Supporters"
