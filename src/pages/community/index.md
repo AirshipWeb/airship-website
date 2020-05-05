@@ -15,6 +15,8 @@ intro:
     - paragraph: >
         Check out the [Airship 2.0 White Paper] (https://opendev.org/airship/treasuremap), an overview of the design approach that Airship 2.0 is using to declaratively manage open infrastructure.
 
+<br/>
+
 ## Try Airship
 
 - **Airship Treasuremap:** [https://airship-treasuremap.readthedocs.io/en/latest](https://airship-treasuremap.readthedocs.io/en/latest/)
