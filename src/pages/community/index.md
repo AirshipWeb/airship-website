@@ -8,7 +8,6 @@ seo:
   url: 'https://airshipit.org/'
 title: Community
 subTitle: 'Join to contribute code, documentation, and use cases'
-blogUrl: 'https://www.airshipit.org/community/'
 ---
 
 
