@@ -14,7 +14,7 @@ Committee.<!-- more -->
 ## **SPOTLIGHT ON ....**
 
 - Learn how Airship 2.0, targeted for delivery later this year, is solving NFVi challenges on the way to full 5G
-  deployment in this [*white paper*](https://www.airshipit.org/blog/airship2-whitepaper/) authored by AT&T's VP of
+  deployment in this [*white paper*](https://www.airshipit.org/blog/airship2-whitepaper/) authored by VP of AT&T's
   Network Cloud: Ryan van Wyk, and Airship architects: Alan Meadows and Ryan Pacheco.
 - On 06-May-2020 Airship 2.0's alpha milestone was declared complete. This was a significant step towards getting
   Airship 2.0 production-ready, and would not have been possible without the hard work from all of our talented
