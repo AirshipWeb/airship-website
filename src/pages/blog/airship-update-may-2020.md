@@ -15,9 +15,9 @@ Committee.<!-- more -->
 
 - Learn how Airship 2.0, targeted for delivery later this year, is solving NFVi challenges on the way to full 5G
   deployment in this [*white paper*](https://www.airshipit.org/blog/airship2-whitepaper/) authored by AT&T's VP of
-  Network Cloud Ryan van Wyk.
+  Network Cloud: Ryan van Wyk, and Airship architects: Alan Meadows and Ryan Pacheco.
 - On 06-May-2020 Airship 2.0's alpha milestone was declared complete. This was a significant step towards getting
-  Airship 2.0 production ready, and would not have been possible without the hard work from all of our talented
+  Airship 2.0 production-ready, and would not have been possible without the hard work from all of our talented
   developers, the valuable input from all of our community members, and the collaboration across the projects that
   Airship 2 will leverage. Thank you all for your contributions!
 
@@ -47,7 +47,7 @@ component. The first six Airship 2.0 Blog posts are already available:
 
 ## **UPCOMING VIRTUAL PTG**
 
-The OpenStack Foundation is holding a Virtual Project Teams Gathering (PTG) 01-05 June, the event is free with
+The OpenStack Foundation is holding a Virtual Project Teams Gathering (PTG) 01-05 June. The event is free with
 registration [*here*](https://www.eventbrite.com/e/virtual-project-teams-gathering-june-2020-tickets-103456996662).
 
 The Project Teams Gathering (PTG) is an event organized by the OpenStack Foundation. It provides meeting facilities
@@ -58,10 +58,10 @@ progress on critical issues. The co-location of those various meetings, combined
 event, make it easy to get specific people in the same room to discuss a specific topic, or participate in multiple team
 meetings. Evenings allow for relationship building and problem sharing.
 
-The list of groups attending, and their planned sessions is available on this [*calendar*](
+The list of groups attending and their planned sessions are available on this [*calendar*](
 https://ethercalc.openstack.org/126u8ek25noy).
 
-The Airship sessions are scheduled for:
+The Airship sessions will be in one-hour increments and will be recorded. The sessions are scheduled for:
 
 **Thursday 04-June**
 - 13:00-14:00 UTC (08:00-09:00 CDT)
