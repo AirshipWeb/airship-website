@@ -6,5 +6,5 @@
   YARN_FLAGS = "--no-ignore-optional"
 [[redirects]]
   from = "/slack"
-  to = "https://join.slack.com/t/airshipit/shared_invite/zt-cr7kp0bp-6lVDPPK~Cn2Ln7HPCmTTIw"
+  to = "https://join.slack.com/t/airshipit/shared_invite/zt-ec2r6ip0-Pk6tX4skfsHLscXMq08Zpw"
   status = 302
