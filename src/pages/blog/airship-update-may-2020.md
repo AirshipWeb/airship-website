@@ -88,6 +88,17 @@ http://lists.airshipit.org/cgi-bin/mailman/listinfo) to get all the latest news 
 
 <br>
 
+## **AIRSHIP USER SURVEY**
+
+If you are evaluating or running Airship, share your feedback in the [*Airship User Survey*](
+https://www.surveymonkey.com/r/YKZ9NC2)! This survey provides users an opportunity to provide anonymous feedback to
+influence the community and software direction. By sharing information about your configuration and requirements, the
+Airship Working Committee will be able to advocate on your behalf. The 2020 survey results will be presented at the Fall
+Summit, November, 2020. Take the Airship User Survey by Thursday, August 20, 2020 to be included in this round of
+analysis.
+
+<br>
+
 ## **UPCOMING AIRSHIP TECHNICAL COMMITTEE ELECTION**
 
 The Airship community adopted formal [*governance*](https://opendev.org/airship/governance) in 2019 leading to the
