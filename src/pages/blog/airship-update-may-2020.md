@@ -94,8 +94,8 @@ If you are evaluating or running Airship, share your feedback in the [*Airship U
 https://www.surveymonkey.com/r/YKZ9NC2)! This survey provides users an opportunity to provide anonymous feedback to
 influence the community and software direction. By sharing information about your configuration and requirements, the
 Airship Working Committee will be able to advocate on your behalf. The 2020 survey results will be presented at the Fall
-Summit, November, 2020. Take the Airship User Survey by Thursday, August 20, 2020 to be included in this round of
-analysis.
+Summit, November, 2020. Take the [*Airship User Survey*](https://www.surveymonkey.com/r/YKZ9NC2) to be included in this
+round of analysis.
 
 <br>
 
