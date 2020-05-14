@@ -15,7 +15,7 @@ Committee.<!-- more -->
 
 - Learn how Airship 2.0, targeted for delivery later this year, is solving NFVi challenges on the way to full 5G
   deployment in this [*white paper*](https://www.airshipit.org/blog/airship2-whitepaper/) authored by VP of AT&T's
-  Network Cloud: Ryan van Wyk, and Airship architects: Alan Meadows and Ryan Pacheco.
+  Network Cloud: Ryan van Wyk, and Airship architects: Alan Meadows and Rodolfo Pacheco.
 - On 06-May-2020 Airship 2.0's alpha milestone was declared complete. This was a significant step towards getting
   Airship 2.0 production-ready, and would not have been possible without the hard work from all of our talented
   developers, the valuable input from all of our community members, and the collaboration across the projects that
@@ -59,7 +59,7 @@ event, make it easy to get specific people in the same room to discuss a specifi
 meetings. Evenings allow for relationship building and problem sharing.
 
 The list of groups attending and their planned sessions are available on this [*calendar*](
-https://ethercalc.openstack.org/126u8ek25noy).
+https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/ptg/PTG2020-Schedule.pdf).
 
 The Airship sessions will be in one-hour increments and will be recorded. The sessions are scheduled for:
 
@@ -90,7 +90,7 @@ http://lists.airshipit.org/cgi-bin/mailman/listinfo) to get all the latest news 
 
 ## **UPCOMING AIRSHIP TECHNICAL COMMITTEE ELECTION**
 
-The Airship community adopted a formal [*governance*](https://opendev.org/airship/governance) in 2019 leading to the
+The Airship community adopted formal [*governance*](https://opendev.org/airship/governance) in 2019 leading to the
 creation of two committees responsible for helping to guide Airship projects. Each of these committees is elected by
 the community to serve for one year at a time.
 
