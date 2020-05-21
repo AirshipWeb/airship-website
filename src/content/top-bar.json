@@ -1,7 +1,7 @@
 {
   "bar": {
-    "text": "Airship was recently confirmed as a Top-Level Open Infrastructure Project supported by the OpenStack Foundation",
-    "link": "/blog/airship-update-october-2019/",
-    "button": "CONGRATULATIONS TO THE COMMUNITY!"
+    "text": "Are you running or evaluating Airship? Provide feedback to the community through the User Survey!",
+    "link": "https://www.surveymonkey.com/r/AirshipUserSurvey",
+    "button": "TAKE THE SURVEY"
   }
 }
