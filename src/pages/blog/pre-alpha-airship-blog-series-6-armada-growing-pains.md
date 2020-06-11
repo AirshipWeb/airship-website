@@ -7,6 +7,16 @@ category:
   - label: News & Announcements
     id: category-A7fnZYrE1
 ---
+
+# **UPDATED DESIGN THINKING NOTICE**
+
+This blog has been marked as a "pre-alpha" post and may contain inaccurate information. This post has been archived to
+preserve the technologies, design, and thinking of the time. Please see [*this announcement*](
+https://www.airshipit.org/blog/pre-alpha-blog-announcement.html) for more information on the road to Airship 2.0 alpha
+and how the lessons learned influenced the technologies and design of Airship 2.0 "post-alpha".
+
+<hr>
+
 Helm, the Kubernetes package manager, defined a mechanism to define and deploy a set of Kubernetes artifacts and their
 dependencies as a chart. The Helm CLI tool really targeted operators wishing to install a single helm chart at a time
 using the command line.  What was missing for users like Airship was the ability to declaratively define several helm

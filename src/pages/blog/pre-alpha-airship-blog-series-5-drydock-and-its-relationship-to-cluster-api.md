@@ -8,6 +8,15 @@ category:
     id: category-C98iZYrE1
 ---
 
+# **UPDATED DESIGN THINKING NOTICE**
+
+This blog has been marked as a "pre-alpha" post and may contain inaccurate information. This post has been archived to
+preserve the technologies, design, and thinking of the time. Please see [*this announcement*](
+https://www.airshipit.org/blog/pre-alpha-blog-announcement.html) for more information on the road to Airship 2.0 alpha
+and how the lessons learned influenced the technologies and design of Airship 2.0 "post-alpha".
+
+<hr>
+
 As part of the evolution of Airship 1.0, an enduring goal has remained supporting multiple provisioning backends beyond just bare metal. This includes those that can provision to third-party clouds and to other use cases like OpenStack VMs as well as enable you to bring your own infrastructure.<!-- more -->
 
 The component we used to accomplish this was *Drydock*. *Drydock* was intended to be a pluggable, declarative bare metal orchestrator. It has allowed us to declare the desired state for bare metal provisioning and served as an orchestrator, which enacted bare metal configuration with different backends. The initial backend developed was for Canonical's *Metal-as-a-Service*, or *MaaS*.

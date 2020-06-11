@@ -8,6 +8,15 @@ category:
     id: category-C98iZYrE1
 ---
 
+# **UPDATED DESIGN THINKING NOTICE**
+
+This blog has been marked as a "pre-alpha" post and may contain inaccurate information. This post has been archived to
+preserve the technologies, design, and thinking of the time. Please see [*this announcement*](
+https://www.airshipit.org/blog/pre-alpha-blog-announcement.html) for more information on the road to Airship 2.0 alpha
+and how the lessons learned influenced the technologies and design of Airship 2.0 "post-alpha".
+
+<hr>
+
 In order to achieve the goals of vanishing complexity, as well as broaden the variety of supported use cases for Airship 2.0, we shifted far more of the process to the left. We will accomplish this by introducing [*airshipctl*](https://opendev.org/airship/airshipctl). The [*airshipctl*](https://opendev.org/airship/airshipctl) command line interface is really the heart of the Airship 2.0 platform. It places an emphasis on a thick client that is effectively able to speak to k8s in remote sites and natively understands [*Argo*](https://argoproj.github.io/) workflows to drive cluster life cycle management. This contrasts with Airship 1.0 which leveraged a Shipyard API in the remote site, which was a long-lived service and used many Airship specific projects instantiated in the site to accomplish the life cycle management of Airship documents, kubernetes, baremetal nodes, and helm charts.<!-- more -->
 
 The goals for this pivot are to reduce the underlying infrastructure required to support updates to an existing site and reduce the number of Airship specific YAML documents required to produce and manage a site, vastly simplifying the overall design. This utility is a net-new GO module.  This utility operates on a kubernetes cluster security context and understands how to interpret and generate a skeleton Airship document set. The [*airshipctl*](https://opendev.org/airship/airshipctl) utility is the main entry point for bootstrapping a cluster, collecting and pushing documents, and managing workflows.
