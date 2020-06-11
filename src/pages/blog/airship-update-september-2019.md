@@ -30,9 +30,9 @@ Welcome to the Airship Community Update, a digest of the latest developments and
 
 The Airship blog is a great way to keep up with what's going on in the community. The Airship community publishes [*blog posts*](https://www.airshipit.org/blog/) regularly, including the recent Airship 2.0 Blog series. These blogs introduce the changes from Airship 1.0 to Airship 2.0, highlight new features, and detail the evolution of each component. The first three Airship 2.0 Blog posts are already available:
 
-- [*Airship Blog Series 1 - Evolution Towards 2.0*](https://www.airshipit.org/blog/airship-blog-series-1-evolution-towards-2.0.html)
-- [*Airship Blog Series 2 - An Educated Evolution*](https://www.airshipit.org/blog/airship-blog-series-2-an-educated-evolution.html)
-- [*Airship Blog Series 3 - Airship 2.0 Architecture High Level*](https://www.airshipit.org/blog/airship-blog-series-3-airship-2.0-architecture-high-level.html)
+- [*Airship Blog Series 1 - Evolution Towards 2.0*](https://www.airshipit.org/blog/pre-alpha-airship-blog-series-1-evolution-towards-2.0.html)
+- [*Airship Blog Series 2 - An Educated Evolution*](https://www.airshipit.org/blog/pre-alpha-airship-blog-series-2-an-educated-evolution.html)
+- [*Airship Blog Series 3 - Airship 2.0 Architecture High Level*](https://www.airshipit.org/blog/pre-alpha-airship-blog-series-3-airship-2.0-architecture-high-level.html)
 
 <br>
 

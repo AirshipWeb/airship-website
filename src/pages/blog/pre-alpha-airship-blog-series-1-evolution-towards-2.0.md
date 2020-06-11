@@ -8,6 +8,15 @@ category:
     id: category-C98iZYrE1
 ---
 
+# **UPDATED DESIGN THINKING NOTICE**
+
+This blog has been marked as a "pre-alpha" post and may contain inaccurate information. This post has been archived to
+preserve the technologies, design, and thinking of the time. Please see [*this announcement*](
+https://www.airshipit.org/blog/pre-alpha-blog-announcement.html) for more information on the road to Airship 2.0 alpha
+and how the lessons learned influenced the technologies and design of Airship 2.0 "post-alpha".
+
+<hr>
+
 [Airship](https://www.airshipit.org/) allows cloud operators to manage the entire lifecycle of sites, including their creation, minor updates, configuration changes, and major uplifts such as OpenStack upgrades. Airship accomplishes this using a unified, declarative, fully containerized, cloud native platform.<!-- more -->
 
 ## **The Motivation for Airship**

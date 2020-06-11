@@ -8,6 +8,15 @@ category:
     id: category-C98iZYrE1
 ---
 
+# **UPDATED DESIGN THINKING NOTICE**
+
+This blog has been marked as a "pre-alpha" post and may contain inaccurate information. This post has been archived to
+preserve the technologies, design, and thinking of the time. Please see [*this announcement*](
+https://www.airshipit.org/blog/pre-alpha-blog-announcement.html) for more information on the road to Airship 2.0 alpha
+and how the lessons learned influenced the technologies and design of Airship 2.0 "post-alpha".
+
+<hr>
+
 *Shipyard* provides a frontend API within Airship environments that allow users to push their declared documents into sites and execute pre-defined Directed Acyclic Graphs (DAGs) against those declarations. DAG is a directed graph data structure for topological ordering. From an architectural perspective, this is what *Shipyard* looks like today and how it interacts with other Airship components:<!-- more -->
 
 ![](/img/airship-1-shipyard.jpg)

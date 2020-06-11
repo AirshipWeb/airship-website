@@ -27,17 +27,17 @@ posts introduce the changes from Airship 1.0 to Airship 2.0, highlight new featu
 component. The first six Airship 2.0 Blog posts are already available:
 
 - [*Airship Blog Series 6 - Armada Growing Pains*](
-   https://www.airshipit.org/blog/airship-blog-series-6-armada-growing-pains.html)
+   https://www.airshipit.org/blog/pre-alpha-airship-blog-series-6-armada-growing-pains.html)
 - [*Airship Blog Series 5 - Drydock and Its Relationship to Cluster API*](
-  https://www.airshipit.org/blog/airship-blog-series-5-drydock-and-its-relationship-to-cluster-api.html)
+  https://www.airshipit.org/blog/pre-alpha-airship-blog-series-5-drydock-and-its-relationship-to-cluster-api.html)
 - [*Airship Blog Series 4 - Shipyard - an Evolution of the Front Door*](
-   https://www.airshipit.org/blog/airship-blog-series-4-shipyard-an-evolution-of-the-front-door.html)
+   https://www.airshipit.org/blog/pre-alpha-airship-blog-series-4-shipyard-an-evolution-of-the-front-door.html)
 - [*Airship Blog Series 3 - Airship 2.0 Architecture High Level*](
-   https://www.airshipit.org/blog/airship-blog-series-3-airship-2.0-architecture-high-level.html)
+   https://www.airshipit.org/blog/pre-alpha-airship-blog-series-3-airship-2.0-architecture-high-level.html)
 - [*Airship Blog Series 2 - An Educated Evolution*](
-   https://www.airshipit.org/blog/airship-blog-series-2-an-educated-evolution.html)
+   https://www.airshipit.org/blog/pre-alpha-airship-blog-series-2-an-educated-evolution.html)
 - [*Airship Blog Series 1 - Evolution Towards 2.0*](
-  https://www.airshipit.org/blog/airship-blog-series-1-evolution-towards-2.0.html)
+  https://www.airshipit.org/blog/pre-alpha-airship-blog-series-1-evolution-towards-2.0.html)
 
 <br>
 

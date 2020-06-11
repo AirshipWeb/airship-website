@@ -8,6 +8,15 @@ category:
     id: category-C98iZYrE1
 ---
 
+# **UPDATED DESIGN THINKING NOTICE**
+
+This blog has been marked as a "pre-alpha" post and may contain inaccurate information. This post has been archived to
+preserve the technologies, design, and thinking of the time. Please see [*this announcement*](
+https://www.airshipit.org/blog/pre-alpha-blog-announcement.html) for more information on the road to Airship 2.0 alpha
+and how the lessons learned influenced the technologies and design of Airship 2.0 "post-alpha".
+
+<hr>
+
 Airship 1.0 dramatically improved the way we provision and manage the infrastructure. Navigating through the journey towards Airship 1.0 release, we have learned many lessons.<!-- more -->
 
 Here are some of the lessons learned in the 1.0 release:
