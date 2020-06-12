@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Airship Blog Series 6 - Armada Growing Pains
+title: Pre-Alpha Airship Blog Series 6 - Armada Growing Pains
 author: Alan Meadows and Rodolfo Pacheco
 date: 2020-01-30T15:25:05.000Z
 category: 
@@ -8,7 +8,7 @@ category:
     id: category-A7fnZYrE1
 ---
 
-# **UPDATED DESIGN THINKING NOTICE**
+## **UPDATED DESIGN THINKING NOTICE**
 
 This blog has been marked as a "pre-alpha" post and may contain inaccurate information. This post has been archived to
 preserve the technologies, design, and thinking of the time. Please see [*this announcement*](
