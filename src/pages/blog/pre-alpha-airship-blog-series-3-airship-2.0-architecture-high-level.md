@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Airship Blog Series 3 - Airship 2.0 Architecture High Level
+title: Pre-Alpha Airship Blog Series 3 - Airship 2.0 Architecture High Level
 author: Alan Meadows and Rodolfo Pacheco
 date: 2019-08-10T09:00:00.000Z
 category: 
@@ -8,7 +8,7 @@ category:
     id: category-C98iZYrE1
 ---
 
-# **UPDATED DESIGN THINKING NOTICE**
+## **UPDATED DESIGN THINKING NOTICE**
 
 This blog has been marked as a "pre-alpha" post and may contain inaccurate information. This post has been archived to
 preserve the technologies, design, and thinking of the time. Please see [*this announcement*](
