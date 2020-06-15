@@ -1,7 +1,7 @@
 {
   "bar": {
-    "text": "Are you running or evaluating Airship? Provide feedback to the community through the User Survey!",
-    "link": "https://www.surveymonkey.com/r/AirshipUserSurvey",
-    "button": "TAKE THE SURVEY"
+    "text": "Airship is mentioned in the latest white paper from the OSF Edge Computing Group",
+    "link": "https://www.openstack.org/edge-computing/edge-computing-next-steps-in-architecture-design-and-testing",
+    "button": "Read it here"
   }
 }
