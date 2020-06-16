@@ -32,6 +32,8 @@ the alpha milestone:
 - [*Airship Blog Series 6 - Armada Growing Pains*](
    https://www.airshipit.org/blog/airship-blog-series-6-armada-growing-pains.html)
 
+<br>
+
 Stay tuned for more exciting news on the Airship blog series as Airship2.0 progresses through the beta milestone and
 beyond!
 
@@ -40,17 +42,17 @@ beyond!
 ## **JUNE VIRTUAL PTG**
 
 On 04-05 June Airship participated in the OSF hosted Virtual PTG. The PTG facilitated productive cross-team
-collaborations with StarlingX, Ironic and the Edge Working Group. Feed back has been very positive, what follows is a
-summary of the PTG:
+collaborations with StarlingX, Ironic, and the Edge Working Group. Feedback provided to the PTG organizers by attendees
+has been very positive. What follows is a summary of the PTG:
 
-In general the attendees were satisfied with the times selected striking a good balance across timezones, between
-virtual and PTG. Most attendees were also in favor of the focused 2 day PTG that did not require full focus for an
+In general, the attendees were satisfied with the times selected striking a good balance across timezones, between
+virtual and PTG. Most attendees were also in favor of the focused 2 days PTG that did not require full focus for an
 entire week.
 
-Conversations with Starling-X included an update on Airship2.0, and laid out the deprecation cycle for Armada, an
-Airship project being leveraged by Starling-X which is not being developed further in Airship2.0, for more details see
-this [*blog post*](https://www.airshipit.org/blog/airship-blog-series-6-armada-growing-pains.html). We are encouraging
-the Starling-X community to check out the Flux Helm Operator which will be replacing Armada in Airship2.0
+Conversations with Starling-X included an update on Airship2.0 and laid out the deprecation cycle for Armada. We are
+encouraging the Starling-X community to check out the Flux Helm Operator which will be replacing Armada in Airship2.0.
+For more details on Armada's evolution from Airship1 to Airship2 see this [*blog post*](
+https://www.airshipit.org/blog/airship-blog-series-6-armada-growing-pains.html).
 
 There was Airship representation at the Edge Working group, to provide an update on Airship 2.0 and how it targets
 various edge computing use cases.
@@ -60,7 +62,7 @@ Airship worked closely with the OpenStack-Helm team with a focus on code review 
 Representing the Airship community was Noor from Dell at the Ironic sessions. These sessions highlighted some potential
 future paths forward with vendor variations of Redfish.
 
-The planned agenda, [*here*](https://etherpad.opendev.org/p/airship-virtual-ptg-2020) was a perfect fit for the allotted
+The planned agenda [*here*](https://etherpad.opendev.org/p/airship-virtual-ptg-2020) was a perfect fit for the allotted
 time.
 
 <br>
