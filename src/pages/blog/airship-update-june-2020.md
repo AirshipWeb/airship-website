@@ -42,7 +42,7 @@ In general, the attendees were satisfied with the times selected striking a good
 virtual and PTG. Most attendees were also in favor of the focused two days PTG that did not require full focus for an
 entire week.
 
-Conversations with StarlingX included an update on Airship2.0 and laid out the deprecation cycle for Armada. We are
+Conversations with StarlingX included an update on Airship 2.0 and laid out the deprecation cycle for Armada. We are
 encouraging the StarlingX community to check out the Flux Helm Operator which will be replacing Armada in Airship 2.0.
 For more details on Armada's evolution from Airship 1.0 to Airship 2.0 see this [_blog post_](https://www.airshipit.org/blog/airship-blog-series-6-armada-growing-pains.html).
 
