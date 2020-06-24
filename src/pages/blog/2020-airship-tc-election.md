@@ -4,8 +4,8 @@ title: Congratulations To The 2020-2021 Technical Committee
 author: Alexander Hughes
 date: 2020-06-22T12:00:00.000Z
 category: 
-  - label: Election
-    id: category-A7xLnYrE1
+  - id: category-A7xLnYrE1
+    label: Election
 ---
 
 The Airship team is excited to announce the completion of its second [_Technical Committee election_](
@@ -21,6 +21,8 @@ The Airship Technical Committee is composed of five elected members, representin
 * Alexey Odinokov, Mirantis
 * Jan-Erik Mångs, Ericsson
 * John (JT) Williams, Dell
+
+<br>
 
 We want to extend our congratulations to the new Technical Committee members and recognize the contributions of Andrew
 Leasck, James Gu, and Ryan van Wyk to the Airship Community through their roles on the Technical Committee last year.
