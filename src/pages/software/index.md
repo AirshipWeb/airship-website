@@ -26,7 +26,7 @@ intro:
       image: /img/document.svg
       link: 
         text: Go to Treasuremap
-        url: https://airship-treasuremap.readthedocs.io/en/latest/
+        url: https://docs.airshipit.org/treasuremap/
 ---
 
 <br/>
