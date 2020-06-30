@@ -146,7 +146,7 @@ You can join the new Slack channel [*here*](https://airshipit.org/slack).
 The Airship community is committed to confirming, resolving, and disclosing all reported security vulnerabilities.
 
 The Airship community recently added the following
-[*documentation*](https://airshipit.readthedocs.io/projects/airship-docs/en/latest/security/guide.html) for more
+[*documentation*](https://docs.airshipit.org/learn/vulnerabilities.html) for more
 information on how detected vulnerabilities are confirmed, resolved, and disclosed. This new documentation describes how
 a user can report security vulnerabilities in Airship software.
 

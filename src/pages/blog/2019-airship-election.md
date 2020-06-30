@@ -51,4 +51,4 @@ information about how Airship can manage infrastructure deployments and
 lifecycle. There’s a wealth of information about how to get started by using
 [Airship in a Bottle](https://opendev.org/airship/airship-in-a-bottle),
 attending one of the [weekly meetings](https://wiki.openstack.org/wiki/Airship#Get_in_Touch), and [getting
-involved with development](https://airshipit.readthedocs.io/en/latest/dev-getting-started.html).
+involved with development](https://docs.airshipit.org/develop/developers.html).
