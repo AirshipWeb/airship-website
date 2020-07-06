@@ -55,6 +55,12 @@ supporters:
     - alt: JIT STack
       class: img-sponsor-l4
       image: /img/jitstack-logo-lg.jpg
+    - alt: Vexxhost
+      class: img-sponsor-l4
+      image: /img/vexxhost.svg
+    - alt: warescale network
+      class: img-sponsor-l4
+      image: /img/warescale-1.png
   title: Supporting Organizations
 contributors:
   list:
