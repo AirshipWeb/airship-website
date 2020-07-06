@@ -49,6 +49,9 @@ supporters:
     - alt: Troila Technology
       class: img-sponsor-l4
       image: /img/troila-new-lg.jpg
+    - alt: AWCloud
+      class: img-sponsor-l4
+      image: /img/logo-awcloud.svg
   title: Supporting Organizations
 contributors:
   list:
