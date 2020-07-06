@@ -49,6 +49,12 @@ supporters:
     - alt: Troila Technology
       class: img-sponsor-l4
       image: /img/troila-new-lg.jpg
+    - alt: AWCloud
+      class: img-sponsor-l4
+      image: /img/logo-awcloud.svg
+    - alt: JIT STack
+      class: img-sponsor-l4
+      image: /img/jitstack-logo-lg.jpg
   title: Supporting Organizations
 contributors:
   list:
