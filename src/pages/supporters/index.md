@@ -52,6 +52,9 @@ supporters:
     - alt: AWCloud
       class: img-sponsor-l4
       image: /img/logo-awcloud.svg
+    - alt: JIT STack
+      class: img-sponsor-l4
+      image: /img/jitstack-logo-lg.jpg
   title: Supporting Organizations
 contributors:
   list:
