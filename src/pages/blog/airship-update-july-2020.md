@@ -69,7 +69,7 @@ The project update included:
 * The newly introduced [_Vulnerability Management Process_](https://docs.airshipit.org/learn/vulnerabilities.html)
 * An update on GitHub Issues utilization
 * Notification of the Technical Committee (TC) and Working Committee (WC) elections
-* Announcement of the [_Airship User Survery_](https://www.surveymonkey.com/r/YKZ9NC2)
+* Announcement of the [_Airship User Survey_](https://www.surveymonkey.com/r/YKZ9NC2)
 
 <br>
 
