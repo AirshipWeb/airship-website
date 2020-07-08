@@ -15,7 +15,7 @@ What follows is the Airship Community Update for July 2020, brought to you by th
 
 - Last month the community elected the 2020-2021 Technical Committee. For more information, check out this blog
   [_post_](https://www.airshipit.org/blog/2020-airship-tc-election/).
-- Ironic published a White Paper on Baremetal with input from multiple projects, including members of Airship. Check it
+- Ironic published the Bare Metal Whitepaper with input from multiple projects, including members of Airship. Check it
   out [_here_](PLACEHOLDER LINK EXPECTED TO BE PUBLISHED WEEK OF 13 JULY).
 
 <br>
@@ -50,7 +50,7 @@ beyond!
 
 ## **AIRSHIP PROJECT UPDATE**
 
-Each quarter the OpenStack Foundation hosts a community meeting where the latest news about OpenStack and top-level
+Each quarter the OpenStack Foundation hosts a community meeting where the latest news about OpenStack and community
 projects can be shared. On 25 June, Airship presented a project update alongside OpenStack, Kata Containers, StarlingX,
 Zuul, and pilot project OpenInfra Labs.
 
@@ -75,8 +75,8 @@ The project update included:
 
 ## **WORKING COMMITTEE ELECTION**
 
-The Technical Committee (TC) is excited to announce the 2020-2021 Working Committee (WC) election! This election will
-follow the same two-week cycle that the Technical Committee (TC) election followed last month.
+The Technical Committee is excited to announce the 2020-2021 Working Committee election! This election will
+follow the same two-week cycle that the Technical Committee election followed last month.
 
 * Nomination Period: 20-26 July
 * Voting Period: 27 July-02 August
@@ -96,12 +96,10 @@ For more details concerning eligibility, responsibilities, and election processe
 
 ## **AIRSHIP USER SURVEY**
 
-If you are evaluating or running Airship, share your feedback in the [_Airship User Survey_](
-https://www.surveymonkey.com/r/YKZ9NC2)! This survey provides users an opportunity to provide anonymous feedback to
-influence the community and software direction. By sharing information about your configuration and requirements, the
-Airship Working Committee will advocate on your behalf. We will present the 2020 survey results at the Fall Summit in
-November. Take the [_Airship User Survey_](https://www.surveymonkey.com/r/YKZ9NC2) to be included in this round of
-analysis.
+Are you evaluating Airship or using Airship in production? We want to learn from your experience! Take the [_Airship
+User Survey_](https://www.surveymonkey.com/r/YKZ9NC2); the Working Committee reviews each response and helps us to grow
+and mature Airship. We will present the 2020 survey results at the Fall Summit in November. Take the [_Airship User
+Survey_](https://www.surveymonkey.com/r/YKZ9NC2) today to be included in this round of analysis.
 
 <br>
 
