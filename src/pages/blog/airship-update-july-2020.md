@@ -8,14 +8,13 @@ category:
     label: Airship 2.0
 ---
 
-What follows is the Airship Community Update for the month of July 2020, brought to you by the Airship Technical
-Committee.
+What follows is the Airship Community Update for July 2020, brought to you by the Airship Technical Committee.
 <!-- more -->
 
-## **SPOTLIGHT ON ....**
+## **SPOTLIGHT ON...**
 
-- Last month the community elected the 2020-2021 Technical Committee. For more information check out this blog [_post_](
-  https://www.airshipit.org/blog/2020-airship-tc-election/).
+- Last month the community elected the 2020-2021 Technical Committee. For more information, check out this blog
+  [_post_](https://www.airshipit.org/blog/2020-airship-tc-election/).
 - Ironic published a White Paper on Baremetal with input from multiple projects, including members of Airship. Check it
   out [_here_](PLACEHOLDER LINK EXPECTED TO BE PUBLISHED WEEK OF 13 JULY).
 
@@ -24,10 +23,10 @@ Committee.
 ## **AIRSHIP BLOG**
 
 The Airship blog is a great way to keep up with what's going on in the community. The Airship community publishes
-[_blog posts_](https://www.airshipit.org/blog/) regularly, including the recent Airship 2.0 Blog series. These blog
-posts introduce the changes from Airship 1.0 to Airship 2.0, highlight new features, and detail the evolution of each
-component. The first six Airship 2.0 Blog posts are already available, and illustrate the design thoughts on the road to
-the alpha milestone:
+[_blog posts_](https://www.airshipit.org/blog/) regularly, including the new Airship 2.0 Blog series. These blog posts
+introduce the changes from Airship 1.0 to Airship 2.0, highlight new features, and detail each component's evolution.
+The first six Airship 2.0 Blog posts are already available, and illustrate the design thoughts on the road to the alpha
+milestone:
 
 * [_Airship Blog Series 1 - Evolution Towards 2.0_](
   https://www.airshipit.org/blog/airship-blog-series-1-evolution-towards-2.0.html)
@@ -52,13 +51,10 @@ beyond!
 ## **AIRSHIP PROJECT UPDATE**
 
 Each quarter the OpenStack Foundation hosts a community meeting where the latest news about OpenStack and top-level
-projects can be shared. On 25 June Airship presented a project update alongside OpenStack, Kata Containers, StarlingX,
-Zuul and pilot project OpenInfra Labs.
+projects can be shared. On 25 June, Airship presented a project update alongside OpenStack, Kata Containers, StarlingX,
+Zuul, and pilot project OpenInfra Labs.
 
-The slides, recording, and agenda were shared in [_this message_](
-http://lists.airshipit.org/pipermail/airship-discuss/2020-June/001009.html) on the [_Airship Mailing List_](
-http://lists.airshipit.org/cgi-bin/mailman/listinfo).
-
+Catch up on the community meeting with these resources:
 * [_Recording_](https://zoom.us/rec/share/vJF_FqPgxGJJQ9bntR7vaqM7N7i_X6a81yQa8vtcxU06amK9pV9imWJnfHRSUcQ6),
   Password: 7W!T*i74
 * [_Slides_](https://docs.google.com/presentation/d/16V82OIYfthb3fFlVoes9jZGKMgDIJZ55F8fXqd1M1hU/edit?usp=sharing)
@@ -72,7 +68,7 @@ The project update included:
 * Results of the [_Virtual PTG in June_](https://etherpad.opendev.org/p/airship-virtual-ptg-2020)
 * The newly introduced [_Vulnerability Management Process_](https://docs.airshipit.org/learn/vulnerabilities.html)
 * An update on GitHub Issues utilization
-* Announcement of the Technical Committee (TC) and Working Committee (WC) elections
+* Notification of the Technical Committee (TC) and Working Committee (WC) elections
 * Announcement of the [_Airship User Survery_](https://www.surveymonkey.com/r/YKZ9NC2)
 
 <br>
@@ -80,7 +76,7 @@ The project update included:
 ## **WORKING COMMITTEE ELECTION**
 
 The Technical Committee (TC) is excited to announce the 2020-2021 Working Committee (WC) election! This election will
-follow the same two week cycle that the Technical Committee (TC) election followed last month.
+follow the same two-week cycle that the Technical Committee (TC) election followed last month.
 
 * Nomination Period: 20-26 July
 * Voting Period: 27 July-02 August
@@ -89,12 +85,12 @@ follow the same two week cycle that the Technical Committee (TC) election follow
 
 Anyone who has had changes merged within the last 12 months to an Airship project is eligible to run for the Working
 Committee. Anyone who is a Core Reviewer of any Airship Project before the election will be eligible to vote for the WC
-candidates. There are no term limits, but in order to encourage diversity, no more than two of the five seats can be
-filled by any one organization. The Working Committee will meet regularly in an open forum with times and locations
-published in community channels.
+candidates. There are no term limits, but any organization can fill no more than two of the five seats to encourage
+diversity. The Working Committee will meet regularly in an open forum with times and locations published in community
+channels.
 
-For more details for eligibility, responsibilities, and election processes please see the [_Airship Governance_](
-https://opendev.org/airship/governance).
+For more details concerning eligibility, responsibilities, and election processes, please consult the
+[_Airship Governance_](https://opendev.org/airship/governance).
 
 <br>
 
@@ -103,9 +99,9 @@ https://opendev.org/airship/governance).
 If you are evaluating or running Airship, share your feedback in the [_Airship User Survey_](
 https://www.surveymonkey.com/r/YKZ9NC2)! This survey provides users an opportunity to provide anonymous feedback to
 influence the community and software direction. By sharing information about your configuration and requirements, the
-Airship Working Committee will be able to advocate on your behalf. The 2020 survey results will be presented at the Fall
-Summit, November, 2020. Take the [_Airship User Survey_](https://www.surveymonkey.com/r/YKZ9NC2) to be included in this
-round of analysis.
+Airship Working Committee will advocate on your behalf. We will present the 2020 survey results at the Fall Summit in
+November. Take the [_Airship User Survey_](https://www.surveymonkey.com/r/YKZ9NC2) to be included in this round of
+analysis.
 
 <br>
 
