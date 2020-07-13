@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Airship Update - July 2020
 author: Alexander Hughes
-date: 2020-07-11T12:00:00.000Z
+date: 2020-07-13T12:00:00.000Z
 category:
   - id: category-C98iZYrE1
     label: Airship 2.0
@@ -73,8 +73,9 @@ The project update included:
 
 ## **WORKING COMMITTEE ELECTION**
 
-The Technical Committee is excited to announce the 2020-2021 Working Committee election! This election will
-follow the same two-week cycle that the Technical Committee election followed last month.
+The Technical Committee is excited to [_announce_](
+http://lists.airshipit.org/pipermail/airship-discuss/2020-July/001027.html) the 2020-2021 Working Committee election!
+This election will follow the same two-week cycle that the Technical Committee election followed last month.
 
 * Nomination Period: 20-26 July
 * Voting Period: 27 July-02 August
