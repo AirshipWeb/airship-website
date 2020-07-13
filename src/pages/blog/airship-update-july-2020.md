@@ -15,8 +15,6 @@ What follows is the Airship Community Update for July 2020, brought to you by th
 
 - Last month the community elected the 2020-2021 Technical Committee. For more information, check out this blog
   [_post_](https://www.airshipit.org/blog/2020-airship-tc-election/).
-- Ironic published the Bare Metal Whitepaper with input from multiple projects, including members of Airship. Check it
-  out [_here_](PLACEHOLDER LINK EXPECTED TO BE PUBLISHED WEEK OF 13 JULY).
 
 <br>
 
