@@ -10,7 +10,7 @@ category:
 
 ## **ANNOUNCING THE IRONIC BAREMETAL WHITEPAPER**
 
-This week the OpenStack Foundation hosted the [_Hardware Automation_](
+This week the OpenStack Foundation hosted the [_OpenDev: Hardware Automation_](
 https://www.openstack.org/events/opendev-2020/opendev-schedule-2) event, and one of the many exciting things announced
 was the [_Baremetal White Paper_](
 https://www.openstack.org/bare-metal/how-ironic-delivers-abstraction-and-automation-using-open-source-infrastructure).
@@ -19,7 +19,8 @@ collaboration of more than 26 individuals representing more than 15 companies - 
 Dell Technologies, Ericsson, Fujitsu, OpenStack Foundation (OSF), Red Hat, SK Telecom, StackHPC, SUSE, SWITCH, Xflow
 Research, and ZTE.
 
-Be sure to catch up on all three days of the Hardware Automation event with these resources:
+Be sure to catch up on all three days of the [_OpenDev: Hardware Automation_](
+https://www.openstack.org/events/opendev-2020/opendev-schedule-2) event with these resources:
 
 **Day One**
 * Recording: https://www.youtube.com/watch?v=Do1ugxm4PGw
