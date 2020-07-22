@@ -40,8 +40,9 @@ Be sure to catch up on all three days of the Hardware Automation event with thes
 <br>
 
 I encourage you to read the full paper [_here_](
-https://www.openstack.org/bare-metal/how-ironic-delivers-abstraction-and-automation-using-open-source-infrastructure),
-what follows is the Airship Case Study section of the document.
+https://www.openstack.org/bare-metal/how-ironic-delivers-abstraction-and-automation-using-open-source-infrastructure).
+What follows is the Airship Case Study section of the document crafted by Airship community members Alex Bailey, Matt
+McEuen, and Pete Birley.
 
 ## **AIRSHIP CASE STUDY**
 
