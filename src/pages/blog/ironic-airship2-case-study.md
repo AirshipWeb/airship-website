@@ -44,6 +44,8 @@ https://www.openstack.org/bare-metal/how-ironic-delivers-abstraction-and-automat
 What follows is the Airship Case Study section of the document crafted by Airship community members Alex Bailey, Matt
 McEuen, and Pete Birley.
 
+<br>
+
 ## **AIRSHIP CASE STUDY**
 
 The goals of Airship are to enable operators to predictably deliver raw infrastructure as a resilient cloud and to
