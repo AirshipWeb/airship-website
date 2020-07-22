@@ -15,27 +15,27 @@ https://www.openstack.org/events/opendev-2020/opendev-schedule-2) event, and one
 was the [_Baremetal White Paper_](
 https://www.openstack.org/bare-metal/how-ironic-delivers-abstraction-and-automation-using-open-source-infrastructure).
 This document details how Ironic delivers abstraction and automation using Open Source Software and is the result of a
-collaboration of more 26 individuals representing more than 15 companies - including AT&T, Cathey.Co, CERN, CSIRO, Dell
-Technologies, Ericsson, Fujitsu, OpenStack Foundation (OSF), Red Hat, SK Telecom, StackHPC, SUSE, SWITCH, Xflow
+collaboration of more than 26 individuals representing more than 15 companies - including AT&T, Cathey.Co, CERN, CSIRO,
+Dell Technologies, Ericsson, Fujitsu, OpenStack Foundation (OSF), Red Hat, SK Telecom, StackHPC, SUSE, SWITCH, Xflow
 Research, and ZTE.
 
 Be sure to catch up on all three days of the Hardware Automation event with these resources:
 
 **Day One**
-* Recording: _https://www.youtube.com/watch?v=Do1ugxm4PGw_
-* Agenda: _https://etherpad.opendev.org/p/OpenDev_HardwareAutomation_Day1_
+* Recording: https://www.youtube.com/watch?v=Do1ugxm4PGw
+* Agenda: https://etherpad.opendev.org/p/OpenDev_HardwareAutomation_Day1
 
 <br>
 
 **Day Two**
-* Recording: _https://www.youtube.com/watch?v=tnbnrG0xvfA_
-* Agenda: _https://etherpad.opendev.org/p/OpenDev_HardwareAutomation_Day2_
+* Recording: https://www.youtube.com/watch?v=tnbnrG0xvfA
+* Agenda: https://etherpad.opendev.org/p/OpenDev_HardwareAutomation_Day2
 
 <br>
 
 **Day Three**
-* Recording: _https://www.youtube.com/watch?v=V6vPKxDzaP8_
-* Agenda: _https://etherpad.opendev.org/p/OpenDev_HardwareAutomation_Day3_
+* Recording: https://www.youtube.com/watch?v=V6vPKxDzaP8
+* Agenda: https://etherpad.opendev.org/p/OpenDev_HardwareAutomation_Day3
 
 <br>
 
