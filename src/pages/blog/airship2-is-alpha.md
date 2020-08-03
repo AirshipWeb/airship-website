@@ -27,38 +27,39 @@ delivering something functional.
 Given some of these course corrections and adjustments, we thought it is worth briefly touching upon the impacted points
 and approaches we made in some of the previous blog posts. We believe it’s worth specifically revisiting:
 * [_**Shipyard - an Evolution of the Front Door**_](https://www.airshipit.org/blog/airship-blog-series-4-shipyard-an-evolution-of-the-front-door/)
-  * In this blog post, we mentioned that the _airshipctl_ utility operates on a Kubernetes cluster security context.
-    The _**airshipctl**_ utility is the main entry point for bootstrapping a cluster, collecting and pushing documents,
-    and managing workflows. A lesson we learned in Airship 1.0 was that expressing a site as the _complete_ series of
-    document declarations for that site was challenging to manage and mentally digest. In Airship 2.0, we represent
-    lifecycle management as a series of phases that simplify how a Kubernetes cluster is built and subsequently managed.
-    Phases help people deal with a much smaller document set that is granularly scoped to a particular objective. We
-    will dive deeper into phases, the value they provide, implementation and how they simplify lifecycle management in a
-    future post.
+    * In this blog post, we mentioned that the _airshipctl_ utility operates on a Kubernetes cluster security context.
+      The _**airshipctl**_ utility is the main entry point for bootstrapping a cluster, collecting and pushing
+      documents, and managing workflows. A lesson we learned in Airship 1.0 was that expressing a site as the _complete_
+      series of document declarations for that site was challenging to manage and mentally digest. In Airship 2.0, we
+      represent lifecycle management as a series of phases that simplify how a Kubernetes cluster is built and
+      subsequently managed. Phases help people deal with a much smaller document set that is granularly scoped to a
+      particular objective. We will dive deeper into phases, the value they provide, implementation and how they
+      simplify lifecycle management in a future post.
 
 <br>
 
 * [_**Armada - growing pains**_](https://www.airshipit.org/blog/airship-blog-series-6-armada-growing-pains/)
-  * In this blog post, we discussed the expected evolution for Armada, the path led us to the need to embrace Kubernetes
-    CRDs, integrate with Helm v3, and take advantage of a CNCF workflow engine like Argo. We also touched on rewriting 
-    Armada in Golang. As part of this intended evolution, we spoke to several members of the Helm community. We got
-    their blessing to propose an official in-tree or next-to-tree helm-operator, for which we would provide a small
-    proof of concept skeleton. In this case, remaining vigilant paid off, and while doing our due diligence of
-    identifying comparable projects, we found a candidate project upstream. The flux community spearheads this vibrant
-    community project, it's called the helm-operator, and it achieves most of our needs outlined in this post.
-  * Specifically, the flux helm-operator has the following capabilities:
-    * It operates on HelmRelease CRs to lifecycle software
-    * It's a Kubernetes operator pattern
-    * Visibility via natural Kubernetes mechanism such as describing HelmRelease objects
-    * The project is a CNCF sandbox project
-  * It does, however, leave some gaps in functionality from what Armada provided:
-    * There is no multi-chart dependency control
-    * The wait mechanisms could be improved
-    * You cannot provide per-helm-release proxy details to facilitate a mix of internal and upstream charts in
-      environments requiring proxies.
-    * These gaps within the realm of Airship can be closed utilizing the phase mechanism, and as per our community
-      expectation, we are now active participants in these communities. We will try to achieve some of our goals in
-      these gaps over time.
+    * In this blog post, we discussed the expected evolution for Armada, the path led us to the need to embrace
+      Kubernetes CRDs, integrate with Helm v3, and take advantage of a CNCF workflow engine like Argo. We also touched
+      on rewriting Armada in Golang. As part of this intended evolution, we spoke to several members of the Helm
+      community. We got their blessing to propose an official in-tree or next-to-tree helm-operator, for which we would
+      provide a small proof of concept skeleton. In this case, remaining vigilant paid off, and while doing our due
+      diligence of identifying comparable projects, we found a candidate project upstream. The flux community spearheads
+      this vibrant community project, it's called the helm-operator, and it achieves most of our needs outlined in this
+      post.
+    * Specifically, the flux helm-operator has the following capabilities:
+        * It operates on HelmRelease CRs to lifecycle software
+        * It's a Kubernetes operator pattern
+        * Visibility via natural Kubernetes mechanism such as describing HelmRelease objects
+        * The project is a CNCF sandbox project
+    * It does, however, leave some gaps in functionality from what Armada provided:
+        * There is no multi-chart dependency control
+        * The wait mechanisms could be improved
+        * You cannot provide per-helm-release proxy details to facilitate a mix of internal and upstream charts in
+          environments requiring proxies.
+        * These gaps within the realm of Airship can be closed utilizing the phase mechanism, and as per our community
+          expectation, we are now active participants in these communities. We will try to achieve some of our goals in
+          these gaps over time.
 
 <br>
 
