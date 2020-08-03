@@ -47,18 +47,19 @@ and approaches we made in some of the previous blog posts. We believe it’s wor
       diligence of identifying comparable projects, we found a candidate project upstream. The flux community spearheads
       this vibrant community project, it's called the helm-operator, and it achieves most of our needs outlined in this
       post.
-<br>
     * Specifically, the flux helm-operator has the following capabilities:
         * It operates on HelmRelease CRs to lifecycle software
         * It's a Kubernetes operator pattern
         * Visibility via natural Kubernetes mechanism such as describing HelmRelease objects
         * The project is a CNCF sandbox project
+
 <br>
     * It does, however, leave some gaps in functionality from what Armada provided:
         * There is no multi-chart dependency control
         * The wait mechanisms could be improved
         * You cannot provide per-helm-release proxy details to facilitate a mix of internal and upstream charts in
           environments requiring proxies.
+
 <br>
     * These gaps within the realm of Airship can be closed utilizing the phase mechanism, and as per our community
       expectation, we are now active participants in these communities. We will try to achieve some of our goals in
