@@ -57,9 +57,9 @@ and approaches we made in some of the previous blog posts. We believe it’s wor
         * The wait mechanisms could be improved
         * You cannot provide per-helm-release proxy details to facilitate a mix of internal and upstream charts in
           environments requiring proxies.
-        * These gaps within the realm of Airship can be closed utilizing the phase mechanism, and as per our community
-          expectation, we are now active participants in these communities. We will try to achieve some of our goals in
-          these gaps over time.
+    * These gaps within the realm of Airship can be closed utilizing the phase mechanism, and as per our community
+      expectation, we are now active participants in these communities. We will try to achieve some of our goals in
+      these gaps over time.
 
 <br>
 
