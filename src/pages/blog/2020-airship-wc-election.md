@@ -9,18 +9,18 @@ category:
 ---
 
 The Airship team is excited to announce the completion of its second [_Working Committee election_](
-***PLACEHOLDER LINK***)! The [_Working Committee_](
+http://lists.airshipit.org/pipermail/airship-discuss/2020-August/001062.html)! The [_Working Committee_](
 https://opendev.org/airship/governance#user-content-working-committee), one of the two governing bodies for Airship,
 is responsible for defining the project core principles, performing marketing and communications, and providing
 product management and ecosystem support.
 
-The Airship Working Committee is composed of five elected members, representing leaders from ***NUMBER*** different companies:
+The Airship Working Committee is composed of five elected members, representing leaders from four different companies:
 
-* WC member, Company
-* WC member, Company
-* WC member, Company
-* WC member, Company
-* WC member, Company
+* Drew Walters, AT&T
+* James Gu, Insight Global
+* Kostiantyn Kalynovskyi, Mirantis
+* Matt McEuen, AT&T
+* Sreejith Punnapuzha, Ericsson
 
 <br>
 
