@@ -1,12 +1,19 @@
 ---
 templateKey: blog-post
-title: Airship Blog Series 2 - An Educated Evolution
+title: Pre-Alpha Airship Blog Series 2 - An Educated Evolution
 author: Rodolfo Pacheco and Alan Meadows
 date: 2019-07-11T09:00:00.000Z
 category: 
   - label: Airship 2.0
     id: category-C98iZYrE1
 ---
+
+_**UPDATE 03-August-2020:** Airship 2.0 development spans multiple milestones. Upon completing the first major
+milestone, Alpha, the community took some time to reflect on lessons learned and how they impacted the direction and
+design of Airship 2.0. We have summarized these lessons learned and how the design has changed over time - including
+using different technologies and approaches. You can read more about these changes here: [Airship 2.0 is Alpha - Lessons
+Learned](https://www.airshipit.org/blog/airship2-is-alpha/). You should review these changes before reading blogs posted
+before the Airship 2.0 beta milestone._
 
 Airship 1.0 dramatically improved the way we provision and manage the infrastructure. Navigating through the journey towards Airship 1.0 release, we have learned many lessons.<!-- more -->
 

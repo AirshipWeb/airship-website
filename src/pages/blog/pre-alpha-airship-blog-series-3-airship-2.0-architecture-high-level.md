@@ -1,12 +1,19 @@
 ---
 templateKey: blog-post
-title: Airship Blog Series 3 - Airship 2.0 Architecture High Level
+title: Pre-Alpha Airship Blog Series 3 - Airship 2.0 Architecture High Level
 author: Alan Meadows and Rodolfo Pacheco
 date: 2019-08-10T09:00:00.000Z
 category: 
   - label: Airship 2.0
     id: category-C98iZYrE1
 ---
+
+_**UPDATE 03-August-2020:** Airship 2.0 development spans multiple milestones. Upon completing the first major
+milestone, Alpha, the community took some time to reflect on lessons learned and how they impacted the direction and
+design of Airship 2.0. We have summarized these lessons learned and how the design has changed over time - including
+using different technologies and approaches. You can read more about these changes here: [Airship 2.0 is Alpha - Lessons
+Learned](https://www.airshipit.org/blog/airship2-is-alpha/). You should review these changes before reading blogs posted
+before the Airship 2.0 beta milestone._
 
 In order to achieve the goals of vanishing complexity, as well as broaden the variety of supported use cases for Airship 2.0, we shifted far more of the process to the left. We will accomplish this by introducing [*airshipctl*](https://opendev.org/airship/airshipctl). The [*airshipctl*](https://opendev.org/airship/airshipctl) command line interface is really the heart of the Airship 2.0 platform. It places an emphasis on a thick client that is effectively able to speak to k8s in remote sites and natively understands [*Argo*](https://argoproj.github.io/) workflows to drive cluster life cycle management. This contrasts with Airship 1.0 which leveraged a Shipyard API in the remote site, which was a long-lived service and used many Airship specific projects instantiated in the site to accomplish the life cycle management of Airship documents, kubernetes, baremetal nodes, and helm charts.<!-- more -->
 

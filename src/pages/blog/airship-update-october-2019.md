@@ -33,13 +33,32 @@ What follows is the Airship Community Update for the month of October, 2019, bro
 
 ![](/img/growth-of-community-201910.png)
 
-## **THE AIRSHIP BLOG**
+## **AIRSHIP BLOG**
 
-The Airship blog is a great way to keep up with what's going on in the community. The Airship community publishes [blog posts](https://www.airshipit.org/blog/) regularly, including the recent:
+The Airship blog is a great way to keep up with what's going on in the community. The Airship community publishes
+[*blog posts*](https://www.airshipit.org/blog/) regularly, including the recent Airship 2.0 Blog series. These blog
+posts introduce the changes from Airship 1.0 to Airship 2.0, highlight new features, and detail the evolution of each
+component. The first six Airship 2.0 Blog posts are already available:
 
-- [Airship 2.0 Blog Series 4 "Shipyard - an Evolution of the Front Door"](https://www.airshipit.org/blog/airship-blog-series-4-shipyard-an-evolution-of-the-front-door.html): Shipyard provides a frontend API within Airship environments that allows users to push their declared documents into sites and execute pre-defined Directed Acyclic Graphs (DAGs) against those declarations. DAG is a directed graph data structure for topological ordering. From an architectural perspective, this is what Shipyard looks like today and how it interacts with other Airship components. Read more: [https://www.airshipit.org/blog/airship-blog-series-4-shipyard-an-evolution-of-the-front-door.html](https://www.airshipit.org/blog/airship-blog-series-4-shipyard-an-evolution-of-the-front-door.html).
+_**UPDATE 03-August-2020:** Airship 2.0 development spans multiple milestones. Upon completing the first major
+milestone, Alpha, the community took some time to reflect on lessons learned and how they impacted the direction and
+design of Airship 2.0. We have summarized these lessons learned and how the design has changed over time - including
+using different technologies and approaches. You can read more about these changes here: [Airship 2.0 is Alpha - Lessons
+Learned](https://www.airshipit.org/blog/airship2-is-alpha/). You should review these changes before reading blogs posted
+before the Airship 2.0 beta milestone._
 
-- [Airship 2.0 Blog Series #5 "Drydock and Its Relationship to Cluster API"](https://www.airshipit.org/blog/airship-blog-series-5-drydock-and-its-relationship-to-cluster-api.html): As part of the evolution of Airship 1.0, an enduring goal has remained supporting multiple provisioning backends beyond just bare metal. This includes those that can provision to third-party clouds and to other use cases like OpenStack VMs as well as enable you to bring your own infrastructure. Read more: [https://www.airshipit.org/blog/airship-blog-series-5-drydock-and-its-relationship-to-cluster-api.html](https://www.airshipit.org/blog/airship-blog-series-5-drydock-and-its-relationship-to-cluster-api.html).
+- [*Pre-Alpha Airship Blog Series 1 - Evolution Towards 2.0*](
+  https://www.airshipit.org/blog/pre-alpha-airship-blog-series-1-evolution-towards-2.0.html)
+- [*Pre-Alpha Airship Blog Series 2 - An Educated Evolution*](
+   https://www.airshipit.org/blog/pre-alpha-airship-blog-series-2-an-educated-evolution.html)
+- [*Pre-Alpha Airship Blog Series 3 - Airship 2.0 Architecture High Level*](
+  https://www.airshipit.org/blog/pre-alpha-airship-blog-series-3-airship-2.0-architecture-high-level.html)
+- [*Pre-Alpha Airship Blog Series 4 - Shipyard - an Evolution of the Front Door*](
+   https://www.airshipit.org/blog/pre-alpha-airship-blog-series-4-shipyard-an-evolution-of-the-front-door.html)
+- [*Pre-Alpha Airship Blog Series 5 - Drydock and Its Relationship to Cluster API*](
+  https://www.airshipit.org/blog/pre-alpha-airship-blog-series-5-drydock-and-its-relationship-to-cluster-api.html)
+- [*Pre-Alpha Airship Blog Series 6 - Armada Growing Pains*](
+   https://www.airshipit.org/blog/pre-alpha-airship-blog-series-6-armada-growing-pains.html)
 
 <br>
 

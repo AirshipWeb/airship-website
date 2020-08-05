@@ -1,12 +1,20 @@
 ---
 templateKey: blog-post
-title: Airship Blog Series 6 - Armada Growing Pains
+title: Pre-Alpha Airship Blog Series 6 - Armada Growing Pains
 author: Alan Meadows and Rodolfo Pacheco
 date: 2020-01-30T15:25:05.000Z
 category: 
   - label: News & Announcements
     id: category-A7fnZYrE1
 ---
+
+_**UPDATE 03-August-2020:** Airship 2.0 development spans multiple milestones. Upon completing the first major
+milestone, Alpha, the community took some time to reflect on lessons learned and how they impacted the direction and
+design of Airship 2.0. We have summarized these lessons learned and how the design has changed over time - including
+using different technologies and approaches. You can read more about these changes here: [Airship 2.0 is Alpha - Lessons
+Learned](https://www.airshipit.org/blog/airship2-is-alpha/). You should review these changes before reading blogs posted
+before the Airship 2.0 beta milestone._
+
 Helm, the Kubernetes package manager, defined a mechanism to define and deploy a set of Kubernetes artifacts and their
 dependencies as a chart. The Helm CLI tool really targeted operators wishing to install a single helm chart at a time
 using the command line.  What was missing for users like Airship was the ability to declaratively define several helm
