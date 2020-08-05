@@ -23,7 +23,7 @@ milestone, Alpha, the community took some time to reflect on lessons learned and
 design of Airship 2.0. We have summarized these lessons learned and how the design has changed over time - including
 using different technologies and approaches. You can read more about these changes here: [Airship 2.0 is Alpha - Lessons
 Learned](https://www.airshipit.org/blog/airship2-is-alpha/). You should review these changes before reading blogs posted
-before the Airship 2.0 beta milestone._
+before the Airship 2.0 Alpha milestone._
 
 - [*Pre-Alpha Airship Blog Series 1 - Evolution Towards 2.0*](
   https://www.airshipit.org/blog/pre-alpha-airship-blog-series-1-evolution-towards-2.0.html)
