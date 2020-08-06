@@ -38,17 +38,17 @@ Learned](https://www.airshipit.org/blog/airship2-is-alpha/). You should review t
 before the Airship 2.0 Alpha milestone._
 
 - [*Pre-Alpha Airship Blog Series 1 - Evolution Towards 2.0*](
-  https://www.airshipit.org/blog/pre-alpha-airship-blog-series-1-evolution-towards-2.0.html)
+  https://www.airshipit.org/blog/pre-alpha-airship-blog-series-1-evolution-towards-2.0/)
 - [*Pre-Alpha Airship Blog Series 2 - An Educated Evolution*](
-   https://www.airshipit.org/blog/pre-alpha-airship-blog-series-2-an-educated-evolution.html)
+  https://www.airshipit.org/blog/pre-alpha-airship-blog-series-2-an-educated-evolution/)
 - [*Pre-Alpha Airship Blog Series 3 - Airship 2.0 Architecture High Level*](
-  https://www.airshipit.org/blog/pre-alpha-airship-blog-series-3-airship-2.0-architecture-high-level.html)
+  https://www.airshipit.org/blog/pre-alpha-airship-blog-series-3-airship-2.0-architecture-high-level/)
 - [*Pre-Alpha Airship Blog Series 4 - Shipyard - an Evolution of the Front Door*](
-   https://www.airshipit.org/blog/pre-alpha-airship-blog-series-4-shipyard-an-evolution-of-the-front-door.html)
+  https://www.airshipit.org/blog/pre-alpha-airship-blog-series-4-shipyard-an-evolution-of-the-front-door/)
 - [*Pre-Alpha Airship Blog Series 5 - Drydock and Its Relationship to Cluster API*](
-  https://www.airshipit.org/blog/pre-alpha-airship-blog-series-5-drydock-and-its-relationship-to-cluster-api.html)
+  https://www.airshipit.org/blog/pre-alpha-airship-blog-series-5-drydock-and-its-relationship-to-cluster-api/)
 - [*Pre-Alpha Airship Blog Series 6 - Armada Growing Pains*](
-   https://www.airshipit.org/blog/pre-alpha-airship-blog-series-6-armada-growing-pains.html)
+  https://www.airshipit.org/blog/pre-alpha-airship-blog-series-6-armada-growing-pains/)
 
 <br>
 
