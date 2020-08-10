@@ -12,7 +12,7 @@ _**UPDATE 03-August-2020:** Airship 2.0 development spans multiple milestones. U
 milestone, Alpha, the community took some time to reflect on lessons learned and how they impacted the direction and
 design of Airship 2.0. We have summarized these lessons learned and how the design has changed over time - including
 using different technologies and approaches. You can read more about these changes here: [Airship 2.0 is Alpha - Lessons
-Learned](https://www.airshipit.org/blog/airship2-is-alpha/). We recommend reviews these changes before reading blogs
+Learned](https://www.airshipit.org/blog/airship2-is-alpha/). We recommend reviewing these changes before reading blogs
 marked as "Pre-Alpha."_
 
 Airship 1.0 dramatically improved the way we provision and manage the infrastructure. Navigating through the journey towards Airship 1.0 release, we have learned many lessons.<!-- more -->

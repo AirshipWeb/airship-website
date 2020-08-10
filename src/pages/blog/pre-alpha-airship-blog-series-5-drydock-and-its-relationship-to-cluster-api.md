@@ -12,7 +12,7 @@ _**UPDATE 03-August-2020:** Airship 2.0 development spans multiple milestones. U
 milestone, Alpha, the community took some time to reflect on lessons learned and how they impacted the direction and
 design of Airship 2.0. We have summarized these lessons learned and how the design has changed over time - including
 using different technologies and approaches. You can read more about these changes here: [Airship 2.0 is Alpha - Lessons
-Learned](https://www.airshipit.org/blog/airship2-is-alpha/). We recommend reviews these changes before reading blogs
+Learned](https://www.airshipit.org/blog/airship2-is-alpha/). We recommend reviewing these changes before reading blogs
 marked as "Pre-Alpha."_
 
 As part of the evolution of Airship 1.0, an enduring goal has remained supporting multiple provisioning backends beyond just bare metal. This includes those that can provision to third-party clouds and to other use cases like OpenStack VMs as well as enable you to bring your own infrastructure.<!-- more -->
