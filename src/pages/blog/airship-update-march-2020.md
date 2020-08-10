@@ -26,18 +26,25 @@ The Airship blog is a great way to keep up with what's going on in the community
 posts introduce the changes from Airship 1.0 to Airship 2.0, highlight new features, and detail the evolution of each
 component. The first six Airship 2.0 Blog posts are already available:
 
-- [*Airship Blog Series 6 - Armada Growing Pains*](
-   https://www.airshipit.org/blog/airship-blog-series-6-armada-growing-pains.html)
-- [*Airship Blog Series 5 - Drydock and Its Relationship to Cluster API*](
-  https://www.airshipit.org/blog/airship-blog-series-5-drydock-and-its-relationship-to-cluster-api.html)
-- [*Airship Blog Series 4 - Shipyard - an Evolution of the Front Door*](
-   https://www.airshipit.org/blog/airship-blog-series-4-shipyard-an-evolution-of-the-front-door.html)
-- [*Airship Blog Series 3 - Airship 2.0 Architecture High Level*](
-   https://www.airshipit.org/blog/airship-blog-series-3-airship-2.0-architecture-high-level.html)
-- [*Airship Blog Series 2 - An Educated Evolution*](
-   https://www.airshipit.org/blog/airship-blog-series-2-an-educated-evolution.html)
-- [*Airship Blog Series 1 - Evolution Towards 2.0*](
-  https://www.airshipit.org/blog/airship-blog-series-1-evolution-towards-2.0.html)
+_**UPDATE 03-August-2020:** Airship 2.0 development spans multiple milestones. Upon completing the first major
+milestone, Alpha, the community took some time to reflect on lessons learned and how they impacted the direction and
+design of Airship 2.0. We have summarized these lessons learned and how the design has changed over time - including
+using different technologies and approaches. You can read more about these changes here: [Airship 2.0 is Alpha - Lessons
+Learned](https://www.airshipit.org/blog/airship2-is-alpha/). We recommend reviewing these changes before reading blogs
+marked as "Pre-Alpha."_
+
+- [*Pre-Alpha Airship Blog Series 1 - Evolution Towards 2.0*](
+  https://www.airshipit.org/blog/pre-alpha-airship-blog-series-1-evolution-towards-2.0/)
+- [*Pre-Alpha Airship Blog Series 2 - An Educated Evolution*](
+  https://www.airshipit.org/blog/pre-alpha-airship-blog-series-2-an-educated-evolution/)
+- [*Pre-Alpha Airship Blog Series 3 - Airship 2.0 Architecture High Level*](
+  https://www.airshipit.org/blog/pre-alpha-airship-blog-series-3-airship-2.0-architecture-high-level/)
+- [*Pre-Alpha Airship Blog Series 4 - Shipyard - an Evolution of the Front Door*](
+  https://www.airshipit.org/blog/pre-alpha-airship-blog-series-4-shipyard-an-evolution-of-the-front-door/)
+- [*Pre-Alpha Airship Blog Series 5 - Drydock and Its Relationship to Cluster API*](
+  https://www.airshipit.org/blog/pre-alpha-airship-blog-series-5-drydock-and-its-relationship-to-cluster-api/)
+- [*Pre-Alpha Airship Blog Series 6 - Armada Growing Pains*](
+  https://www.airshipit.org/blog/pre-alpha-airship-blog-series-6-armada-growing-pains/)
 
 <br>
 
@@ -105,7 +112,7 @@ By aligning with the CNCF direction
 
 For more details, check out the Airship 2.0 preview video [*here*](https://www.youtube.com/watch?v=13v3z4EIK9I).
 
-In the [*February Update*](https://www.airshipit.org/blog/airship-update-february-2020.html), we mentioned that Airship
+In the [*February Update*](https://www.airshipit.org/blog/airship-update-february-2020/), we mentioned that Airship
 2.0 progress is tracked in [*Github Issues*](https://github.com/airshipit/airshipctl/issues).
 
 The progress shown below is for [*airshipctl*](https://opendev.org/airship/airshipctl), the new Airship 2.0 client.

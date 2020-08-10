@@ -29,7 +29,7 @@ and approaches we made in some of the previous blog posts. We believe it’s wor
 
 <br>
 
-[_**Shipyard - an Evolution of the Front Door**_](https://www.airshipit.org/blog/airship-blog-series-4-shipyard-an-evolution-of-the-front-door/)
+[_**Shipyard - an Evolution of the Front Door**_](https://www.airshipit.org/blog/pre-alpha-airship-blog-series-4-shipyard-an-evolution-of-the-front-door/)
 
 In this blog post, we mentioned that the _airshipctl_ utility operates on a Kubernetes cluster security context.
 The _**airshipctl**_ utility is the main entry point for bootstrapping a cluster, collecting and pushing
@@ -42,7 +42,7 @@ simplify lifecycle management in a future post.
 
 <br>
 
-[_**Armada - growing pains**_](https://www.airshipit.org/blog/airship-blog-series-6-armada-growing-pains/)
+[_**Armada - growing pains**_](https://www.airshipit.org/blog/pre-alpha-airship-blog-series-6-armada-growing-pains/)
 
 In this blog post, we discussed the expected evolution for Armada, the path led us to the need to embrace
 Kubernetes CRDs, integrate with Helm v3, and take advantage of a CNCF workflow engine like Argo. We also touched
@@ -139,9 +139,9 @@ upgrade, destroy) of Kubernetes-conformant clusters using a declarative API:
 
 The Cluster API relies on provider implementations for different environments. As mentioned in [Blog Post #5, Drydock
 and its Relationship to Cluster API](
-https://www.airshipit.org/blog/airship-blog-series-5-drydock-and-its-relationship-to-cluster-api/), the Airship
-community collaborates with the Cluster API Metal3 Baremetal provider (CAPM3) community to realize a production quality,
-resilient, secure and mature Baremetal provisioner.
+https://www.airshipit.org/blog/pre-alpha-airship-blog-series-5-drydock-and-its-relationship-to-cluster-api/), the
+Airship community collaborates with the Cluster API Metal3 Baremetal provider (CAPM3) community to realize a production
+quality, resilient, secure and mature Baremetal provisioner.
 
 As mentioned above, the Kubeadm project itself has matured in terms of cluster provisioning, and it’s integrated with
 the Cluster API via the Cluster API Bootstrap Provider and the Cluster API Control Plane Provider. Cluster API Bootstrap

@@ -25,10 +25,10 @@ Kubernetes-style APIs to cluster creation, configuration, and management. It pro
 on top of core Kubernetes to manage the lifecycle of a Kubernetes cluster.
 
 In a previous [blog post](
-https://www.airshipit.org/blog/airship-blog-series-5-drydock-and-its-relationship-to-cluster-api/), Alan Meadows and
-Rodolfo Pacheco discussed the evolution of Airship 1.0 to Airship 2.0 and the relationship between [Drydock](
-https://opendev.org/airship/drydock) and [Cluster API](https://cluster-api.sigs.k8s.io/). It's an interesting read,
-looking at how Cluster API will be used by Airship 2.0.
+https://www.airshipit.org/blog/pre-alpha-airship-blog-series-5-drydock-and-its-relationship-to-cluster-api/), Alan
+Meadows and Rodolfo Pacheco discussed the evolution of Airship 1.0 to Airship 2.0 and the relationship between
+[Drydock](https://opendev.org/airship/drydock) and [Cluster API](https://cluster-api.sigs.k8s.io/). It's an interesting
+read, looking at how Cluster API will be used by Airship 2.0.
 
 Today I will provide you the documentation and my tested step-by-step directions to creating a Cluster API development
 environment using Kind. This development environment will allow you to deploy virtual nodes as Docker containers in
