@@ -13,7 +13,9 @@ What follows is the Airship Community Update for August 2020, brought to you by 
 
 ## **SPOTLIGHT ON...**
 
-- On 22-July at the [_OpenDev: Hardware Automation_](https://www.openstack.org/events/opendev-2020/opendev-schedule-2)
+- Several members of the Airship community contributed to a whitepaper recently released by the OpenStack Foundation
+  that details the OpenDev community's investment in open source bare metal provisioning. On 22-July at the
+  [_OpenDev: Hardware Automation_](https://www.openstack.org/events/opendev-2020/opendev-schedule-2)
   event, the [_Baremetal White Paper_](
   https://www.openstack.org/bare-metal/how-ironic-delivers-abstraction-and-automation-using-open-source-infrastructure)
   was announced. Catch up on the event recordings, agenda, and the Airship Case Study in this [_blog post_](
@@ -52,7 +54,52 @@ to address the changes made from the original blog series 1-6.
 
 <br>
 
-Stay tuned for upcoming blog posts as Airship2.0 progresses through the beta milestone!
+Stay tuned for upcoming blog posts as Airship 2.0 progresses through the beta milestone!
+
+<br>
+
+## **OPEN INFRASTRUCTURE SUMMIT OCTOBER 2020**
+
+The Open Infrastructure Summit will be going virtual, October 19 - 23, 2020.
+
+The Summit is focused on open infrastructure integration, and has evolved over the years to cover more than 30 different
+open source projects, including Airship, Ansible, Docker, Kata Containers, Kubernetes, OpenShift, OpenStack, StarlingX,
+Zuul and many more.
+
+The Open Infrastructure Summit is structured around relevant use cases, trainings and complementary open source
+projects. Collaborate with people from more than 30 open source communities and meet the users, developers and vendors
+who are building and operating open infrastructure.
+
+<br>
+
+**SUMMIT SCHEDULE**
+
+The Summit will run for 5 days, Monday - Friday, October 19 - 23:
+- Comprised of presentations, panels, workshops, and educational opportunities
+- Tracks include CI/CD, Container Infrastructure, Hands-On Workshops, AI, Machine Learning, HPC, Open Development,
+  Private & Hybrid Cloud, Public Cloud, Security and 5G, NFV & Edge
+- Keynote presentations from notable operators, developers and industry leaders 
+
+<br>
+
+[_Register for free_](https://openinfrasummit2020.eventbrite.com/) and make sure to mark your calendar for
+October 19 - 23. 
+
+<br>
+
+## **PROJECT TEAMS GATHERING (PTG) OCTOBER 2020**
+
+The Project Teams Gathering (PTG) is an event organized by the OpenStack Foundation. It provides meeting facilities
+allowing the various OSF project teams (user workgroups, development teams, operators, SIGs) to meet in-person, exchange
+and get work done in a productive setting. It lets those various groups discuss their priorities for the upcoming cycle,
+assign work items, iterate quickly on solutions for complex problems, and make fast progress on critical issues. The
+co-location of those various meetings, combined with the dynamic scheduling of the event, make it easy to get specific
+people in the same room to discuss a specific topic, or participate in multiple team meetings. Evenings allow for
+relationship building and problem sharing.
+
+<br>
+
+[_Register for free_](https://october2020ptg.eventbrite.com/) and make sure to mark your calendar for October 26 - 30. 
 
 <br>
 
@@ -60,7 +107,7 @@ Stay tuned for upcoming blog posts as Airship2.0 progresses through the beta mil
 
 Are you evaluating Airship or using Airship in production? We want to learn from your experience! Take the [_Airship
 User Survey_](https://www.surveymonkey.com/r/YKZ9NC2); the Working Committee reviews each response and helps us to grow
-and mature Airship. We will present the 2020 survey results at the Fall Summit in November. Take the [_Airship User
+and mature Airship. We will present the 2020 survey results at the Fall Summit in October. Take the [_Airship User
 Survey_](https://www.surveymonkey.com/r/YKZ9NC2) today to be included in this round of analysis.
 
 <br>
