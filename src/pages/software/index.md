@@ -7,7 +7,7 @@ seo:
   image: /img/android-chrome-192x192.png
   title: Open Source Data Center Lifecycle Management - Airship
   twitterUsername: '@airshipproject'
-  url: 'https://airshipit.org/'
+  url: 'https://airshipit.org/software/'
 title: Software
 subTitle: Development activities in Airship
 intro:

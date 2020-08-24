@@ -1,9 +1,9 @@
 ---
 templateKey: community-page
 seo:
-  description: 'Join to contribute code, documentation, and use cases'
-  image: /img/og-image.jpg
-  title: Community
+  description: Airship is a global open source community, and you're invited to try out Airship, provide your feedback and get involved in contributing to the code.
+  image: /img/android-chrome-192x192.png
+  title: Community - Join Airship to contribute code, documentation, use cases
   twitterUsername: '@airshipproject'
   url: 'https://airshipit.org/'
 title: Community

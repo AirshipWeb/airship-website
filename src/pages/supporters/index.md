@@ -1,11 +1,11 @@
 ---
 templateKey: supporters-page
 seo:
-  description: Advancing Airship and growing the community
-  image: /img/og-image.jpg
-  title: Supporters
+  description: The Airship community is supported by a global group of organizations and infrastructure companies. 
+  image: /img/android-chrome-192x192.png
+  title: Supporting Organizations and Contributing Employers - Airship
   twitterUsername: '@airshipproject'
-  url: 'https://airshipit.org/'
+  url: 'https://airshipit.org/supporters/'
 title: Supporters
 subTitle: Advancing Airship and growing the community
 introText: If you are using airship and would like to be recognized as a airship supporter, please connect with us.

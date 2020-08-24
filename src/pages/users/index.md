@@ -1,13 +1,13 @@
 ---
 templateKey: 'users-page'
-path: /users
+path: /use-cases
 seo:
-  title: Users
-  description: Airship in action.
-  url: https://airshipit.org/
-  image: /img/og-image.jpg
+  title: Use Cases - Airship in Production
+  description: Here are just a few examples of how Airship can help you manage the life cycle of your open infrastructure tools and underlying hardware.
+  url: https://airshipit.org/use-cases
+  image: /img/android-chrome-192x192.png
   twitterUsername: "@airshipproject"
-title: Users
+title: Use Cases
 subTitle: Airship in action
 introduction: >
   Whether you’re deploying an entire site, upgrading your services or just making a few minor changes, 
