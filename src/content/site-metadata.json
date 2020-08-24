@@ -1,10 +1,10 @@
 {
   "siteMetadata": {
-    "title": "Airship",
-    "titleTemplate": "%s | Airship",
-    "description": "Airship",
+    "title": "Airship: Automated OpenStack Deployment for Open Source Infrastructure",
+    "titleTemplate": "Airship",
+    "description": "Airship is a collection of loosely coupled but interoperable open source tools that declaratively automate cloud provisioning. ",
     "url": "https://airshipit.org/",
-    "image": "/img/og-image.jpg",
+    "image": "/img/android-chrome-192x192.png",
     "twitterUsername": "@airshipproject",
     "themeColor": "#65C7C2"
   }
