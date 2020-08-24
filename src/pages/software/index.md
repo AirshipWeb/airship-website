@@ -1,32 +1,43 @@
 ---
-templateKey: 'software-page'
-path: /software
+templateKey: software-page
 seo:
-  title: Software
-  description: Development activities in Airship
-  url: https://airshipit.org/
-  image: /img/og-image.jpg
-  twitterUsername: "@airshipproject"
+  description: >-
+    Learn more about how Airship combines OpenStack with Kubernetes to provide a
+    single workflow for managing both initial installations and updates.
+  image: /img/android-chrome-192x192.png
+  title: Open Source Data Center Lifecycle Management - Airship
+  twitterUsername: '@airshipproject'
+  url: 'https://airshipit.org/'
 title: Software
 subTitle: Development activities in Airship
 intro:
-  video: https://www.youtube.com/embed/0eEisMm9ykg
-  text: 
-    - paragraph: >
-        The introduction of containers has led to a revolution in how applications are deployed and maintained through the use of powerful container orchestration platforms like Kubernetes. Airship applies these principles of application management to datacenter operations, allowing operators to declare their entire infrastructure up front.
-    - paragraph: >
-        Airship has a single workflow for managing both initial installations and updates. An operator only needs to make a change to an Airship YAML configuration, and the Airship platform does the rest of the work. When managing complex IaaS projects such as OpenStack, anything from minor service configuration updates to major upgrades are all handled in the same way: by simply modifying the YAML configuration and submitting it to the Airship runtime.
   columns:
-    - title: Get Airship
-      image: /img/Airship_Icon.svg
+    - image: /img/Airship_Icon.svg
       link:
         text: Go to Git Repository
-        url: https://opendev.org/airship/treasuremap/
-    - title: View the Documentation
-      image: /img/document.svg
-      link: 
+        url: 'https://opendev.org/airship/treasuremap/'
+      title: Get Airship
+    - image: /img/document.svg
+      link:
         text: Go to Treasuremap
-        url: https://docs.airshipit.org/treasuremap/
+        url: 'https://docs.airshipit.org/treasuremap/'
+      title: View the Documentation
+  text:
+    - paragraph: >
+        The introduction of containers has led to a revolution in how
+        applications are deployed and maintained through the use of powerful
+        container orchestration platforms like Kubernetes. Airship applies these
+        principles of application management to datacenter operations, allowing
+        operators to declare their entire infrastructure up front.
+    - paragraph: >
+        Airship has a single workflow for managing both initial installations
+        and updates. An operator only needs to make a change to an Airship YAML
+        configuration, and the Airship platform does the rest of the work. When
+        managing complex IaaS projects such as OpenStack, anything from minor
+        service configuration updates to major upgrades are all handled in the
+        same way: by simply modifying the YAML configuration and submitting it
+        to the Airship runtime.
+  video: 'https://www.youtube.com/embed/0eEisMm9ykg'
 ---
 
 <br/>
