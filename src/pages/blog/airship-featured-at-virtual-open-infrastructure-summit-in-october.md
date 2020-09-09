@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Airship featured at virtual Open Infrastructure Summit in October
-author: Allison Price
+author: Sunny Cai
 date: 2020-09-09T16:42:23.534Z
 category:
   - label: Summit
