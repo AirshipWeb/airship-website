@@ -45,6 +45,29 @@ to address the changes made from the original blog series 1-6.
 
 Stay tuned for upcoming blog posts as Airship 2.0 progresses through the beta milestone!
 
+## **AIRSHIP 2.0 PROGRESS**
+
+The Technical Committee is pleased to announce that the Airship 2.0 beta milestone completion is imminent. This
+milestone included 135 issues, with the last open issues being targeted for completion by the end of September.
+
+The progress shown below is for [_airshipctl_](https://opendev.org/airship/airshipctl), the new Airship 2.0 client.
+
+Last month, [_airshipctl_](https://opendev.org/airship/airshipctl) saw the following activity:
+
+* 19 authors
+* 77 commits
+* 616 files changed
+* 28,014 additions
+* 4,123 deletions
+* 41 closed issues
+* 19 new issues
+
+<br>
+
+This activity is contributing to the beta milestone. Below is the overall status of the beta milestone:
+
+![](/images/beta_status_september_2020.png)
+
 <br>
 
 ## **AIRSHIP MEETING UPDATES**
@@ -130,28 +153,6 @@ Are you evaluating Airship or using Airship in production? We want to learn from
 User Survey_](https://www.surveymonkey.com/r/YKZ9NC2); the Working Committee reviews each response and helps us to grow
 and mature Airship. We will present the 2020 survey results at the Fall Summit in October. Take the [_Airship User
 Survey_](https://www.surveymonkey.com/r/YKZ9NC2) today to be included in this round of analysis.
-
-<br>
-
-## **AIRSHIP 2.0 PROGRESS**
-
-The progress shown below is for [_airshipctl_](https://opendev.org/airship/airshipctl), the new Airship 2.0 client.
-
-Last month, [_airshipctl_](https://opendev.org/airship/airshipctl) saw the following activity:
-
-* 19 authors
-* 77 commits
-* 616 files changed
-* 28,014 additions
-* 4,123 deletions
-* 41 closed issues
-* 19 new issues
-
-<br>
-
-This activity is contributing to the beta milestone. Below is the overall status of the beta milestone:
-
-![](/images/beta_status_september_2020.png)
 
 <br>
 
