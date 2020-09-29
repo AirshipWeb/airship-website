@@ -74,6 +74,11 @@ export const IndexPageTemplate = ({
                   <strong>Try Airship in a Bottle &gt;</strong>
                 </OutboundLink>
               </p>
+              <p>
+                <OutboundLink className="link is-primary" href="https://wiki.openstack.org/wiki/Airship#Get_in_Touch" target="_blank" rel="noopener noreferrer">
+                  <strong>Get in touch with the Community &gt;</strong>
+                </OutboundLink>
+              </p>
             </div>
           </div>
         </article>
