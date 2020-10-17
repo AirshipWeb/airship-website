@@ -8,7 +8,9 @@ seo:
   url: 'https://airshipit.org/supporters/'
 title: Supporters
 subTitle: Advancing Airship and growing the community
-introText: If you are using airship and would like to be recognized as a airship supporter, please connect with us.
+introText: >-
+  If you are using Airship and would like to be recognized as a airship
+  supporter, please connect with us.
 buttons:
   - link: 'mailto:info@airshipit.org'
     text: support airship
