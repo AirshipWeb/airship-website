@@ -1,7 +1,7 @@
 {
   "bar": {
-    "text": "Airship is mentioned in the latest white paper from the OSF Edge Computing Group",
-    "link": "https://www.openstack.org/edge-computing/edge-computing-next-steps-in-architecture-design-and-testing",
-    "button": "Read it here"
+    "text": "Join the Airship community at the virtual Open Infrastructure Summit happening this week! ",
+    "link": "https://summit.openinfra.dev/",
+    "button": "Join now "
   }
 }
