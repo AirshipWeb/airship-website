@@ -121,4 +121,4 @@ contributors:
 
 ---
 
-Airship is an open source community stewarded by the OpenStack Foundation (OSF).
+Airship is an open source community stewarded by the Open Infrastructure Foundation.

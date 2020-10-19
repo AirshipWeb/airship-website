@@ -11,7 +11,7 @@ subTitle: 'Join to contribute code, documentation, and use cases'
 blogUrl: /
 ---
 
-Airship is a global open source community independently governed at the OpenStack Foundation. Our ethos is user-driven and our culture is welcoming and respectful. We invite you to try out Airship, provide your feedback and get involved in contributing to the code.  
+Airship is a global open source community independently governed at the Open Infrastructure Foundation. Our ethos is user-driven and our culture is welcoming and respectful. We invite you to try out Airship, provide your feedback and get involved in contributing to the code.  
 
 <br>
 
@@ -97,4 +97,4 @@ Technical decisions will be made by technical contributors and a representative 
 
 ## Code of Conduct 
 
-Our community follows the OpenStack Foundation [**Code of Conduct**](https://www.openstack.org/legal/community-code-of-conduct/).
+Our community follows the Open Infrastructure Foundation [**Code of Conduct**](https://www.openstack.org/legal/community-code-of-conduct/).
