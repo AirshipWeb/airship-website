@@ -41,7 +41,7 @@ Stay tuned for upcoming blog posts as Airship 2.0 progresses through release!
 
 ## **OPEN INFRASTRUCTURE SUMMIT OCTOBER 2020**
 
-Last month there were a number of great presentations related to Airship at the Open Infrastructure Summit. You can find
+Last month there were several excellent presentations related to Airship at the Open Infrastructure Summit. You can find
 each of these below:
 
 * [Airship 101](https://www.youtube.com/watch?v=Fh-YJDpQ5xE) (Andrew Karandjeff, Drew Walters)
@@ -59,40 +59,40 @@ each of these below:
 
 ## **PROJECT TEAMS GATHERING (PTG) OCTOBER 2020**
 
-The Project Teams Gathering also occurred last month, and led to collaboration across the Airship Community on a number
-of important issues. You can find the entire etherpad [here](https://etherpad.opendev.org/p/wallaby-ptg-airship). Below
+The Project Teams Gathering also occurred last month and led to collaboration across the Airship Community on many
+vital issues. You can find the entire etherpad [here](https://etherpad.opendev.org/p/wallaby-ptg-airship). Below
 is a summary of each Airship session and corresponding recordings:
 
-Session One [Recording](https://zoom.us/rec/share/l6CPaYqo3ykEfH0XgBhva6sKpMFwNxRd_fQMqSHfOtCiHnTrxBKN9shhiHoXToSu.z7bk6Mhv3_ModdjD?startTime=1603890499000), Password: ptg2020!
-* New Developer Onboarding
+* Session One [Recording](https://zoom.us/rec/share/l6CPaYqo3ykEfH0XgBhva6sKpMFwNxRd_fQMqSHfOtCiHnTrxBKN9shhiHoXToSu.z7bk6Mhv3_ModdjD?startTime=1603890499000), Password: ptg2020!
+  * New Developer Onboarding
 
-Session Two [Recording](https://zoom.us/rec/share/l6CPaYqo3ykEfH0XgBhva6sKpMFwNxRd_fQMqSHfOtCiHnTrxBKN9shhiHoXToSu.z7bk6Mhv3_ModdjD?startTime=1603893815000), Password: ptg2020!
-* Airship UI Demo
+* Session Two [Recording](https://zoom.us/rec/share/l6CPaYqo3ykEfH0XgBhva6sKpMFwNxRd_fQMqSHfOtCiHnTrxBKN9shhiHoXToSu.z7bk6Mhv3_ModdjD?startTime=1603893815000), Password: ptg2020!
+  * Airship UI Demo
 
-Session Three [Recording](https://zoom.us/rec/share/l6CPaYqo3ykEfH0XgBhva6sKpMFwNxRd_fQMqSHfOtCiHnTrxBKN9shhiHoXToSu.z7bk6Mhv3_ModdjD?startTime=1603896623000), Password: ptg2020!
-* Current state of Airship
-* 'SIG'-style, on-demand workshops
-* Mining github for release information in an automated way
-* Git commits without corresponding issues
+* Session Three [Recording](https://zoom.us/rec/share/l6CPaYqo3ykEfH0XgBhva6sKpMFwNxRd_fQMqSHfOtCiHnTrxBKN9shhiHoXToSu.z7bk6Mhv3_ModdjD?startTime=1603896623000), Password: ptg2020!
+  * The current state of Airship
+  * 'SIG'-style, on-demand workshops
+  * Mining GitHub for release information in an automated way
+  * Git commits without corresponding issues
 
-Session Four [Recording](https://zoom.us/rec/share/l6CPaYqo3ykEfH0XgBhva6sKpMFwNxRd_fQMqSHfOtCiHnTrxBKN9shhiHoXToSu.z7bk6Mhv3_ModdjD?startTime=1603901441000), Password: ptg2020!
-* Certificate Rotation in Airship 1 and Airship 2
-* How do I stand up my own (development) Airship 2 environment
+* Session Four [Recording](https://zoom.us/rec/share/l6CPaYqo3ykEfH0XgBhva6sKpMFwNxRd_fQMqSHfOtCiHnTrxBKN9shhiHoXToSu.z7bk6Mhv3_ModdjD?startTime=1603901441000), Password: ptg2020!
+  * Certificate Rotation in Airship 1 and Airship 2
+  * How do I stand up my own (development) Airship 2 environment
 
-Session Five [Recording](https://zoom.us/rec/share/l3znN5H6JCvTnem-yaF0oUBJswd15a1k3vnQ-zvz93QaKclo2tdGoOU-5X7kluFE.idTvzC-AKnRpSm78?startTime=1603976835000), Password: ptg2020!
-* What system requirements do we need to documents?
-* Post-2.0 topics
-* New uses for Airship
+* Session Five [Recording](https://zoom.us/rec/share/l3znN5H6JCvTnem-yaF0oUBJswd15a1k3vnQ-zvz93QaKclo2tdGoOU-5X7kluFE.idTvzC-AKnRpSm78?startTime=1603976835000), Password: ptg2020!
+  * What system requirements do we need to documents?
+  * Post-2.0 topics
+  * New uses for Airship
 
-Session Six [Recording](https://zoom.us/rec/share/l3znN5H6JCvTnem-yaF0oUBJswd15a1k3vnQ-zvz93QaKclo2tdGoOU-5X7kluFE.idTvzC-AKnRpSm78?startTime=1603990209000), Password: ptg2020!
-* Airship-in-a-Pod demo
+* Session Six [Recording](https://zoom.us/rec/share/l3znN5H6JCvTnem-yaF0oUBJswd15a1k3vnQ-zvz93QaKclo2tdGoOU-5X7kluFE.idTvzC-AKnRpSm78?startTime=1603990209000), Password: ptg2020!
+  * Airship-in-a-Pod demo
 
 <br>
 
 ## **AIRSHIP USER SURVEY**
 
 Are you evaluating Airship or using Airship in production? We want to learn from your experience! Take the [_Airship
-User Survey_](https://www.surveymonkey.com/r/YKZ9NC2); the Working Committee reviews each response and helps us to grow
+User Survey_](https://www.surveymonkey.com/r/YKZ9NC2); the Working Committee reviews each response and helps us grow
 and mature Airship. Take the [_Airship User Survey_](https://www.surveymonkey.com/r/YKZ9NC2) today to be included in
 the next round of analysis.
 
