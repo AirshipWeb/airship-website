@@ -66,8 +66,12 @@ is a summary of each Airship session and corresponding recordings:
 * Session One [Recording](https://zoom.us/rec/share/l6CPaYqo3ykEfH0XgBhva6sKpMFwNxRd_fQMqSHfOtCiHnTrxBKN9shhiHoXToSu.z7bk6Mhv3_ModdjD?startTime=1603890499000), Password: ptg2020!
   * New Developer Onboarding
 
+<br>
+
 * Session Two [Recording](https://zoom.us/rec/share/l6CPaYqo3ykEfH0XgBhva6sKpMFwNxRd_fQMqSHfOtCiHnTrxBKN9shhiHoXToSu.z7bk6Mhv3_ModdjD?startTime=1603893815000), Password: ptg2020!
   * Airship UI Demo
+
+<br>
 
 * Session Three [Recording](https://zoom.us/rec/share/l6CPaYqo3ykEfH0XgBhva6sKpMFwNxRd_fQMqSHfOtCiHnTrxBKN9shhiHoXToSu.z7bk6Mhv3_ModdjD?startTime=1603896623000), Password: ptg2020!
   * The current state of Airship
@@ -75,14 +79,20 @@ is a summary of each Airship session and corresponding recordings:
   * Mining GitHub for release information in an automated way
   * Git commits without corresponding issues
 
+<br>
+
 * Session Four [Recording](https://zoom.us/rec/share/l6CPaYqo3ykEfH0XgBhva6sKpMFwNxRd_fQMqSHfOtCiHnTrxBKN9shhiHoXToSu.z7bk6Mhv3_ModdjD?startTime=1603901441000), Password: ptg2020!
   * Certificate Rotation in Airship 1 and Airship 2
   * How do I stand up my own (development) Airship 2 environment
+
+<br>
 
 * Session Five [Recording](https://zoom.us/rec/share/l3znN5H6JCvTnem-yaF0oUBJswd15a1k3vnQ-zvz93QaKclo2tdGoOU-5X7kluFE.idTvzC-AKnRpSm78?startTime=1603976835000), Password: ptg2020!
   * What system requirements do we need to documents?
   * Post-2.0 topics
   * New uses for Airship
+
+<br>
 
 * Session Six [Recording](https://zoom.us/rec/share/l3znN5H6JCvTnem-yaF0oUBJswd15a1k3vnQ-zvz93QaKclo2tdGoOU-5X7kluFE.idTvzC-AKnRpSm78?startTime=1603990209000), Password: ptg2020!
   * Airship-in-a-Pod demo
