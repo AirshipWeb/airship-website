@@ -39,29 +39,41 @@ Stay tuned for upcoming blog posts as Airship 2.0 progresses through release!
 
 <br>
 
-## **OPEN INFRASTRUCTURE SUMMIT OCTOBER 2020**
-
-Last month there were several excellent presentations related to Airship at the Open Infrastructure Summit. You can find
-each of these below:
-
-* [Airship 101](https://www.youtube.com/watch?v=Fh-YJDpQ5xE) (Andrew Karandjeff, Drew Walters)
-* [Own your YAML: extending Kustomize via Plugins](https://www.youtube.com/watch?v=Xoh_OpLoVtI) (Matt McEuen)
-* [Tackling security challenges with Airship](https://www.youtube.com/watch?v=9Qww2qHhNmE) (Alexander Hughes)
-* [Machine Learning at Edge Cloud](https://www.youtube.com/watch?v=TJlj8oMONPo) (Prakash Ramchandran, Vivek Hariharan)
-* [Significance of Hardware Classification combined with Host Configuration Operator](
-  https://www.youtube.com/watch?v=S0tJapmYNP4) (Digambar Patil, John Williams, Sirisha Gopigiri)
-* [China Mobile software and hardware integrated portable cloud platform test system](
-  https://www.youtube.com/watch?v=8N5PeW2l7Lc) (Xiaoguang Zhang, Zhiqiang Yu)
-* [hardware automation deployment and test with big scale in ChinaMobile NFV cloud](
-  https://www.youtube.com/watch?v=omKxP-qiKng) (Xiaoguang Zhang, Zhiqiang Yu)
-
-<br>
-
 ## **AIRSHIP CONTAINER AS A SERVICE**
 
 Two operators will manage the lifecycle of Virtual Machines and their relationship to the cluster: vNode-Operator (ViNO)
 and the Support Infra Provider (SIP). These operators are new projects to the Airship ecosystem and were migrated to
 OpenDev earlier this month.
+
+Now, you may be asking why are we creating two more projects? It's a fair question, so let's
+discuss the motivation behind these projects. These projects focus on a particular user of Airship, those that want to
+support multi-tenancy.
+
+Airship was created as a solution to managing Kubernetes workloads, and over time a lot of these workloads have become
+Kubernetes native. Some of those workloads, however, have needs that exceed those of individual Kubernetes clusters,
+which  limits hard multi-tenancy. An example of this would be a Custom Resource Definition (CRD), a cluster-wide
+object that does not facilitate namespacing or other ways of segregating it. This can lead to issues if one cluster
+wishes to consume a particular version of Istio, but that version of Istio would conflict in a different cluster.
+
+So we need a way to have multiple Kubernetes clusters, preferably in a single hardware region. We examined several
+ways to segregate these out, including:
+- Splitting up a datacenter into multiple Airship managed regions
+- Deploying infrastructure using tools like OpenStack or Kubevert (essentially enabling a single large undercloud
+  cluster, like in Airship 1, to provision multiple clusters above it)
+
+<br>
+
+We felt that encapsulating smaller clusters over a cluster directly deployed on bare-metal was the right decision,
+supporting aggregating hardware to perform common Ceph service consumed above, and a more granular lifecycle control
+of clusters operating tenant workloads. The question becomes, how do we split the bare-metal nodes up into consumable
+units for Cluster API (CAPI) to provision and participate in multiple Kubernetes clusters?
+
+Tools like Kubevert were examined, but we felt that due to the specialized nature of a lot of the workloads we run, the
+benefits were outweighed by the issues encountered to enable low-level tweaking of how Virtual Machines operate,
+leading to a significant amount of abstraction.
+
+It became apparent that a simpler, cruder, deployment would make more sense for us. New operators, SIP and ViNO were
+conceived as a solution.
 
 So what do each of these operators do, at a thousand-foot view?
 
@@ -73,7 +85,8 @@ So what do each of these operators do, at a thousand-foot view?
 <br>
 
 [SIP](https://opendev.org/airship/sip) (Support Infrastructure Provider)
-- Creates a load balancer
+- Creates a load balancer, essentially an HAProxy instance deployed across the nodes allowing kubeadm to instantiate a
+  highly available cluster.
 - Provides utilities such as a jump pod
 - Facilitates CAPI (Cluster API) scheduling, e.g. "I need VMs with certain characteristics"
 
@@ -91,12 +104,31 @@ below:
 
 <br>
 
+## **GITHUB LABELS UPDATES**
+
+As Airship's design has evolved, so too has the need for an evolution of our issue tracking. Historically Airship 2.0
+development issues were labeled with a "component/xxx" label, but those have become stale. In an attempt to identify
+outstanding work and priority, we are dropping the component labels in favor of new categories, in order of importance,
+for all remaining unassigned issues:
+
+| LABEL              | DESCRIPTION                                                                                                                                                                  |
+|--------------------|-------------------------------------------------------------------------------------------------------|
+| 1-Core             | Relates to airshipctl core components (i.e. go code)                                                  |
+| 2-Manifests        | Relates to manifest/document set related issues                                                       |
+| 3-Container        | Relates to plugin related issues                                                                      |
+| 4-Gating           | Relates to issues with Zuul & gating                                                                  |
+| 5-Documentation    | Improvement or additions to documentation                                                             |
+| 6-upstream/project | Requires a change to an external project, e.g. clusterctl                                             |
+| 7-NiceToHave       | Relates to issues of lower priority that are not part of critical functionality or have work arounds  |
+
+<br>
+
 ## **AIRSHIP USER SURVEY**
 
 Are you evaluating Airship or using Airship in production? We want to learn from your experience! Take the [_Airship
-User Survey_](https://www.surveymonkey.com/r/YKZ9NC2); the Working Committee reviews each response and helps us grow
-and mature Airship. Take the [_Airship User Survey_](https://www.surveymonkey.com/r/YKZ9NC2) today to be included in
-the next round of analysis.
+User Survey_](https://www.surveymonkey.com/r/YKZ9NC2); the Working and Technical Committees review each response and
+helps us grow and mature Airship. Take the [_Airship User Survey_](https://www.surveymonkey.com/r/YKZ9NC2) today to be
+included in  the next round of analysis.
 
 <br>
 
@@ -117,7 +149,7 @@ Last month, [_airshipctl_](https://opendev.org/airship/airshipctl) saw the follo
 <br>
 
 This activity is contributing to the General Availability (GA) milestone. Below is the overall status of the GA
-milestone:
+milestone, which does not include the breakdown of already completed Alpha and Beta milestones:
 
 ![](/images/ga_status_december_2020.png)
 
