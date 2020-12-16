@@ -58,7 +58,7 @@ wishes to consume a particular version of Istio, but that version of Istio would
 So we need a way to have multiple Kubernetes clusters, preferably in a single hardware region. We examined several
 ways to segregate these out, including:
 - Splitting up a datacenter into multiple Airship managed regions
-- Deploying infrastructure using tools like OpenStack or Kubevert (essentially enabling a single large undercloud
+- Deploying infrastructure using tools like OpenStack or Kubevirt (essentially enabling a single large undercloud
   cluster, like in Airship 1, to provision multiple clusters above it)
 
 <br>
@@ -68,7 +68,7 @@ supporting aggregating hardware to perform common Ceph service consumed above, a
 of clusters operating tenant workloads. The question becomes, how do we split the bare-metal nodes up into consumable
 units for Cluster API (CAPI) to provision and participate in multiple Kubernetes clusters?
 
-Tools like Kubevert were examined, but we felt that due to the specialized nature of a lot of the workloads we run, the
+Tools like Kubevirt were examined, but we felt that due to the specialized nature of a lot of the workloads we run, the
 benefits were outweighed by the issues encountered to enable low-level tweaking of how Virtual Machines operate,
 leading to a significant amount of abstraction.
 
