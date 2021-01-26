@@ -1,40 +1,41 @@
 ---
 templateKey: community-page
 seo:
-  description: Airship is a global open source community, and you're invited to try out Airship, provide your feedback and get involved in contributing to the code.
+  description: >-
+    Airship is a global open source community, and you're invited to try out
+    Airship, provide your feedback and get involved in contributing to the code.
   image: /img/android-chrome-192x192.png
-  title: Community - Join Airship to contribute code, documentation, use cases
+  title: 'Community - Join Airship to contribute code, documentation, use cases'
   twitterUsername: '@airshipproject'
   url: 'https://airshipit.org/'
 title: Community
 subTitle: 'Join to contribute code, documentation, and use cases'
-blogUrl: /
 ---
-
 Airship is a global open source community independently governed at the Open Infrastructure Foundation. Our ethos is user-driven and our culture is welcoming and respectful. We invite you to try out Airship, provide your feedback and get involved in contributing to the code.  
 
 <br>
 
 ## Try Airship
 
-- **Airship Whitepaper:** [https://airshipit.org/collateral/Airship_2.0_White_Paper.pdf](https://airshipit.org/collateral/Airship_2.0_White_Paper.pdf) - an overview of the design approach that Airship 2.0 is using to declaratively manage open infrastructure
-- **Airship Treasuremap:** [https://docs.airshipit.org/treasuremap/](https://docs.airshipit.org/treasuremap/)
-- **Airship Git Repository:** [https://opendev.org/airship/treasuremap](https://opendev.org/airship/treasuremap)
-- **Airship in a Bottle:** [https://opendev.org/airship/treasuremap/src/branch/master/tools/deployment/aiab](https://opendev.org/airship/treasuremap/src/branch/master/tools/deployment/aiab)
+* **Airship Whitepaper:** <https://airshipit.org/collateral/Airship_2.0_White_Paper.pdf> - an overview of the design approach that Airship 2.0 is using to declaratively manage open infrastructure
+* **Airship Treasuremap:** <https://docs.airshipit.org/treasuremap/>
+* **Airship Git Repository:** <https://opendev.org/airship/treasuremap>
+* **Airship in a Bottle:** <https://opendev.org/airship/treasuremap/src/branch/master/tools/deployment/aiab>
 
----
+- - -
 
 ## Contribute
 
-- **Developer Guide:** [https://docs.airshipit.org/develop/developers.html](https://docs.airshipit.org/develop/developers.html)
+* **Developer Guide:** <https://docs.airshipit.org/develop/developers.html>
 
----
+- - -
 
 ## Collaborate
 
-Meet the team and collaborate with us at [**OpenDev + PTG.**](https://www.openstack.org/events/opendev-ptg-2020/)
+* Meet the team and collaborate with us at [**OpenDev + PTG.**](https://www.openstack.org/events/opendev-ptg-2020/)
+* [Sign up for the Airship Newsletter](https://signup.e2ma.net/signup/1900228/1771360/)
 
----
+- - -
 
 ## Learn
 
@@ -58,33 +59,32 @@ In [**Elevate your Infrastructure using Airship**](https://www.brighttalk.com/we
 
 [**Airship: making lifecycle management for open infrastructure repeatable and predictable, May 2018**](https://www.openstack.org/videos/summits/vancouver-2018/airship-making-lifecycle-management-for-open-infrastructure-repeatable-and-predictable)
 
----
+- - -
 
 ## Wiki
 
 Community documentation and other resources are available at [**wiki.openstack.org/wiki/airship**](//wiki.openstack.org/wiki/airship)
 
----
+- - -
 
 ## Standing Meetings
 
 The Airship community has a very active schedule of regular meetings. [**Details are available here**](https://wiki.openstack.org/wiki/Airship#Get_in_Touch).
 
----
+- - -
 
 ## Communications
 
-- **Freenode IRC:** [#airshipit](https://wiki.openstack.org/wiki/Airship#Get_in_Touch)
-- **Mailing Lists:** [lists.airshipit.org](http://lists.airshipit.org/cgi-bin/mailman/listinfo)
-- **E-mail:** [info@airshipit.org](mailto:info@airshipit.org)
-- **Twitter:** [@airshipproject](//twitter.com/airshipproject)
+* **Freenode IRC:** [\#airshipit](https://wiki.openstack.org/wiki/Airship#Get_in_Touch)
+* **Mailing Lists:** [lists.airshipit.org](http://lists.airshipit.org/cgi-bin/mailman/listinfo)
+* **E-mail:** <mailto:info@airshipit.org>
+* **Twitter:** [@airshipproject](//twitter.com/airshipproject)
 
----
+- - -
 
 ## Governance
 
 The Airship project is governed according to the “four opens”:
-
 
 * Open Source
 * Open Design
@@ -93,8 +93,8 @@ The Airship project is governed according to the “four opens”:
 
 Technical decisions will be made by technical contributors and a representative technical leadership committee. The community is committed to diversity, openness, encouraging new contributors and leaders to rise up.
 
----
+- - -
 
-## Code of Conduct 
+## Code of Conduct
 
 Our community follows the Open Infrastructure Foundation [**Code of Conduct**](https://www.openstack.org/legal/community-code-of-conduct/).
