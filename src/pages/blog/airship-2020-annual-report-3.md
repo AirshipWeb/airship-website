@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Airship 2020 Annual Report
-author: Allison Price
+author: Drew Walters
 date: 2021-01-28T16:25:22.785Z
 category:
   - label: News & Announcements
