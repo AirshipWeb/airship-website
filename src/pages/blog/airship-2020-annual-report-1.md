@@ -19,9 +19,9 @@ Airship 2 supports public cloud providers, enabling operators to use the same wo
 
 2020 also brought greater diversification to the Airship community contributor base. The community elected its second Working and Technical Committees in 2020, adding additional representation from Dell EMC and Insight Global to the existing share of committee members from Accenture, AT&T, Ericsson, and Mirantis. Several companies more than doubled their contributions to Airship. Ericsson's contributions, or commits and reviews, were up 32.5% in the Victoria release from their total in the Train release, Dell EMC 91%, and Mirantis increased their contributions by a whopping 889%.
 
-undefined
+![](/img/airship-2020-newkey2.jpg)
 
-In February 2020, the Cloud Infrastructure Telco Taskforce (CNTT) chose Airship for their OpenStack reference implementation, providing the global telecom community with a model for deploying NFV workloads using Airship. CNTT seeks to accelerate deployment and management of NFV applications by providing models, or reference implementations, for various telecom use-cases. CNTT includes representatives from over thirty operators, including AT&T, Verizon Wireless, China Mobile, and Deutsche Telekom.
+<br>In February 2020, the Cloud Infrastructure Telco Taskforce (CNTT) chose Airship for their OpenStack reference implementation, providing the global telecom community with a model for deploying NFV workloads using Airship. CNTT seeks to accelerate deployment and management of NFV applications by providing models, or reference implementations, for various telecom use-cases. CNTT includes representatives from over thirty operators, including AT&T, Verizon Wireless, China Mobile, and Deutsche Telekom.
 
 As Airship finalizes the general availability release of Airship 2, operators will see additional NFVi use-cases in Treasuremap. The Airship community revealed two new projects, the Support Infrastructure Provider (SIP) and the Virtual Node Operator (ViNO), at the end of 2020 to provide Kubernetes multi-tenancy in Airship for Containerized Networking Function (CNF) use-cases. In conjunction with Airship, the OpenStack-Helm project will also release OpenStack on Airship 2 using airshipctl phases.
 
