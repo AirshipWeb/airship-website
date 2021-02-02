@@ -1,7 +1,6 @@
 import React from "react"
 import { Helmet } from "react-helmet"
 import PropTypes from "prop-types"
-import { withPrefix } from 'gatsby'
 
 import metadata from "../content/site-metadata.json"
 
