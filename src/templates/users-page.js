@@ -23,7 +23,7 @@ export const UsersPageTemplate = ({ seo, title, subTitle, introduction, table, v
           <meta property="og:description" content={seo.description} />
         )}
         {seo.image && <meta property="og:image" content={`${withPrefix('/')}${seo.image.publicURL}`} />}
-        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:card" content="summary" />
         {seo.twitterUsername && (
           <meta name="twitter:creator" content={seo.twitterUsername} />
         )}        
