@@ -45,8 +45,8 @@ Each year the Open Infrastructure Foundation (OIF) provides an annual report to 
 developments, foundation news, and letters from the Executive Director. You can find the 2020 OIF report [_here_](
 https://www.openstack.org/annual-reports/2020-openinfra-foundation-annual-report/).
 
-The Airship project began issuing its annual reports, included in the yearly OIF report, at the end of 2019. That
-report is available [_here_](https://www.airshipit.org/blog/a-year-in-review-getting-confirmed-and-looking-ahead-to-2-0/).
+The Airship project began issuing its annual reports, included in the yearly OIF report, at the end of 2019. The 2019
+Airship Annual Report is available [_here_](https://www.airshipit.org/blog/a-year-in-review-getting-confirmed-and-looking-ahead-to-2-0/).
 
 Last month Drew Walters authored the [_Airship 2020 Annual Report_](https://www.airshipit.org/blog/airship-2020-annual-report/).
 I encourage you to read the full report; a few of the highlights you'll find include:
@@ -60,11 +60,11 @@ I encourage you to read the full report; a few of the highlights you'll find inc
 
 ## **COMMUNITY MEETING AGENDAS**
 
-Since the Airship IRC weekly meeting changed from a weekly schedule to a biweekly meeting schedule, we thought it would
-be helpful to change the agenda etherpad to an easier to remember URL. Instead of having an etherpad for each
-meeting date, we now have a single etherpad for all IRC meetings. The Airship Technical and Working Committee meetings
-also have an irregular meeting schedule (monthly and biweekly, respectively) and have adopted the same standard etherpad
-format.
+Since the Airship IRC weekly meeting changed from a weekly schedule to a biweekly meeting schedule, The Working
+Committee thought it would be helpful to change the agenda etherpad to an easier to remember URL. Instead of having an
+etherpad for each meeting date, there is now a single etherpad for all IRC meetings. The Airship Technical and
+Working Committee meetings also have an irregular meeting schedule (monthly and biweekly, respectively) and have adopted
+the same standard etherpad format.
 
 You can find the updated etherpads below:
 * [_Airship IRC Team Meeting_](https://etherpad.opendev.org/p/airship-team-meeting)
