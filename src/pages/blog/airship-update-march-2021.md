@@ -58,6 +58,8 @@ free!
 * Friday 23-April 0800-1200 CDT (1300-1700 UTC)
 * Agenda: https://etherpad.opendev.org/p/xena-ptg-airship
 
+<br>
+
 Please make sure you either subscribe to the [_Airship Discuss_](http://lists.airshipit.org/cgi-bin/mailman/listinfo)
 mailing list or check back in late March for the official PTG schedule
 [_here_](https://www.openstack.org/ptg/#tab_schedule).
