@@ -77,7 +77,7 @@ earlier [_this month_](https://etherpad.opendev.org/p/airship-tc-meeting) and ag
 quarterly updates or as needed for major announcements. To that end, this will be the last of the monthly project
 updates until Q2. We have several exciting technical blogs planned to look forward to, including:
 
-* Airship 2 General Availability
+* Airship 2.0 General Availability
 * Deep dive on Airship phases
 * Deep dive on CaaS projects [_ViNO_](https://opendev.org/airship/vino) and [_SIP_](https://opendev.org/airship/sip)
 
