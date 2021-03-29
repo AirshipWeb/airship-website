@@ -4,11 +4,11 @@ title: Airship Update - March 2021
 author: Alexander Hughes
 date: 2021-03-18T12:00:00.000Z
 category:
-- id: category-C98iZYrE1
-  label: Airship 2.0
+  - id: category-C98iZYrE1
+    label: Airship 2.0
 ---
-
 What follows is the Airship Community Update for March 2021, brought to you by the Airship Technical Committee.
+
 <!-- more -->
 
 ## **AIRSHIP BLOG**
@@ -19,19 +19,13 @@ introduce the changes from Airship 1.0 to Airship 2.0, highlight new features, a
 The recommended reading order for these blogs is listed below. It begins with the lessons learned on the road to Alpha
 to address the changes made from the original blog series 1-6.
 
-- [*Airship 2.0 is Alpha - Lessons Learned*](https://www.airshipit.org/blog/airship2-is-alpha/)
-- [*Pre-Alpha Airship Blog Series 1 - Evolution Towards 2.0*](
-  https://www.airshipit.org/blog/pre-alpha-airship-blog-series-1-evolution-towards-2.0/)
-- [*Pre-Alpha Airship Blog Series 2 - An Educated Evolution*](
-  https://www.airshipit.org/blog/pre-alpha-airship-blog-series-2-an-educated-evolution/)
-- [*Pre-Alpha Airship Blog Series 3 - Airship 2.0 Architecture High Level*](
-  https://www.airshipit.org/blog/pre-alpha-airship-blog-series-3-airship-2.0-architecture-high-level/)
-- [*Pre-Alpha Airship Blog Series 4 - Shipyard - an Evolution of the Front Door*](
-  https://www.airshipit.org/blog/pre-alpha-airship-blog-series-4-shipyard-an-evolution-of-the-front-door/)
-- [*Pre-Alpha Airship Blog Series 5 - Drydock and Its Relationship to Cluster API*](
-  https://www.airshipit.org/blog/pre-alpha-airship-blog-series-5-drydock-and-its-relationship-to-cluster-api/)
-- [*Pre-Alpha Airship Blog Series 6 - Armada Growing Pains*](
-  https://www.airshipit.org/blog/pre-alpha-airship-blog-series-6-armada-growing-pains/)
+* [_Airship 2.0 is Alpha - Lessons Learned_](https://www.airshipit.org/blog/airship2-is-alpha/)
+* [_Pre-Alpha Airship Blog Series 1 - Evolution Towards 2.0_](https://www.airshipit.org/blog/pre-alpha-airship-blog-series-1-evolution-towards-2.0/)
+* [_Pre-Alpha Airship Blog Series 2 - An Educated Evolution_](https://www.airshipit.org/blog/pre-alpha-airship-blog-series-2-an-educated-evolution/)
+* [_Pre-Alpha Airship Blog Series 3 - Airship 2.0 Architecture High Level_](https://www.airshipit.org/blog/pre-alpha-airship-blog-series-3-airship-2.0-architecture-high-level/)
+* [_Pre-Alpha Airship Blog Series 4 - Shipyard - an Evolution of the Front Door_](https://www.airshipit.org/blog/pre-alpha-airship-blog-series-4-shipyard-an-evolution-of-the-front-door/)
+* [_Pre-Alpha Airship Blog Series 5 - Drydock and Its Relationship to Cluster API_](https://www.airshipit.org/blog/pre-alpha-airship-blog-series-5-drydock-and-its-relationship-to-cluster-api/)
+* [_Pre-Alpha Airship Blog Series 6 - Armada Growing Pains_](https://www.airshipit.org/blog/pre-alpha-airship-blog-series-6-armada-growing-pains/)
 
 <br>
 
@@ -54,6 +48,7 @@ Make sure to sign up [_here_](https://www.eventbrite.com/e/project-teams-gatheri
 free!
 
 **The Airship PTG sessions are planned for the following dates/times:**
+
 * Thursday 22-April 0800-1200 CDT (1300-1700 UTC)
 * Friday 23-April 0800-1200 CDT (1300-1700 UTC)
 * Agenda: https://etherpad.opendev.org/p/xena-ptg-airship
@@ -70,9 +65,7 @@ mailing list or check back in late March for the official PTG schedule
 
 On **March 14th**, Daylight Saving Time in the United States began. Airship community meetings are scheduled in US
 Central Time, so those who do not observe Daylight Saving Time meetings moved forward by an hour beginning
-**March 15th**. Please keep an eye on the [_mailing list_](
-http://lists.airshipit.org/cgi-bin/mailman/listinfo/airship-discuss) and the [_wiki_](
-https://wiki.openstack.org/wiki/Airship) for updated meeting times!
+**March 15th**. Please keep an eye on the [_mailing list_](http://lists.airshipit.org/cgi-bin/mailman/listinfo/airship-discuss) and the [_wiki_](https://wiki.openstack.org/wiki/Airship) for updated meeting times!
 
 <br>
 
@@ -80,11 +73,11 @@ https://wiki.openstack.org/wiki/Airship) for updated meeting times!
 
 For nearly 18 months, the Airship [_Technical Committee_](https://wiki.openstack.org/wiki/Airship/Airship-TC) has
 provided monthly community updates in this blog and an e-mail newsletter. The Technical Committee met
-earlier [_this month_](https://etherpad.opendev.org/p/airship-tc-meeting) and agreed to reduce the blog frequency to
+earlier [_this month_](https://etherpad.opendev.org/p/airship-tc-meeting) and agreed to reduce the monthly update frequency to
 quarterly updates or as needed for major announcements. To that end, this will be the last of the monthly project
 updates until Q2. We have several exciting technical blogs planned to look forward to, including:
 
-* Airship 2 General Availability
+* Airship 2.0 General Availability
 * Deep dive on Airship phases
 * Deep dive on CaaS projects [_ViNO_](https://opendev.org/airship/vino) and [_SIP_](https://opendev.org/airship/sip)
 
@@ -129,5 +122,4 @@ contributing.
 
 <br>
 
-**Alexander Hughes, on behalf of the [_Airship Technical Committee_](
-https://wiki.openstack.org/wiki/Airship/Airship-TC)**
+**Alexander Hughes, on behalf of the [_Airship Technical Committee_](https://wiki.openstack.org/wiki/Airship/Airship-TC)**
