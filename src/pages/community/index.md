@@ -32,7 +32,7 @@ Airship is a global open source community independently governed at the Open Inf
 
 ## Collaborate
 
-* Meet the team and collaborate with us at [**OpenDev + PTG.**](https://www.openstack.org/events/opendev-ptg-2020/)
+* Meet the team and collaborate with us at the [**PTG.**](https://www.openstack.org/ptg)
 * [Sign up for the Airship Newsletter](https://signup.e2ma.net/signup/1900228/1771360/)
 
 - - -
