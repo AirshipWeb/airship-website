@@ -1,11 +1,11 @@
 ---
 templateKey: supporters-page
 seo:
-  description: The Airship community is supported by a global group of organizations and infrastructure companies. 
-  image: /img/android-chrome-192x192.png
-  title: Supporting Organizations and Contributing Employers - Airship
+  description: Advancing Airship and growing the community
+  image: /img/og-image.jpg
+  title: Supporters
   twitterUsername: '@airshipproject'
-  url: 'https://airshipit.org/supporters/'
+  url: 'https://airshipit.org/'
 title: Supporters
 subTitle: Advancing Airship and growing the community
 introText: >-
@@ -121,4 +121,4 @@ contributors:
 
 ---
 
-Airship is an open source community stewarded by the Open Infrastructure Foundation.
+Airship is an open source community stewarded by the OpenStack Foundation (OSF).
