@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Airship 2 - Released!
 author: Rodolfo Pacheco, Alan Meadows, Matt McEuen, Pete Birley
-date: 2021-04-15T12:00:00.000Z
+date: 2021-04-16T12:00:00.000Z
 category: 
   - label: News & Announcements
     id: category-A7fnZYrE1
@@ -62,7 +62,6 @@ With Airship 2, we accomplish the goals we stated in the post [Pre-Alpha Airship
 <br>
 
 To read more about Airship 2 and to dive in, the following documents will help you get started:
-
 * Airship v2, [Release Notes](https://docs.airshipit.org/airship2/release-notes.html)
 * Start with [Deploy a Bare Metal cluster](https://docs.airshipit.org/airship2/baremetal.html)
 
@@ -71,7 +70,6 @@ To read more about Airship 2 and to dive in, the following documents will help y
 In general, all project documents can be found at [https://docs.airshipit.org/](https://docs.airshipit.org/).
 
 Airship v2 related repositories can be found at:
-
 * Airship command line [https://github.com/airshipit/airshipctl](https://github.com/airshipit/airshipctl)
 * Treasure Map [https://github.com/airshipit/treasuremap](https://github.com/airshipit/treasuremap)
 * Helm Charts [https://github.com/airshipit/charts](https://github.com/airshipit/charts)
