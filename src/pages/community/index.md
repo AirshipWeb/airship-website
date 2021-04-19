@@ -75,6 +75,7 @@ The Airship community has a very active schedule of regular meetings. [**Details
 
 ## Communications
 
+* **Slack:** [Sign up](https://join.slack.com/t/airshipit/shared_invite/zt-ec2r6ip0-Pk6tX4skfsHLscXMq08Zpw)
 * **Freenode IRC:** [\#airshipit](https://wiki.openstack.org/wiki/Airship#Get_in_Touch)
 * **Mailing Lists:** [lists.airshipit.org](http://lists.airshipit.org/cgi-bin/mailman/listinfo)
 * **E-mail:** <mailto:info@airshipit.org>
