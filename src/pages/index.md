@@ -85,18 +85,13 @@ tables:
     title: How to Get Involved.
   rightTable:
     button:
-      link: 'https://wiki.openstack.org/wiki/Airship_v1.0_Release'
+      link: 'https://docs.airshipit.org/airship2/release-notes.html'
       text: Read the Release Notes
     text: >
-      <p>The Airship community announced the availability of its <a
-      href="https://opendev.org/airship/treasuremap/src/tag/v1.0"
-      target="_blank">v1.0 release</a> in conjunction with the Open
-      Infrastructure Summit Denver. <a
-      href="https://opendev.org/airship/treasuremap/src/tag/v1.0"
-      target="_blank">Airship v1.0</a> delivers a wide range of enhancements to
-      security, resiliency, continuous integration, and documentation as well as
-      upgrades to the platform, deployment and tooling features. The v1.0
-      milestone marks production readiness of Airship for the enterprise.</p>
-    title: Airship v1.0 Release Now Available
+      <p>Airship 2 ties together the best in class Cloud Native projects to
+      create a fully declarative lifecycle management system for infrastructure
+      and software delivery. The community announced its availability April 2021
+      and plans to follow with a 2.1 release in the coming months.</p>
+    title: Airship 2 Release Now Available
 ---
 
