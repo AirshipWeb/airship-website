@@ -82,7 +82,7 @@ tables:
           <p>Chat with the project team and others using Airship.</p> <a
           href="https://wiki.openstack.org/wiki/Airship#Get_in_Touch">#airshipit</a>
         title: Freenode IRC
-    title: How to Get Involved.
+    title: How to Get Involved
   rightTable:
     button:
       link: 'https://docs.airshipit.org/airship2/release-notes.html'
