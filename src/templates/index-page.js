@@ -70,8 +70,8 @@ export const IndexPageTemplate = ({
                 )
               })}                            
               <p>
-                <OutboundLink className="link is-primary" href="https://opendev.org/airship/treasuremap/src/branch/master/tools/deployment/aiab" target="_blank" rel="noopener noreferrer">
-                  <strong>Try Airship in a Bottle &gt;</strong>
+                <OutboundLink className="link is-primary" href="https://docs.airshipit.org/airship2/airship-in-a-pod.html" target="_blank" rel="noopener noreferrer">
+                  <strong>Try Airship in a pod &gt;</strong>
                 </OutboundLink>
               </p>
               <p>
