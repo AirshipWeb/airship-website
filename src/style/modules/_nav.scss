@@ -13,7 +13,17 @@
   padding: 22px 0 18px;
 
   .nav-content,
-  .nav-inner,
+  .nav-inner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    ul {
+      list-style-type: none;
+      margin: 0;
+    }
+  }
+
   .nav-menu {
     display: flex;
     justify-content: flex-start;
@@ -25,7 +35,7 @@
   }
 
   .nav-content {
-    justify-content: space-between;
+    justify-content: flex-end;
     max-width: 100%;
     flex: 1 1 100%;
     padding-left: 40px;
