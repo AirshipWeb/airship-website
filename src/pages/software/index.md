@@ -15,12 +15,12 @@ intro:
     - image: /img/Airship_Icon.svg
       link:
         text: Go to Git Repository
-        url: 'https://opendev.org/airship/treasuremap/'
+        url: 'https://opendev.org/airship/airshipctl'
       title: Get Airship
     - image: /img/document.svg
       link:
         text: Go to Treasuremap
-        url: 'https://docs.airshipit.org/treasuremap/'
+        url: 'https://docs.airshipit.org/'
       title: View the Documentation
   text:
     - paragraph: >
@@ -39,7 +39,6 @@ intro:
         to the Airship runtime.
   video: 'https://www.youtube.com/embed/0eEisMm9ykg'
 ---
-
 <br/>
 
 <div class="h2_green">Airship Enables:</div>
@@ -65,6 +64,6 @@ Critical services can be upgraded with confidence, with gradual roll-outs (inclu
 <br>
 <br>
 
----
+- - -
 
-<a href="/collateral/Airship_OnePager.pdf" target="_blank"><strong>View this overview document for helpful information.</strong></a>
+<a href="https://www.airshipit.org/collateral/Airship_2.0_White_Paper.pdf" target="_blank"><strong>View this overview document for helpful information.</strong></a>
