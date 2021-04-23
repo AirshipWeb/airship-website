@@ -29,7 +29,7 @@ mainpitch:
         cluster with Helm deployed artifacts. Airship allows operators to manage
         their infrastructure deployments and lifecycle through the declarative
         YAML documents that describe an Airship environment.
-  image: /img/Airship_Diagram_SimplifiedArchitecture.jpg
+  image: /img/Airship_Diagram_SimplifiedArchitecture-v3.jpg
   title: About Airship
 features:
   rows:
