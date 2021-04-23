@@ -26,10 +26,9 @@ mainpitch:
         containers as the new unit of infrastructure delivery at scale. Starting
         from raw bare metal infrastructure, Airship manages the full lifecycle
         of data center infrastructure to deliver a production-grade Kubernetes
-        cluster with Helm deployed artifacts, including OpenStack-Helm. Airship
-        allows operators to manage their infrastructure deployments and
-        lifecycle through the declarative YAML documents that describe an
-        Airship environment.
+        cluster with Helm deployed artifacts. Airship allows operators to manage
+        their infrastructure deployments and lifecycle through the declarative
+        YAML documents that describe an Airship environment.
   image: /img/Airship_Diagram_SimplifiedArchitecture.jpg
   title: About Airship
 features:
@@ -43,10 +42,11 @@ features:
       title: Simple
     - image: /img/flexible.svg
       text: >
-        Containers and Helm charts are the basic unit of deployment for all
-        software including Airship  itself, pushing software orchestration logic
-        to the edge. Expanding the software stack is as  simple as adding new
-        charts to Airship declarations.
+        Kubernetes resources (native resources and CustomResources) are the
+        basic unit of deployment for all software, allowing for simple
+        integration with best-in-class tooling and Kubernetes operators.
+        Expanding the software stack is as  simple as adding new resources to
+        Airship declarations.
       title: Flexible
     - image: /img/repeatable.svg
       text: >
@@ -61,10 +61,10 @@ features:
         native Kubernetes resiliency.
       title: Resilient
     - image: /img/self_hosted.svg
-      text: >
-        The Airship components themselves are deployed as Helm charts and run as
-        services within Kubernetes.  This allows them to be upgraded like any
-        other software component in the system.
+      text: >-
+        Airship deploys its provisioning control plane and operators in a
+        self-hosted manner. This allows them to be upgraded like any other
+        software component in the system.
       title: Self-Hosted
   title: Features
 tables:
@@ -82,6 +82,11 @@ tables:
           <p>Chat with the project team and others using Airship.</p> <a
           href="https://wiki.openstack.org/wiki/Airship#Get_in_Touch">#airshipit</a>
         title: Freenode IRC
+      - text: |-
+          <p>Prefer Slack? #airshipit mirrors to IRC.</p>
+          <a href="http://airshipit.org/slack">airshipit.org/slack
+          </a>
+        title: Slack
     title: How to Get Involved
   rightTable:
     button:
