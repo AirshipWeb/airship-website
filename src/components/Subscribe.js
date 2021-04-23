@@ -27,7 +27,7 @@ const Subscribe = class extends React.Component {
             </div>
           </div>
           <div className="field has-addons-centered">
-            <button className="button is-primary no-border-search-submit">
+            <button className="button is-primary no-border-search-submit mailing-list-button">
               <a 
                 onClick={this.subscribePopup}>
                 <span>Join our list</span>

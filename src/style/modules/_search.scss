@@ -8,7 +8,7 @@
 	text-align: center;
 	font-size: 50px;
 	font-weight: 300;
-	padding-top: 40px;
+	padding-top: 35px;
 	color: $white;
   
 	.search-content-title {
@@ -20,7 +20,7 @@
   
 	.search-content-subtitle {
 	  font-size: 18px;
-	  font-weight: 300;
+	  font-weight: 400;
 	  line-height: 1.2;
 	  margin-bottom: 21px;
 	  color: $white;
@@ -58,10 +58,15 @@
 		  color: $white;
 		}
 	}
+
+	.mailing-list-button {
+		width: 200px;
+	}
   
 	@media (max-width: 767px) {
 		  .search-content  {
 			  font-size: 30px;
+			  padding-top: 32px;
 		  }
   
 		  .search-content-title {
@@ -69,12 +74,16 @@
 		  }
 
 		  .button.no-border-search-submit {
-			width:30%;
+			width: 200px;
 		  }
 
 		  .search-container-input {
 			  width:50%;
 		  }
+
+		  .mailing-list-button {
+			width: 200px;
+		}
 	}
   }
 
@@ -92,7 +101,6 @@
 	}
 
   .section {
-    margin-top: 30px;
-    margin-bottom: -60px;
+    margin-top: 0px;
   }
 }
