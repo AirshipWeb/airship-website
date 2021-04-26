@@ -61,6 +61,10 @@ By leveraging Kubernetes and Helm, critical services can automatically scale und
 
 Critical services can be upgraded with confidence, with gradual roll-outs (including the ability to roll-back), and guaranteed data and virtual machine integrity across container application upgrades. There's no need to shut down any services or live-migrate any virtual machines through the upgrade process.
 
+#### Easy Document Management
+
+Airship provides a library of curated definition that makes consumption, extension, and customization of infrastructure easy, and a command-line interface that streamlines management and rendering of YAML documents.  The hardware and software stack is represented as Kubernetes resources and organized by Airship via Kustomize definitions across one or more versioned, tested git repositories.  Airshipctl pulls together the required sources and renders their contents, managing site-specific overrides, secret decryption, and delivery of intent to the Kubernetes API server.
+
 <br>
 <br>
 
