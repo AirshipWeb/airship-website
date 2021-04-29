@@ -19,7 +19,7 @@ intro:
       title: Get Airship
     - image: /img/document.svg
       link:
-        text: Go to Treasuremap
+        text: Go to Airship Documentation
         url: 'https://docs.airshipit.org/'
       title: View the Documentation
   text:
