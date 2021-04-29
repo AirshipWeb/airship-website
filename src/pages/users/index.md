@@ -20,10 +20,10 @@ table:
   body:
     - row:
       - column: Traditional Cloud Workloads
-      - column: Leverage Airship to deploy both OpenStack-Helm and OpenStack-Helm Logging Monitoring and Alerting to create and manage a full production grade OpenStack environment.
+      - column: Leverage Airship to deploy Virtualized/Containered Network Functions, including Logging Monitoring and Alerting (LMA) capabiliteis to create and manage a full production-grade cloud platform environment."
     - row:
       - column: CI/CD Environment	
-      - column: Airship can provide a Kubernetes based containerized CI/CD environment (e.g. gerrit, jenkins, zuul) along with OpenStack VMs for test flexibility.
+      - column: Airship can provide a Kubernetes based containerized CI/CD environment (e.g. gerrit, jenkins, zuul) along with pooled virtual machines (VMs) for test flexibility.
     - row:
       - column: Region Controller
       - column: Airship combined with containerized CI/CD and Artifactory deployments can support centralized management of a fleet of independent Airship installations.
