@@ -5,7 +5,7 @@ seo:
     Airship is a collection of loosely coupled but interoperable open source
     tools that declaratively automate cloud provisioning. 
   image: /img/android-chrome-192x192.png
-  title: 'Airship: Automated OpenStack Deployment for Open Source Infrastructure'
+  title: 'Airship: Automated clusters Deployment for Open Source Infrastructure'
   twitterUsername: '@airshipproject'
   url: 'https://airshipit.org/'
 header:
