@@ -8,31 +8,31 @@ category:
     id: category-A7fnZYrE1
 ---
 
-_**Airship 2.0 is here**! Airship 2 ties together the best in class Cloud Native projects to create a fully declarative lifecycle management system for infrastructure and software delivery._
+_**Airship 2.0 is here**! Airship 2 ties together the best-in-class Cloud Native projects to create a fully declarative lifecycle management system for infrastructure and software delivery._
 
 We are pleased to announce the release of Airship 2. In the last month of 2019, we embarked on a journey to develop Airship 2, as we discussed in the post [Pre-Alpha Airship Blog Series 1 - Evolution Towards 2.0 | Blog](https://www.airshipit.org/blog/pre-alpha-airship-blog-series-1-evolution-towards-2.0/). We wrote a series of blogs defining why and how we intended to achieve that. Like every journey, we learned a lot along the way, and some of our initial intentions outlined within those blog posts evolved as we worked through actually building Airship 2. However, we did achieve our ultimate objective for Airship 2, namely _to provide a declarative interface to assemble and orchestrate best-of-breed Cloud Native building blocks for provisioning and lifecycling Kubernetes clouds and the resulting software stack._
 
 Airship 2.0 provides:
-* _No Touch Remote Site Bootstrap (Ephemeral Cluster)_
-* _Declarative Image Building_
-  * _Support for declarative Ephemeral ISO_
-  * _Support for declarative Baremetal targeted QCOW’s_
-* _Declarative Cluster Lifecycle_
-* _Infrastructure Lifecycle_
-  * _On Baremetal Infrastructure_
-  * _On Public Cloud Infrastructure_
-* _Single Command Line “airshipctl“_
-* _Lifecycle as Phases_
-* _Introduction of a Plan for the phases_
-* _Seamless Integration with CNCF projects (CAPI, Metal3, Kustomize)_
-* _Secrets Management. Seamless integration with security Plugins like SOPS_
-* _Generic Container interface: a mechanism to extend airshipctl with adhoc functionality_
-* _Introduction of Host Config Operator for day two operations_
-* _Simplified Development experience through Airship in a Pod_
+* _No-touch remote site bootstrap (ephemeral cluster)_
+* _Declarative image building_
+  * _Support for declarative ephemeral ISO_
+  * _Support for declarative bare metal targeted QCOW’s_
+* _Declarative cluster lifecycle_
+* _Infrastructure lifecycle_
+  * _On bare metal infrastructure_
+  * _On public cloud infrastructure_
+* _Single command line “airshipctl“_
+* _Lifecycle as phases_
+* _Introduction of a plan for the phases_
+* _Seamless integration with CNCF projects (CAPI, Metal3, Kustomize)_
+* _Secrets management. seamless integration with security plugins like SOPS_
+* _Generic container interface: a mechanism to extend airshipctl with adhoc functionality_
+* _Introduction of host config operator for day two operations_
+* _Simplified development experience through Airship in a pod_
 
 <br>
 
-Airship 2 takes Cloud Native projects like Cluster API, Kustomize, Metal3, and the Helm-Controller and integrates them into an end-to-end solution with a smooth operator experience. To achieve our Airship 2 goals, we thought about improving the lifecycling experience and managing the document set that expresses its intentions. We explain both of those in-depth in the upcoming blog posts:
+Airship 2 takes cloud native projects like Cluster API, Kustomize, Metal3, and the Helm-Controller and integrates them into an end-to-end solution with a smooth operator experience. To achieve our Airship 2 goals, we thought about improving the lifecycling experience and managing the document set that expresses its intentions. We will explain both of those in-depth in the upcoming blog posts:
 * _Airship 2 - Under the hood - Lifecycle_
 * _Airship 2 - Under the hood - Manifests_
 
@@ -43,8 +43,9 @@ With Airship 2, we accomplish the goals we stated in the post [Pre-Alpha Airship
 
 <br>
 
-* **Simplified -> Simple Control** <br> Airship implements two patterns to help ensure we keep the solution as simple as possible. <br>
-  * First, we minimize the introduction of stateful long-lived control plane components into Kubernetes and interact solely with the Kubernetes API itself. This ensures simplicity while also reducing resource consumption and security surface area. Additionally, this paves the way for edge models where Airship manages minimal edge environments.
+* **Simplified >
+> Simple Control** <br> Airship implements two patterns to help ensure we keep the solution as simple as possible. <br>
+  * First, we minimized the introduction of stateful long-lived control plane components into Kubernetes and interacted solely with the Kubernetes API itself. This ensures simplicity while also reducing resource consumption and security surface area. Additionally, this paves the way for edge models where Airship manages minimal edge environments.
   * Secondly, we introduced the concepts of “phases” and “phase plans” into Airship to sequence and iterate over discrete lifecycle management stages.
 
 <br>
@@ -53,24 +54,24 @@ With Airship 2, we accomplish the goals we stated in the post [Pre-Alpha Airship
 
 <br>
 
-* **Cloud Agnostic -> Any Cloud** <br> With Airship 2, we have fully embraced the cluster-api and have integrated it closely into airshipctl. We support a variety of infrastructure backends and operating system choices, from public clouds (Azure, Google), to VMs (Openstack), to bare metal(Metal3). We have unified how we stand up, configure, and lifecycle cloud infrastructure across these various providers with a single tool.
+* **Cloud Agnostic >> Any Cloud** <br> With Airship 2, we have fully embraced the cluster-api and have integrated it closely into airshipctl. We support a variety of infrastructure backends and operating system choices, from public clouds (Azure, Google), to VMs (Openstack), to bare metal(Metal3). We have unified how we stand up, configure, and lifecycle cloud infrastructure across these various providers with a single tool.
 
 <br>
 
-* **Homogeneous -> Equivalency** <br> We deliver a level of uniformity in terms of how we lifecycle the clouds themselves. We also provide a mechanism to ensure the configuration of these clouds has a homogeneous feel. It adheres to internal enterprise requirements—things like standardizing Admission Controllers, Webhooks, Network Security Policies, Namespaces, and more. The advantage airshipctl provides it works with anything presenting a Kubernetes API. Because of its integration with Kustomize and our ability to layer documents in various ways, from inheriting global values to bifurcating on the type and, finally, site-specific customizations—it provides an ideal way to deliver a homogeneous configuration across a variety of cloud deployments and infrastructure backends.
+* **Homogeneous >> Equivalency** <br> We deliver a level of uniformity in terms of how we lifecycle the clouds themselves. We also provide a mechanism to ensure the configuration of these clouds has a homogeneous feel. It adheres to internal enterprise requirements—things like standardizing Admission Controllers, Webhooks, Network Security Policies, Namespaces, and more. The advantage airshipctl provides it works with anything presenting a Kubernetes API. Because of its integration with Kustomize and our ability to layer documents in various ways, from inheriting global values to bifurcating on the type and, finally, site-specific customizations—it provides an ideal way to deliver a homogeneous configuration across a variety of cloud deployments and infrastructure backends.
 
 <br>
 
 To read more about Airship 2 and to dive in, the following documents will help you get started:
-* Airship v2, [Release Notes](https://docs.airshipit.org/airship2/release-notes.html)
-* Start with [Deploy a Bare Metal cluster](https://docs.airshipit.org/airship2/baremetal.html)
+* Airship v2 [Release Notes](https://docs.airshipit.org/airship2/release-notes.html)
+* Start with [Deploying a Bare Metal cluster](https://docs.airshipit.org/airship2/baremetal.html)
 
 <br>
 
 In general, all project documents can be found at [https://docs.airshipit.org/](https://docs.airshipit.org/).
 
 Airship v2 related repositories can be found at:
-* Airship command line [https://github.com/airshipit/airshipctl](https://github.com/airshipit/airshipctl)
+* Airship Command Line [https://github.com/airshipit/airshipctl](https://github.com/airshipit/airshipctl)
 * Treasure Map [https://github.com/airshipit/treasuremap](https://github.com/airshipit/treasuremap)
 * Helm Charts [https://github.com/airshipit/charts](https://github.com/airshipit/charts)
 * Images & Image Builder [https://github.com/airshipit/images](https://github.com/airshipit/images)
