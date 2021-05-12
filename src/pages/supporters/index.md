@@ -111,7 +111,7 @@ contributors:
     - alt: ZTE
       class: img-sponsor-l4
       image: /img/logo-zte.svg
-  title: Thank you to the employers of Contributors to the 1.0 Release
+  title: Thank you to the employers of Contributors to the Airship Release
 ---
 
 
