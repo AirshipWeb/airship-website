@@ -20,7 +20,7 @@ table:
   body:
     - row:
       - column: Traditional Cloud Workloads
-      - column: Leverage Airship to deploy Virtualized/Containered Network Functions, including Logging Monitoring and Alerting (LMA) capabiliteis to create and manage a full production-grade cloud platform environment."
+      - column: Leverage Airship to deploy Virtualized/Containered Network Functions, including Logging Monitoring and Alerting (LMA) capabilities to create and manage a full production-grade cloud platform environment.
     - row:
       - column: CI/CD Environment	
       - column: Airship can provide a Kubernetes based containerized CI/CD environment (e.g. gerrit, jenkins, zuul) along with pooled virtual machines (VMs) for test flexibility.
