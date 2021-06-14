@@ -41,11 +41,11 @@ Stay tuned for upcoming blog posts as Airship 2.0 progresses through release!
 
 ## **AIRSHIP 2020 ANNUAL REPORT**
 
-Each year the Open Infrastructure Foundation (OIF) provides an annual report to the community, including project
-developments, foundation news, and letters from the Executive Director. You can find the 2020 OIF report [_here_](
+Each year the Open Infrastructure Foundation provides an annual report to the community, including project
+developments, foundation news, and letters from the Executive Director. You can find the 2020 OpenInfra Foundation report [_here_](
 https://www.openstack.org/annual-reports/2020-openinfra-foundation-annual-report/).
 
-The Airship project began issuing its annual reports, included in the yearly OIF report, at the end of 2019. The 2019
+The Airship project began issuing its annual reports, included in the yearly OpenInfra Foundation report, at the end of 2019. The 2019
 Airship Annual Report is available [_here_](https://www.airshipit.org/blog/a-year-in-review-getting-confirmed-and-looking-ahead-to-2-0/).
 
 Last month Drew Walters authored the [_Airship 2020 Annual Report_](https://www.airshipit.org/blog/airship-2020-annual-report/).
