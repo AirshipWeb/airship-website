@@ -42,6 +42,9 @@ supporters:
     - alt: H3C
       class: img-sponsor-l4
       image: /img/logo-h3c.png
+    - alt: Microsoft
+      class: img-sponsor-l4
+      image: /img/logo-microsoft.svg
     - alt: Mirantis
       class: img-sponsor-l4
       image: /img/logo-mirantis.png
