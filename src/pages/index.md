@@ -95,8 +95,7 @@ tables:
     text: >
       <p>Airship 2 ties together the best in class Cloud Native projects to
       create a fully declarative lifecycle management system for infrastructure
-      and software delivery. The community announced its availability April 2021
-      and plans to follow with a 2.1 release in the coming months.</p>
+      and software delivery. The community announced 2.0 availability in April 2021, with a 2.1 release in November 2021.</p>
     title: Airship 2 Release Now Available
 ---
 
