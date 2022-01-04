@@ -9,15 +9,13 @@ category:
 ---
 ![](/img/airshipusersurveyblog.png)
 
-
-
 Since the launch of the Airship User Survey in May 2020, ten organizations have completed it, spanning industries such as telecommunications, Information Technology, Academic / Research, Government / Defense, and Retail / Ecommerce. Of those organizations, half are running Airship in production, while 30% are actively evaluating Airship and 20% are considering it.
 
 When asked what kind of workloads respondents were interested in, 10% selected Kubernetes workloads only, 20% selected VM workloads on OpenStack-helm only and the remaining 70% selected both.
 
 Organizations who completed the Airship User Survey include ServerAnt, Havelsan and SK Telecom. Additional organizations have requested to remain anonymous.
 
-****
+- - -
 
 **Here are a few reasons respondents shared when asked which features of Airship affected their choice to use/consider/evaluate Airship:**
 
@@ -29,10 +27,10 @@ Organizations who completed the Airship User Survey include ServerAnt, Havelsan 
 * Ease of maintenance and management
 * Integration with OpenStack; CNCF support
 
-****
-
-**The NPS score of the Airship project is 50. Some of the reasons provided included:**
+**<br />The NPS score of the Airship project is 50. Some of the reasons provided included:**
 
 * (8) Airship 2 is really unique - it uses metal3/clusterApi that makes k8s deployment really easy. and at the same time can be used for day 2 to manage workloads. And what is very important - it's open source!
 * (9) Airship is a complete solution for cloud infrastructure.
 * (9) Easy to deploy, update and it is the future.
+
+_<br />If you're running, testing, or evaluating Airship, please_ [_complete the User Survey_](https://www.surveymonkey.com/r/AirshipUserSurvey)_!_
