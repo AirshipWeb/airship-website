@@ -35,3 +35,5 @@ Get involved:
 * IRC: #airshipit on OFTC
 * Mailing Lists: [lists.airshipit.org](lists.airshipit.org)
 * Slack: [airshipit.slack.com](airshipit.slack.com)
+
+The Open Infrastructure Foundation just published its [2021 annual report](https://openinfra.dev/annual-report/2021). Learn more about other OpenInfra projects and how you can get involved.
