@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Airship 2021 Annual Report
 author: Ildiko Vancsa
-date: 2021-01-26T16:25:22.785Z
+date: 2022-01-26T16:25:22.785Z
 category:
   - label: News & Announcements
     value: category-A7fnZYrE1
