@@ -92,7 +92,7 @@ export const SupportersPageTemplate = ({ seo, title, subTitle, content, introTex
                 <br/><br/><br/>
                 <div className="container1"><h2 className="features">{supporters.title}</h2>
                 </div>
-                <div className="container container-center">
+                <div className="container container-center container-center-sponsors">
                   {
                     supportersList.map((d, listIndex) => {
                       return(                    
@@ -119,7 +119,7 @@ export const SupportersPageTemplate = ({ seo, title, subTitle, content, introTex
                 <div className="container1">
                   <h2 className="features">{contributors.title}</h2>
                 </div>
-                <div className="container container-center">
+                <div className="container container-center container-center-sponsors">
                   {
                     contributorsList.map((d, listIndex) => {
                       return(                    
