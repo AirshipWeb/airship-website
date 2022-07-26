@@ -4,6 +4,11 @@
 [build.environment]
   YARN_VERSION = "1.13.0"
   YARN_FLAGS = "--no-ignore-optional"
+# Deploy Preview context: all deploys resulting from a pull/merge request will
+# inherit these settings.
+[context.deploy-preview.environment]
+  GATSBY_API_BASE_URL = "https://testresource-server.openstack.org"  
+  GATSBY_SPONSORED_PROJECT_ID = "2"  
 [[redirects]]
   from = "/slack"
   to = "https://join.slack.com/t/airshipit/shared_invite/zt-ec2r6ip0-Pk6tX4skfsHLscXMq08Zpw"
